@@ -1,7 +1,8 @@
 <template>
   <v-container>
-    <h1>災害支援ナビゲーターQ&A</h1><span class="text-sm-right float-right">powered by Civic Tech Sodegaura</span>
-    <v-row class="mt-4" wrap>
+    <h1>災害支援ナビゲーターQ&A</h1>
+    <div class="text-sm-right">powered by Civic Tech Sodegaura</div>
+    <v-container class="mt-4 float-none" wrap>
       <transition-group tag="div" name="vue-anime-list" class="layout row wrap" else>
         <QA v-for="(qa,i) in QAs"
           v-bind:key="qa[0]"
@@ -12,7 +13,7 @@
           @rewind="onRewind"
         />
       </transition-group>
-    </v-row>
+    </v-container>
     <h2 class="mt-4">質問</h2>
     <Q v-if="Question"
       @answered="onAnswered"
@@ -21,7 +22,7 @@
       v-bind:option="selection"
     />
     <h2 class="mt-4">受けられる支援</h2>
-    <v-row wrap>
+    <v-container wrap>
       <div v-if="!Services.length">
         質問に答えると受けられる可能性のある支援が表示されます。
       </div>
@@ -35,7 +36,7 @@
           v-bind:description="service[5]"
         />
       </transition-group>
-    </v-row>
+    </v-container>
   </v-container>
 </template>
 
@@ -132,9 +133,29 @@ export default {
   .v-application {
     font-family: "Open Sans";
   }
+
   .headline {
     font-family: "Open Sans" !important;
   }
 
+  .vue-anime-list-enter-active {
+    animation: fadeInUp .7s;
+    animation-delay: .4s;
+    opacity: 0;
+  }
+
+  @keyframes fadeInUp {
+    0% {
+      transform: translateY(60px);
+      opacity: 0;
+    }
+    60% {
+      opacity: .3;
+    }
+    100% {
+      transform: translateY(0px);
+      opacity: 1;
+    }
+  }
 </style>
 
