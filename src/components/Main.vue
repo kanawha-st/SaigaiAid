@@ -2,6 +2,7 @@
   <v-container>
     <h1>災害支援ナビゲーターQ&A</h1>
     <div class="text-sm-right">powered by Civic Tech Sodegaura</div>
+    本サービスで紹介している支援内容は2019年の台風15号被害に基づくものです。災害により適用される法律や制度が異なるため、他の災害では使えない制度もございます。
     <v-container class="mt-4 float-none" wrap>
       <transition-group tag="div" name="vue-anime-list" class="layout row wrap" else>
         <QA v-for="(qa,i) in QAs"
@@ -68,7 +69,6 @@ export default {
     this.answers = new Set();
     this.Question = QData[0];
     QData.forEach(function(q,i){ q.push(i); });
-    console.log(QData);
   },
 
   methods: {
@@ -115,7 +115,6 @@ export default {
     },
 
     onRewind: function(index, scan) {
-      console.log("REWIND", index, scan);
       this.QAs = this.QAs.slice(0, index);
       let ans = this.QAs.map( function(qa){ return `${qa[0]}=${qa[1]}`;} );
 
