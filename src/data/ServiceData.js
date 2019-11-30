@@ -3,7 +3,7 @@ export default [
    ["賃貸型応急住宅","家屋被災=はい","","市（都市整備課）","https://www.city.sodegaura.lg.jp/soshiki/toshi/tintaigataoukyuuzyuutaku.html","災害により住宅に甚大な被害を受けられた方に、応急仮設住宅として民間賃貸住宅を借り上げて提供します。"],
    ["災害見舞金","家屋被災=はい","","市（地域福祉課）・県","https://www.city.sodegaura.lg.jp/soshiki/chiiki/syakaienngo.html","住宅または人が被害を受けた世帯または世帯員に対して見舞金を支給しています。"],
    ["児童扶養手当の特例","家屋被災=はい","","市（子育て支援課）・県","https://www.city.sodegaura.lg.jp/soshiki/kosodate/zidouhuyouteatetokureisoti.html","住宅・家財等の財産についてその価格のおおむね2分の1以上の損害を受けた場合は、児童扶養手当について所得制限の特例措置の適用を受けられる場合があります。"],
-　 ["被災者生活再建支援制度","損壊状況=全壊,損壊状況=半壊","","市（地域福祉課）","http://www.bousai.go.jp/taisaku/seikatsusaiken/pdf/140612gaiyou.pdf","災害により居住する住宅が全壊するなど、生活基盤に著しい被害を受けた世帯に対して支援金を支給します。"],
+    ["被災者生活再建支援制度","損壊状況=全壊,損壊状況=半壊","","市（地域福祉課）","http://www.bousai.go.jp/taisaku/seikatsusaiken/pdf/140612gaiyou.pdf","災害により居住する住宅が全壊するなど、生活基盤に著しい被害を受けた世帯に対して支援金を支給します。"],
    ["災害援護資金貸付","損壊状況=全壊,損壊状況=半壊,世帯主怪我=はい","","市（地域福祉課）","https://www.city.sodegaura.lg.jp/soshiki/chiiki/saigaienngosikinn.html","世帯主が負傷したり、住宅や家財等に被害があった世帯に資金の貸付を行うことで、生活の再建を支援します。"],
    ["被災ローン減免制度","ローン=はい","","各金融機関・弁護士","https://www.chiba-ben.or.jp/soudan/consultation/saigai.html#01","現預金や生活再建支援金・義援金などを手元に残した上で、残ローンの減免を受けられる場合があります。"],
    ["災害復興住宅融資","損壊状況=全壊,損壊状況=半壊","","住宅金融支援機構","https://www.jhf.go.jp/loan/yushi/info/saigai.html","災害で住宅が「全壊」、「大規模半壊」または「半壊」した旨の「り災証明書」を交付されている方が利用できる住宅復旧のための建設資金または購入資金に対する融資です。"],
