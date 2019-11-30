@@ -34,13 +34,13 @@ Conditions are shown as following.
 Q1=YES // answered YES on Q1. NO SPACE ALLOWED
 
 # OR Conditions
-Q1=YES,Q2=YES // answerd YES on Q1 or YES on Q2
+Q1=YES,Q2=YES // answered YES on Q1 or YES on Q2
 
 # AND Conditions
-Q1=YES/Q2=YES // answerd YES on Q1 and YES on Q2
+Q1=YES/Q2=YES // answered YES on Q1 and YES on Q2
 
 # Composit
-Q1=YES/Q2=YES,Q2=NO // answerd (YES on Q1 and YES on Q2) OR (NO on Q2). 
+Q1=YES/Q2=YES,Q2=NO // answered (YES on Q1 and YES on Q2) OR (NO on Q2). 
 ```
 
 # Howto Use
