@@ -4,7 +4,7 @@
     <div class="text-sm-right">powered by Civic Tech Sodegaura</div>
     本サービスで紹介している支援内容は2019年の台風15号被害に基づくものです。災害により適用される法律や制度が異なるため、他の災害では使えない制度もございます。
     <v-container class="mt-4 float-none" wrap>
-      <transition-group tag="div" name="vue-anime-list" class="layout row wrap" else>
+      <transition-group tag="div" name="vue-anime-list" class="d-flex flex-wrap layout row wrap" else>
         <QA v-for="(qa,i) in QAs"
           v-bind:key="qa[0]"
           v-bind:answer="qa[1]"
@@ -27,7 +27,7 @@
       <div v-if="!Services.length">
         質問に答えると受けられる可能性のある支援が表示されます。
       </div>
-      <transition-group tag="div" name="vue-anime-list" class="layout row wrap" else>
+      <transition-group tag="div" name="vue-anime-list" class="d-flex flex-wrap layout row wrap" else>
         <Service v-for="service in Services"
           v-bind:key="service[0]"
           v-bind:title="service[0]"

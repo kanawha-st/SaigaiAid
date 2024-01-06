@@ -1,6 +1,7 @@
 <template>
   <v-card
     class="mx-auto"
+    elevation="6"
     shaped
   >
     <v-card-title class="headline mb-1">
@@ -12,8 +13,8 @@
       選択してください
     </v-card-title>
     <v-card-actions>
-      <v-list-item-group v-model="option" class="ml-2" row>
-        <v-list-item v-for="(opt,i) in options" v-bind:key="opt" v-bind:value="opt" v-on:click="answered(opt)">
+      <v-list-item-group v-model="option" class="w-100 mt-3 ml-2 justify-center">
+        <v-list-item v-for="opt in options" v-bind:key="opt" v-bind:value="opt" v-on:click="answered(opt)">
           <v-list-item-content>
             <v-list-item-title class="headline mb-1" v-text="opt"></v-list-item-title>
           </v-list-item-content>
