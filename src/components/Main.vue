@@ -55,12 +55,12 @@
 </template>
 
 <script>
-import QA from "./QA";
-import Q from "./Q";
-import Service from "./Service";
-import QData from "../data/QData";
-import ServiceData from "../data/ServiceData";
-import ServiceUrlData from "../data/ServiceUrlData";
+import QA from './QA';
+import Q from './Q';
+import Service from './Service';
+import QData from '../data/QData';
+import ServiceData from '../data/ServiceData';
+import ServiceUrlData from '../data/ServiceUrlData';
 
 export default {
   components: {
