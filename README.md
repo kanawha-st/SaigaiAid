@@ -9,7 +9,7 @@ This webpacked program is to construct a simple system showing available service
 * vue
 
 # DataFile
-## Questions Data (./src/data/Qdata.js)
+## Questions Data (./src/data/QData.js)
 ```
 // each row consits of ["name", "conditions", "options", "question"]
 export default [
@@ -18,13 +18,24 @@ export default [
   ...
 ];
 ```
-## Service Data (./src/data/Servicedata.js)
+## Service Data (./src/data/ServiceData.js)
 ```
-// each row consits of ["name", "conditions", "additional state", "who", "url", "description"]
+// each row consits of {"name", "conditions", "additional_state", "who", "additional_url_key", "description"}
 export default [
-  ["Service1", "Q1=YES", "", "City", "https://city.gov", "service by your city"],
-  ["Service2", "Q1=NO", "", "Town", "https://town.gov", "service by your town"],
+  {name:"Service1", conditions:"Q1=YES", additional_state:"", who:"City", additional_url_key:"", description:"service by your city"},
+  {name:"Service2", conditions:"Q1=NO", additional_state:"", who:"Town", additional_url_key:"", description:"service by your town"},
+  {name:"Service3", conditions:"Q2=YES", additional_state:"", who:"Village", additional_url_key:"Q1", description:"service by your town"},
 ];
+```
+
+## Service URL Data (./src/data/ServiceUrlData.js)
+```
+export default new Map([
+  ["Service1", "https://city.gov"],
+  ["Service2", "https://town.gov"],
+  ["Service3|YES", "https://a.village.gov"],
+  ["Service3|NO", "https://b.village.gov"]
+]);
 ```
 
 ## About Conditions
