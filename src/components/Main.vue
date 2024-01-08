@@ -110,19 +110,21 @@ export default {
 
       // Setting URL.
       this.Services.forEach((service) => {
-        const serviceUrls = ServiceUrlData.filter((serviceUrl) => {
-          return (
-            serviceUrl.name === service.name &&
-            self.matchCondition(serviceUrl.conditions)
-          );
-        });
+        const serviceUrls = ServiceUrlData.get(service.name);
+        if (!serviceUrls || serviceUrls.length === 0) {
+          console.warn("Service url not registered. name=" + service.name);
+          return;
+        }
         // TODO: Currently, we simply choose the longest length of `conditions`.
         // If you want to do something more complicated, you need to modify this.
         service.url = serviceUrls.reduce((maxElement, currentElement) => {
-          return currentElement.conditions.length > maxElement.conditions.length
+          if (!self.matchCondition(currentElement.conditions)) {
+            return maxElement;
+          }
+          return (maxElement === null || currentElement.conditions.length > maxElement.conditions.length)
             ? currentElement
             : maxElement;
-        })?.url;
+        }, null)?.url;
       });
     },
 
