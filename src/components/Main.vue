@@ -116,9 +116,10 @@ export default {
     },
 
     getAnswer: function(question) {
+      const key = question + '=';
       for (const answer of this.answers) {
-        if (answer.startsWith(question)) {
-          return answer.substring(question.length + 1);
+        if (answer.startsWith(key)) {
+          return answer.substring(key.length);
         }
       }
       return null;
