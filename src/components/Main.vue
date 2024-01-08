@@ -44,7 +44,7 @@
           v-for="service in Services"
           v-bind:key="service.name"
           v-bind:title="service.name"
-          v-bind:TBD="service.addtional_state"
+          v-bind:TBD="service.additional_state"
           v-bind:servicer="service.who"
           v-bind:url="service.url"
           v-bind:description="service.description"
@@ -110,22 +110,18 @@ export default {
 
       // Setting URL.
       this.Services.forEach((service) => {
-        const serviceUrls = ServiceUrlData.get(service.name);
-        if (!serviceUrls || serviceUrls.length === 0) {
-          console.warn("Service url not registered. name=" + service.name);
-          return;
-        }
-        // TODO: Currently, we simply choose the longest length of `conditions`.
-        // If you want to do something more complicated, you need to modify this.
-        service.url = serviceUrls.reduce((maxElement, currentElement) => {
-          if (!self.matchCondition(currentElement.conditions)) {
-            return maxElement;
-          }
-          return (maxElement === null || currentElement.conditions.length > maxElement.conditions.length)
-            ? currentElement
-            : maxElement;
-        }, null)?.url;
+        const serviceName = service.additional_url_key ? `${service.name}|${self.getAnswer(service.additional_url_key)}` : service.name;
+        service.url = ServiceUrlData.get(serviceName);
       });
+    },
+
+    getAnswer: function(question) {
+      for (const answer of this.answers) {
+        if (answer.startsWith(question)) {
+          return answer.substring(question.length + 1);
+        }
+      }
+      return null;
     },
 
     nextQ: function() {
