@@ -7,9 +7,9 @@
       </v-toolbar-title>
     </v-app-bar>
 
-    <v-content>
+    <v-container>
       <Main/>
-    </v-content>
+    </v-container>
     本サービスで紹介している支援内容は2019年の台風15号被害に基づくものです。災害により適用される法律や制度が異なるため、他の災害では使えない制度もございます
   </v-app>
 </template>

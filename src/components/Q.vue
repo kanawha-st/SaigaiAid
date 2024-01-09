@@ -13,13 +13,9 @@
       選択してください
     </v-card-title>
     <v-card-actions>
-      <v-list-item-group v-model="option" class="w-100 mt-3 ml-2 justify-center">
-        <v-list-item v-for="opt in options" v-bind:key="opt" v-bind:value="opt" v-on:click="answered(opt)">
-          <v-list-item-content>
-            <v-list-item-title class="headline mb-1" v-text="opt"></v-list-item-title>
-          </v-list-item-content>
-        </v-list-item>
-      </v-list-item-group>
+      <v-container v-model="option" class="mt-3 ml-2 justify-center d-flex flex-row flex-wrap">
+        <v-btn v-for="opt in options" v-bind:key="opt" v-bind:value="opt" v-on:click="answered(opt)" v-text="opt" variant="outlined"></v-btn>
+      </v-container>
     </v-card-actions>
   </v-card>
 </template>

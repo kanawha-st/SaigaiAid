@@ -1,7 +1,7 @@
 <template>
   <v-card
     shaped
-    class="green lighten-5 mt-1"
+    class="green lighten-5 mt-2 me-2"
     max-width="360"
   >
     <v-card-title class="mb-1 .display-2 .font-weight-bold">{{ title }}</v-card-title>
