@@ -45,7 +45,11 @@ module.exports = {
 
 工事中
 
-### サービスファイル(src/data/Services.js)の更新
+### サービスファイル(src/data/ServiceData.js)の更新
+
+工事中
+
+### サービスURLファイル(src/data/ServiceURLData.js)の更新
 
 工事中
 
