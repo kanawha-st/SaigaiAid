@@ -141,6 +141,8 @@ export default {
       let Q = QData[this.current];
       this.QAs.push([Q[0], opt, Q[3], Q[4]]);
       let answer = `${Q[0]}=${opt}`;
+      
+      localStorage.setItem('QAs', JSON.stringify(this.QAs));
       this.answers.add(answer);
 
       this.Question = this.nextQ();
@@ -159,6 +161,18 @@ export default {
       this.Question = QData[this.current];
       this.updateServices();
     },
+  },
+  mounted: function() {
+    const QAs = localStorage.getItem('QAs');
+    if (QAs) {
+      this.QAs = JSON.parse(QAs);
+      this.answers = new Set(this.QAs.map(function(qa) {
+        return `${qa[0]}=${qa[1]}`;
+      }));
+      this.current = this.QAs[this.QAs.length - 1][3];
+      this.Question = this.nextQ();
+      this.updateServices();
+    }
   },
 };
 </script>
