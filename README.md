@@ -30,6 +30,8 @@ export default [
 
 ## Service URL Data (./src/data/ServiceUrlData.js)
 ```
+// each row consits of ["name", "url"];
+// The format of name is `servicename` or `servicename|additional_url_key's answer`
 export default new Map([
   ["Service1", "https://city.gov"],
   ["Service2", "https://town.gov"],
