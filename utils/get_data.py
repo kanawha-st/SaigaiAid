@@ -23,8 +23,8 @@ questions = [
         row[3].strip()
     ] for row in rows[1:]
 ]
-Path('data').mkdir(exist_ok=True)
-Path('data/QData.js').write_text(f"export default {json.dumps(questions, indent=2, ensure_ascii=False)};", encoding='utf-8')
+Path('src/data').mkdir(exist_ok=True)
+Path('src/data/QData.js').write_text(f"export default {json.dumps(questions, indent=2, ensure_ascii=False)};", encoding='utf-8')
     
 
 rows = sh.get_worksheet(1).get_all_values()
@@ -39,7 +39,7 @@ services = [
     } for row in rows[1:]
 ]
 print('services:', services)
-Path('data/ServiceData.js').write_text(f"export default {json.dumps(services, indent=2, ensure_ascii=False)};", encoding='utf-8')
+Path('src/data/ServiceData.js').write_text(f"export default {json.dumps(services, indent=2, ensure_ascii=False)};", encoding='utf-8')
 
 rows = sh.get_worksheet(2).get_all_values()
 URLs = dict([(row[0],row[1]) for row in rows[1:]])
@@ -50,4 +50,4 @@ for row in rows[2:]:
     for i, key in enumerate(keys):
         URLs[f"{key}|{row[1]}"] = row[i+2]
 print('URLs:', URLs)
-Path('data/ServiceUrlData.js').write_text(f"export default {json.dumps(URLs, indent=2, ensure_ascii=False)};", encoding='utf-8')
+Path('src/data/ServiceUrlData.js').write_text(f"export default {json.dumps(URLs, indent=2, ensure_ascii=False)};", encoding='utf-8')

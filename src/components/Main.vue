@@ -1,11 +1,11 @@
 <template>
   <v-container>
-    <h1>災害支援ナビゲーター</h1>
+    <h1>災害支援ナビゲーター(テスト版)</h1>
     <h2>R6能登半島沖地震版</h2>
     <div class="text-sm-right">powered by Civic Tech Sodegaura</div>
     <p>本サービスで紹介している支援内容はボランティアにより調査されたものです。</p>
     <p>できる限り正確な情報に気をつけていますが、必ずしもサービスが受けられることを保証するものではないことをご了承ください。</p>
-    <p>回答済みの答えをクリックすると質問を巻き戻すことができます。</p>
+    <p>回答をクリックすると質問を巻き戻すことができます。</p>
     <v-container class="mt-4 float-none" wrap>
       <transition-group
         tag="div"
@@ -35,7 +35,7 @@
     <h2 class="mt-4">受けられる支援</h2>
     <v-container wrap>
       <div v-if="!Services.length">
-        質問に答えると受けられる可能性のある支援が表示されます。
+        居住地を答えた後、質問に答えていくと受けられる可能性のある支援が表示されます。
       </div>
       <transition-group
         tag="div"
