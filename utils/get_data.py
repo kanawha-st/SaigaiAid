@@ -17,10 +17,10 @@ sh = gc.open_by_key(spreadsheet_id)
 rows = sh.get_worksheet(0).get_all_values()
 questions = [
     [
-        row[0],
-        row[1],
-        row[2].split(','),
-        row[3]
+        row[0].strip(),
+        row[1].strip(),
+        row[2].strip().split(','),
+        row[3].strip()
     ] for row in rows[1:]
 ]
 Path('data').mkdir(exist_ok=True)
@@ -30,12 +30,12 @@ Path('data/QData.js').write_text(f"export default {json.dumps(questions, indent=
 rows = sh.get_worksheet(1).get_all_values()
 services = [
     {
-        'name': row[0],
-        'conditions': row[1],
-        'additional_state': row[3],
-        'who': row[4],
-        'additional_url_key': row[5],
-        'description': row[6]
+        'name': row[0].strip(),
+        'conditions': row[1].strip(),
+        'additional_state': row[3].strip(),
+        'who': row[4].strip(),
+        'additional_url_key': row[5].strip(),
+        'description': row[6].strip()
     } for row in rows[1:]
 ]
 print('services:', services)
