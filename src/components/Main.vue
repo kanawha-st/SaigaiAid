@@ -111,7 +111,7 @@ export default {
       // Setting URL.
       this.Services.forEach((service) => {
         const serviceName = service.additional_url_key ? `${service.name}|${self.getAnswer(service.additional_url_key)}` : service.name;
-        service.url = ServiceUrlData.get(serviceName);
+        service.url = ServiceUrlData[serviceName];
       });
     },
 
