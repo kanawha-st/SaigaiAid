@@ -21,7 +21,7 @@
         />
       </transition-group>
     </v-container>
-    <h2 class="mt-4">質問</h2>
+    <h2 class="mt-4" ref="qtitle">質問</h2>
     <Q
       v-if="Question"
       @answered="onAnswered"
@@ -160,6 +160,7 @@ export default {
       this.Question = this.nextQ();
       this.selection = null;
       this.updateServices();
+      this.$refs.qtitle.scrollIntoView({behavior: 'smooth'}); 
     },
 
     onRewind: function(index, scan) {
