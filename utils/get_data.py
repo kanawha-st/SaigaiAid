@@ -39,15 +39,17 @@ services = [
     } for row in rows[1:]
 ]
 print('services:', services)
+
+
 Path('src/data/ServiceData.js').write_text(f"export default {json.dumps(services, indent=2, ensure_ascii=False)};", encoding='utf-8')
 
 rows = sh.get_worksheet(2).get_all_values()
-URLs = dict([(row[0],row[1]) for row in rows[1:]])
+URLs = [[row[0],row[1]] for row in rows[1:]]
 
 rows = sh.get_worksheet(3).get_all_values()
 keys = rows[0][2:]
 for row in rows[2:]:
     for i, key in enumerate(keys):
-        URLs[f"{key}|{row[1]}"] = row[i+2]
+        URLs.append([f"{key}|{row[1]}", row[i+2]]);
 print('URLs:', URLs)
-Path('src/data/ServiceUrlData.js').write_text(f"export default {json.dumps(URLs, indent=2, ensure_ascii=False)};", encoding='utf-8')
+Path('src/data/ServiceUrlData.js').write_text(f"export default new Map({json.dumps(URLs, indent=2, ensure_ascii=False)});", encoding='utf-8')

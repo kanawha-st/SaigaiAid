@@ -26,7 +26,6 @@ export default {
 
   methods: {
     answered: function(opt) {
-      console.log("--------", opt);
       this.$emit('answered', opt);
     },
   }
