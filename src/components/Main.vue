@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <h1>災害支援ナビゲーター(テスト版)</h1>
-    <h2>R6能登半島沖地震版</h2>
+    <h2>令和6年能登半島沖地震版</h2>
     <div class="text-sm-right">powered by Civic Tech Sodegaura</div>
     <p>本サービスで紹介している支援内容はボランティアにより調査されたものです。</p>
     <p>できる限り正確な情報に気をつけていますが、必ずしもサービスが受けられることを保証するものではないことをご了承ください。</p>
@@ -32,7 +32,7 @@
       v-bind:options="Question[2]"
       v-bind:option="selection"
     />
-    <h2 class="mt-4">受けられる支援</h2>
+    <h2 class="mt-4">受けられる支援 {{ Services.length }}</h2>
     <v-container wrap>
       <div v-if="!Services.length">
         居住地を答えた後、質問に答えていくと受けられる可能性のある支援が表示されます。
