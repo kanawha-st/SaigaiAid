@@ -146,9 +146,9 @@ export default {
     onAnswered: function(opt) {
       let Q = QData[this.current];
       this.QAs.push([Q[0], opt, Q[3], Q[4]]);
-      let answer = `${Q[0]}=${opt}`;
-      
       localStorage.setItem('QAs', JSON.stringify(this.QAs));
+
+      let answer = `${Q[0]}=${opt}`;
       this.answers.add(answer);
 
       this.Question = this.nextQ();
@@ -158,6 +158,8 @@ export default {
 
     onRewind: function(index, scan) {
       this.QAs = this.QAs.slice(0, index);
+      localStorage.setItem('QAs', JSON.stringify(this.QAs));
+  
       let ans = this.QAs.map(function(qa) {
         return `${qa[0]}=${qa[1]}`;
       });
@@ -172,6 +174,9 @@ export default {
     const QAs = localStorage.getItem('QAs');
     if (QAs) {
       this.QAs = JSON.parse(QAs);
+      if (this.QAs.length === 0) {
+        return;
+      }
       this.answers = new Set(this.QAs.map(function(qa) {
         return `${qa[0]}=${qa[1]}`;
       }));
