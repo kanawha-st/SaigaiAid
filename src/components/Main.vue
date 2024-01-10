@@ -33,6 +33,11 @@
       v-bind:option="selection"
     />
     <h2 class="mt-4">受けられる可能性のある支援 {{ Services.length }}</h2>
+    <v-btn
+      v-if="Services.length"
+      v-on:click="exportToPdf()"
+      text="PDFに保存"
+    />
     <v-container wrap>
       <div v-if="!Services.length">
         居住地を答えた後、質問に答えていくと受けられる可能性のある支援が表示されます。
@@ -64,6 +69,7 @@ import Service from './Service';
 import QData from '../data/QData';
 import ServiceData from '../data/ServiceData';
 import ServiceUrlData from '../data/ServiceUrlData';
+import html2pdf from 'html2pdf.js';
 
 export default {
   components: {
@@ -170,6 +176,15 @@ export default {
       this.Question = QData[this.current];
       this.updateServices();
     },
+    exportToPdf:function(){
+      html2pdf(document.body, {
+        margin:       1,
+        filename:     '災害支援ナビゲーター.pdf',
+        image:        { type: 'jpeg', quality: 0.98 },
+        html2canvas:  { dpi: 192, letterRendering: true },
+        jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' }
+      })
+    }
   },
   mounted: function() {
     const QAs = localStorage.getItem('QAs');
