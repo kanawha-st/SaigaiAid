@@ -29,7 +29,7 @@
       v-bind:options="Question[2]"
       v-bind:option="selection"
     />
-    <h2 class="mt-4">受けられる支援</h2>
+    <h2 class="mt-4">受けられる可能性のある支援 {{ Services.length }}</h2>
     <v-container wrap>
       <div v-if="!Services.length">
         質問に答えると受けられる可能性のある支援が表示されます。
@@ -111,7 +111,13 @@ export default {
       // Setting URL.
       this.Services.forEach((service) => {
         const serviceName = service.additional_url_key ? `${service.name}|${self.getAnswer(service.additional_url_key)}` : service.name;
-        service.url = ServiceUrlData[serviceName];
+        let url = ServiceUrlData.get(serviceName);
+        let who = service.who;
+        if(url && url.includes("@")){
+          [who, url] = url.split("@");
+          service.who = who;
+        }
+        service.url = url
       });
     },
 

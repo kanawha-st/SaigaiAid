@@ -1,5 +1,5 @@
 export default new Map([
-  ["test|A", "https://sampleA"],
+  ["test|A", "overwritten PIC@https://sampleA"],
   ["test|B", "https://sampleB"],
   ["公営住宅", "https://www.city.sodegaura.lg.jp/soshiki/toshi/hisaikeneijuutaku.html"],
   ["賃貸型応急住宅", "https://www.city.sodegaura.lg.jp/soshiki/toshi/tintaigataoukyuuzyuutaku.html"],
