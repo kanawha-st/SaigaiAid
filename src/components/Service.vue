@@ -10,7 +10,7 @@
       <span v-else class="headline mb-1">{{ servicer || url }}</span>
       <span v-if="TBD" class="ml-5 text-red-lighten-1"><br>※{{ TBD }}</span>
     </v-card-subtitle>
-    <v-card-text>{{ description }}</v-card-text>
+    <v-card-text v-html="description"></v-card-text>
   </v-card>
 </template>
 
