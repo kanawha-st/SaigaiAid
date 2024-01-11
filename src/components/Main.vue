@@ -85,6 +85,9 @@ export default {
     Question: null,
     Services: [],
     selection: null,
+    allServices: [],
+    allQuestions: [],
+
   }),
 
   created: function() {
@@ -94,6 +97,7 @@ export default {
       q.push(i);
     });
   },
+  
 
   methods: {
     matchCondition: function(condition) {
@@ -111,9 +115,9 @@ export default {
     updateServices: function() {
       this.Services = [];
       let self = this;
-      ServiceData.forEach(function(service) {
+      this.allServices.forEach(function(service) {
         if (self.matchCondition(service.conditions)) {
-          self.Services.unshift(service);
+          self.Services.unshift(Object.assign({}, service));
         }
       });
 
@@ -128,6 +132,10 @@ export default {
         }
         service.url = url
       });
+      
+      this.Services = this.Services.filter((service) => {
+        return service.url != "N/A";
+      });
     },
 
     getAnswer: function(question) {
@@ -141,19 +149,19 @@ export default {
     },
 
     nextQ: function() {
-      for (let i = this.current + 1; i < QData.length; i++) {
-        let Q = QData[i];
+      for (let i = this.current + 1; i < this.allQuestions.length; i++) {
+        let Q = this.allQuestions[i];
         if (this.matchCondition(Q[1])) {
           this.current = i;
           return Q;
         }
       }
-      this.current = QData.length; // end of question
+      this.current = this.allQuestions.length; // end of question
       return null;
     },
 
     onAnswered: function(opt) {
-      let Q = QData[this.current];
+      let Q = this.allQuestions[this.current];
       this.QAs.push([Q[0], opt, Q[3], Q[4]]);
       localStorage.setItem('QAs', JSON.stringify(this.QAs));
 
@@ -176,7 +184,7 @@ export default {
 
       this.answers = new Set(ans);
       this.current = scan;
-      this.Question = QData[this.current];
+      this.Question = this.allQuestions[this.current];
       this.updateServices();
     },
     exportToPdf:function(){
@@ -190,6 +198,18 @@ export default {
     }
   },
   mounted: function() {
+    function sanitize(html){
+      return html.replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll("\n", '<br>');
+    }
+    this.allQuestions = QData.map(function(q) {
+      q[3] = sanitize(q[3]);
+      return q;
+    });
+    this.allServices = ServiceData.map(function(s) {
+      s.description = sanitize(s.description);
+      return s;
+    });
+
     const QAs = localStorage.getItem('QAs');
     if (QAs) {
       this.QAs = JSON.parse(QAs);

@@ -6,7 +6,7 @@
   >
     <v-card-text class="headline mb-1 d-flex flex-row justify-center align-end" >
       <img src="../assets/Q.svg" width="40" class="mr-2"/>
-      <div class="Q">{{ question }}</div> 
+      <div class="Q" v-html="question"></div>
     </v-card-text>
     <v-card-actions>
       <v-container v-model="option" class="mt-3 ml-2 justify-center d-flex flex-row flex-wrap">
@@ -28,7 +28,7 @@ export default {
     answered: function(opt) {
       this.$emit('answered', opt);
     },
-  }
+  },
 }
 
 </script>
