@@ -114,7 +114,7 @@ export default {
       let self = this;
       this.allServices.forEach(function(service) {
         if (self.matchCondition(service.conditions)) {
-          self.Services.unshift(service);
+          self.Services.unshift(Object.assign({}, service));
         }
       });
 
@@ -128,6 +128,10 @@ export default {
           service.who = who;
         }
         service.url = url
+      });
+      
+      this.Services = this.Services.filter((service) => {
+        return service.url != "N/A";
       });
     },
 
@@ -202,7 +206,6 @@ export default {
       s.description = sanitize(s.description);
       return s;
     });
-    console.log(this.allQuestions);
 
     const QAs = localStorage.getItem('QAs');
     if (QAs) {
