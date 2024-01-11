@@ -36,6 +36,10 @@ export default new Map([
     "https://www.nhk-cs.jp/pid99/osk/000000/000076326.pdf"
   ],
   [
+    "お住まいの自治体以外の公営住宅",
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+  ],
+  [
     "ポータル|富山市",
     "https://www.city.toyama.toyama.jp/"
   ],
@@ -45,7 +49,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|富山市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|富山市",
@@ -68,7 +72,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|富山市",
+    "住宅の被害の拡大を防止するための緊急の修理|富山市",
     ""
   ],
   [
@@ -140,6 +144,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|富山市",
+    ""
+  ],
+  [
     "ポータル|高岡市",
     "https://www.city.takaoka.toyama.jp/"
   ],
@@ -149,7 +157,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|高岡市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|高岡市",
@@ -172,7 +180,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|高岡市",
+    "住宅の被害の拡大を防止するための緊急の修理|高岡市",
     ""
   ],
   [
@@ -244,6 +252,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|高岡市",
+    ""
+  ],
+  [
     "ポータル|魚津市",
     "https://www.city.uozu.toyama.jp/"
   ],
@@ -253,7 +265,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|魚津市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|魚津市",
@@ -276,7 +288,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|魚津市",
+    "住宅の被害の拡大を防止するための緊急の修理|魚津市",
     ""
   ],
   [
@@ -348,6 +360,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|魚津市",
+    ""
+  ],
+  [
     "ポータル|氷見市",
     "https://www.city.himi.toyama.jp/"
   ],
@@ -357,7 +373,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|氷見市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|氷見市",
@@ -380,7 +396,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|氷見市",
+    "住宅の被害の拡大を防止するための緊急の修理|氷見市",
     ""
   ],
   [
@@ -452,6 +468,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|氷見市",
+    ""
+  ],
+  [
     "ポータル|滑川市",
     "https://www.city.namerikawa.toyama.jp/"
   ],
@@ -461,7 +481,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|滑川市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|滑川市",
@@ -484,7 +504,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|滑川市",
+    "住宅の被害の拡大を防止するための緊急の修理|滑川市",
     ""
   ],
   [
@@ -556,6 +576,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|滑川市",
+    ""
+  ],
+  [
     "ポータル|黒部市",
     "https://www.city.kurobe.toyama.jp/"
   ],
@@ -565,7 +589,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|黒部市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|黒部市",
@@ -588,7 +612,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|黒部市",
+    "住宅の被害の拡大を防止するための緊急の修理|黒部市",
     ""
   ],
   [
@@ -660,6 +684,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|黒部市",
+    ""
+  ],
+  [
     "ポータル|砺波市",
     "https://www.city.tonami.toyama.jp/"
   ],
@@ -669,7 +697,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|砺波市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|砺波市",
@@ -692,7 +720,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|砺波市",
+    "住宅の被害の拡大を防止するための緊急の修理|砺波市",
     ""
   ],
   [
@@ -764,6 +792,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|砺波市",
+    ""
+  ],
+  [
     "ポータル|小矢部市",
     "https://www.city.oyabe.toyama.jp/"
   ],
@@ -773,7 +805,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|小矢部市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|小矢部市",
@@ -796,7 +828,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|小矢部市",
+    "住宅の被害の拡大を防止するための緊急の修理|小矢部市",
     ""
   ],
   [
@@ -868,6 +900,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|小矢部市",
+    ""
+  ],
+  [
     "ポータル|南砺市",
     "https://www.city.nanto.toyama.jp/"
   ],
@@ -877,7 +913,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|南砺市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|南砺市",
@@ -900,7 +936,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|南砺市",
+    "住宅の被害の拡大を防止するための緊急の修理|南砺市",
     ""
   ],
   [
@@ -972,6 +1008,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|南砺市",
+    ""
+  ],
+  [
     "ポータル|射水市",
     "https://www.city.imizu.toyama.jp/"
   ],
@@ -981,7 +1021,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|射水市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|射水市",
@@ -1004,7 +1044,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|射水市",
+    "住宅の被害の拡大を防止するための緊急の修理|射水市",
     ""
   ],
   [
@@ -1076,6 +1116,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|射水市",
+    ""
+  ],
+  [
     "ポータル|舟橋村",
     "https://www.vill.funahashi.toyama.jp/"
   ],
@@ -1085,7 +1129,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|舟橋村",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|舟橋村",
@@ -1108,7 +1152,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|舟橋村",
+    "住宅の被害の拡大を防止するための緊急の修理|舟橋村",
     ""
   ],
   [
@@ -1180,6 +1224,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|舟橋村",
+    ""
+  ],
+  [
     "ポータル|上市町",
     "https://www.town.kamiichi.toyama.jp/"
   ],
@@ -1189,7 +1237,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|上市町",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|上市町",
@@ -1212,7 +1260,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|上市町",
+    "住宅の被害の拡大を防止するための緊急の修理|上市町",
     ""
   ],
   [
@@ -1284,6 +1332,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|上市町",
+    ""
+  ],
+  [
     "ポータル|立山町",
     "https://www.town.tateyama.toyama.jp/"
   ],
@@ -1293,7 +1345,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|立山町",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|立山町",
@@ -1316,7 +1368,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|立山町",
+    "住宅の被害の拡大を防止するための緊急の修理|立山町",
     ""
   ],
   [
@@ -1388,6 +1440,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|立山町",
+    ""
+  ],
+  [
     "ポータル|入善町",
     "https://www.town.nyuzen.toyama.jp/"
   ],
@@ -1397,7 +1453,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|入善町",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|入善町",
@@ -1420,7 +1476,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|入善町",
+    "住宅の被害の拡大を防止するための緊急の修理|入善町",
     ""
   ],
   [
@@ -1492,6 +1548,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|入善町",
+    ""
+  ],
+  [
     "ポータル|朝日町",
     "https://www.town.asahi.toyama.jp/"
   ],
@@ -1501,7 +1561,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|朝日町",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|朝日町",
@@ -1524,7 +1584,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|朝日町",
+    "住宅の被害の拡大を防止するための緊急の修理|朝日町",
     ""
   ],
   [
@@ -1596,6 +1656,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|朝日町",
+    ""
+  ],
+  [
     "ポータル|新潟市",
     "https://www.city.niigata.lg.jp/"
   ],
@@ -1628,7 +1692,7 @@ export default new Map([
     "https://www.syakyo-niigatacity.or.jp/consultation/lifecapital#kinkyu"
   ],
   [
-    "災害救助法による応急修理|新潟市",
+    "住宅の被害の拡大を防止するための緊急の修理|新潟市",
     "https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
   ],
   [
@@ -1700,6 +1764,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|新潟市",
+    "https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
+  ],
+  [
     "ポータル|長岡市",
     "https://www.city.nagaoka.niigata.jp/"
   ],
@@ -1732,7 +1800,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|長岡市",
+    "住宅の被害の拡大を防止するための緊急の修理|長岡市",
     ""
   ],
   [
@@ -1804,6 +1872,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|長岡市",
+    ""
+  ],
+  [
     "ポータル|三条市",
     "https://www.city.sanjo.niigata.jp/"
   ],
@@ -1836,7 +1908,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|三条市",
+    "住宅の被害の拡大を防止するための緊急の修理|三条市",
     ""
   ],
   [
@@ -1908,8 +1980,12 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|三条市",
+    ""
+  ],
+  [
     "ポータル|柏崎市",
-    "https://www.city.kashiwazaki.niigata.jp/"
+    "https://www.city.kashiwazaki.lg.jp/index.html"
   ],
   [
     "公営住宅|柏崎市",
@@ -1940,7 +2016,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|柏崎市",
+    "住宅の被害の拡大を防止するための緊急の修理|柏崎市",
     ""
   ],
   [
@@ -2012,8 +2088,12 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|柏崎市",
+    ""
+  ],
+  [
     "ポータル|新発田市",
-    "https://www.city.shibata.niigata.jp/"
+    "https://www.city.shibata.lg.jp/"
   ],
   [
     "公営住宅|新発田市",
@@ -2044,7 +2124,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|新発田市",
+    "住宅の被害の拡大を防止するための緊急の修理|新発田市",
     ""
   ],
   [
@@ -2116,6 +2196,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|新発田市",
+    ""
+  ],
+  [
     "ポータル|小千谷市",
     "https://www.city.ojiya.niigata.jp/"
   ],
@@ -2148,7 +2232,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|小千谷市",
+    "住宅の被害の拡大を防止するための緊急の修理|小千谷市",
     ""
   ],
   [
@@ -2220,6 +2304,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|小千谷市",
+    ""
+  ],
+  [
     "ポータル|加茂市",
     "https://www.city.kamo.niigata.jp/"
   ],
@@ -2252,7 +2340,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|加茂市",
+    "住宅の被害の拡大を防止するための緊急の修理|加茂市",
     ""
   ],
   [
@@ -2324,8 +2412,12 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|加茂市",
+    ""
+  ],
+  [
     "ポータル|十日町市",
-    "https://www.city.tokamachi.niigata.jp/"
+    "https://www.city.tokamachi.lg.jp/index.html"
   ],
   [
     "公営住宅|十日町市",
@@ -2356,7 +2448,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|十日町市",
+    "住宅の被害の拡大を防止するための緊急の修理|十日町市",
     ""
   ],
   [
@@ -2428,6 +2520,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|十日町市",
+    ""
+  ],
+  [
     "ポータル|見附市",
     "https://www.city.mitsuke.niigata.jp/"
   ],
@@ -2460,7 +2556,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|見附市",
+    "住宅の被害の拡大を防止するための緊急の修理|見附市",
     ""
   ],
   [
@@ -2532,6 +2628,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|見附市",
+    ""
+  ],
+  [
     "ポータル|村上市",
     "https://www.city.murakami.lg.jp/"
   ],
@@ -2564,7 +2664,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|村上市",
+    "住宅の被害の拡大を防止するための緊急の修理|村上市",
     ""
   ],
   [
@@ -2636,6 +2736,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|村上市",
+    ""
+  ],
+  [
     "ポータル|燕市",
     "https://www.city.tsubame.niigata.jp/"
   ],
@@ -2668,7 +2772,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|燕市",
+    "住宅の被害の拡大を防止するための緊急の修理|燕市",
     ""
   ],
   [
@@ -2740,8 +2844,12 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|燕市",
+    ""
+  ],
+  [
     "ポータル|糸魚川市",
-    "https://www.city.itoigawa.niigata.jp/"
+    "https://www.city.itoigawa.lg.jp/"
   ],
   [
     "公営住宅|糸魚川市",
@@ -2772,7 +2880,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|糸魚川市",
+    "住宅の被害の拡大を防止するための緊急の修理|糸魚川市",
     ""
   ],
   [
@@ -2844,6 +2952,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|糸魚川市",
+    ""
+  ],
+  [
     "ポータル|妙高市",
     "https://www.city.myoko.niigata.jp/"
   ],
@@ -2876,7 +2988,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|妙高市",
+    "住宅の被害の拡大を防止するための緊急の修理|妙高市",
     ""
   ],
   [
@@ -2948,8 +3060,12 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|妙高市",
+    ""
+  ],
+  [
     "ポータル|五泉市",
-    "https://www.city.gosen.niigata.jp/"
+    "https://www.city.gosen.lg.jp/index.html"
   ],
   [
     "公営住宅|五泉市",
@@ -2980,7 +3096,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|五泉市",
+    "住宅の被害の拡大を防止するための緊急の修理|五泉市",
     ""
   ],
   [
@@ -3052,6 +3168,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|五泉市",
+    ""
+  ],
+  [
     "ポータル|上越市",
     "https://www.city.joetsu.niigata.jp/"
   ],
@@ -3084,7 +3204,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|上越市",
+    "住宅の被害の拡大を防止するための緊急の修理|上越市",
     ""
   ],
   [
@@ -3156,6 +3276,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|上越市",
+    ""
+  ],
+  [
     "ポータル|阿賀野市",
     "https://www.city.agano.niigata.jp/"
   ],
@@ -3188,7 +3312,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|阿賀野市",
+    "住宅の被害の拡大を防止するための緊急の修理|阿賀野市",
     ""
   ],
   [
@@ -3260,6 +3384,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|阿賀野市",
+    ""
+  ],
+  [
     "ポータル|佐渡市",
     "https://www.city.sado.niigata.jp/"
   ],
@@ -3292,7 +3420,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|佐渡市",
+    "住宅の被害の拡大を防止するための緊急の修理|佐渡市",
     ""
   ],
   [
@@ -3364,8 +3492,12 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|佐渡市",
+    ""
+  ],
+  [
     "ポータル|魚沼市",
-    "https://www.city.uonuma.niigata.jp/"
+    "https://www.city.uonuma.lg.jp/"
   ],
   [
     "公営住宅|魚沼市",
@@ -3396,7 +3528,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|魚沼市",
+    "住宅の被害の拡大を防止するための緊急の修理|魚沼市",
     ""
   ],
   [
@@ -3468,6 +3600,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|魚沼市",
+    ""
+  ],
+  [
     "ポータル|南魚沼市",
     "https://www.city.minamiuonuma.niigata.jp/"
   ],
@@ -3500,7 +3636,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|南魚沼市",
+    "住宅の被害の拡大を防止するための緊急の修理|南魚沼市",
     ""
   ],
   [
@@ -3572,6 +3708,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|南魚沼市",
+    ""
+  ],
+  [
     "ポータル|胎内市",
     "https://www.city.tainai.niigata.jp/"
   ],
@@ -3604,7 +3744,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|胎内市",
+    "住宅の被害の拡大を防止するための緊急の修理|胎内市",
     ""
   ],
   [
@@ -3676,6 +3816,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|胎内市",
+    ""
+  ],
+  [
     "ポータル|聖籠町",
     "https://www.town.seiro.niigata.jp/"
   ],
@@ -3708,7 +3852,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|聖籠町",
+    "住宅の被害の拡大を防止するための緊急の修理|聖籠町",
     ""
   ],
   [
@@ -3780,6 +3924,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|聖籠町",
+    ""
+  ],
+  [
     "ポータル|弥彦村",
     "https://www.vill.yahiko.niigata.jp/"
   ],
@@ -3812,7 +3960,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|弥彦村",
+    "住宅の被害の拡大を防止するための緊急の修理|弥彦村",
     ""
   ],
   [
@@ -3884,6 +4032,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|弥彦村",
+    ""
+  ],
+  [
     "ポータル|田上町",
     "https://www.town.tagami.niigata.jp/"
   ],
@@ -3916,7 +4068,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|田上町",
+    "住宅の被害の拡大を防止するための緊急の修理|田上町",
     ""
   ],
   [
@@ -3988,6 +4140,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|田上町",
+    ""
+  ],
+  [
     "ポータル|阿賀町",
     "https://www.town.aga.niigata.jp/"
   ],
@@ -4020,7 +4176,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|阿賀町",
+    "住宅の被害の拡大を防止するための緊急の修理|阿賀町",
     ""
   ],
   [
@@ -4092,6 +4248,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|阿賀町",
+    ""
+  ],
+  [
     "ポータル|出雲崎町",
     "https://www.town.izumozaki.niigata.jp/"
   ],
@@ -4124,7 +4284,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|出雲崎町",
+    "住宅の被害の拡大を防止するための緊急の修理|出雲崎町",
     ""
   ],
   [
@@ -4196,8 +4356,12 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|出雲崎町",
+    ""
+  ],
+  [
     "ポータル|湯沢町",
-    "https://www.town.yuzawa.niigata.jp/"
+    "https://www.town.yuzawa.lg.jp/index.html"
   ],
   [
     "公営住宅|湯沢町",
@@ -4228,7 +4392,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|湯沢町",
+    "住宅の被害の拡大を防止するための緊急の修理|湯沢町",
     ""
   ],
   [
@@ -4300,6 +4464,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|湯沢町",
+    ""
+  ],
+  [
     "ポータル|津南町",
     "https://www.town.tsunan.niigata.jp/"
   ],
@@ -4332,7 +4500,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|津南町",
+    "住宅の被害の拡大を防止するための緊急の修理|津南町",
     ""
   ],
   [
@@ -4404,6 +4572,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|津南町",
+    ""
+  ],
+  [
     "ポータル|刈羽村",
     "https://www.vill.kariwa.niigata.jp/"
   ],
@@ -4436,7 +4608,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|刈羽村",
+    "住宅の被害の拡大を防止するための緊急の修理|刈羽村",
     ""
   ],
   [
@@ -4508,8 +4680,12 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|刈羽村",
+    ""
+  ],
+  [
     "ポータル|関川村",
-    "https://www.vill.sekikawa.niigata.jp/"
+    "http://www.vill.sekikawa.niigata.jp/"
   ],
   [
     "公営住宅|関川村",
@@ -4540,7 +4716,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|関川村",
+    "住宅の被害の拡大を防止するための緊急の修理|関川村",
     ""
   ],
   [
@@ -4612,8 +4788,12 @@ export default new Map([
     ""
   ],
   [
-    "ポータル|粟島浦村",
+    "日常生活に必要な最小限度の部分の修理|関川村",
     ""
+  ],
+  [
+    "ポータル|粟島浦村",
+    "https://www.vill.awashimaura.lg.jp/"
   ],
   [
     "公営住宅|粟島浦村",
@@ -4644,7 +4824,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|粟島浦村",
+    "住宅の被害の拡大を防止するための緊急の修理|粟島浦村",
     ""
   ],
   [
@@ -4716,6 +4896,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|粟島浦村",
+    ""
+  ],
+  [
     "ポータル|金沢市",
     "https://www4.city.kanazawa.lg.jp/"
   ],
@@ -4725,7 +4909,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|金沢市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|金沢市",
@@ -4748,7 +4932,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|金沢市",
+    "住宅の被害の拡大を防止するための緊急の修理|金沢市",
     ""
   ],
   [
@@ -4820,6 +5004,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|金沢市",
+    ""
+  ],
+  [
     "ポータル|七尾市",
     "http://www.city.nanao.lg.jp/"
   ],
@@ -4829,7 +5017,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|七尾市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|七尾市",
@@ -4852,7 +5040,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|七尾市",
+    "住宅の被害の拡大を防止するための緊急の修理|七尾市",
     ""
   ],
   [
@@ -4924,6 +5112,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|七尾市",
+    ""
+  ],
+  [
     "ポータル|小松市",
     "https://www.city.komatsu.lg.jp/"
   ],
@@ -4933,7 +5125,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|小松市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|小松市",
@@ -4956,7 +5148,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|小松市",
+    "住宅の被害の拡大を防止するための緊急の修理|小松市",
     ""
   ],
   [
@@ -5028,6 +5220,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|小松市",
+    ""
+  ],
+  [
     "ポータル|輪島市",
     "https://www.city.wajima.ishikawa.jp/"
   ],
@@ -5037,7 +5233,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|輪島市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|輪島市",
@@ -5060,7 +5256,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|輪島市",
+    "住宅の被害の拡大を防止するための緊急の修理|輪島市",
     ""
   ],
   [
@@ -5132,8 +5328,12 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|輪島市",
+    ""
+  ],
+  [
     "ポータル|珠洲市",
-    "http://www.city.suzu.ishikawa.jp/"
+    "https://www.city.suzu.lg.jp/"
   ],
   [
     "公営住宅|珠洲市",
@@ -5141,7 +5341,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|珠洲市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|珠洲市",
@@ -5164,7 +5364,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|珠洲市",
+    "住宅の被害の拡大を防止するための緊急の修理|珠洲市",
     ""
   ],
   [
@@ -5236,6 +5436,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|珠洲市",
+    ""
+  ],
+  [
     "ポータル|加賀市",
     "https://www.city.kaga.ishikawa.jp/"
   ],
@@ -5245,7 +5449,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|加賀市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|加賀市",
@@ -5268,7 +5472,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|加賀市",
+    "住宅の被害の拡大を防止するための緊急の修理|加賀市",
     ""
   ],
   [
@@ -5340,6 +5544,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|加賀市",
+    ""
+  ],
+  [
     "ポータル|羽咋市",
     "http://www.city.hakui.ishikawa.jp/"
   ],
@@ -5349,7 +5557,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|羽咋市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|羽咋市",
@@ -5372,7 +5580,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|羽咋市",
+    "住宅の被害の拡大を防止するための緊急の修理|羽咋市",
     ""
   ],
   [
@@ -5444,8 +5652,12 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|羽咋市",
+    ""
+  ],
+  [
     "ポータル|かほく市",
-    "https://www.city.kahoku.ishikawa.jp/"
+    "https://www.city.kahoku.lg.jp/"
   ],
   [
     "公営住宅|かほく市",
@@ -5453,7 +5665,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|かほく市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|かほく市",
@@ -5476,7 +5688,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|かほく市",
+    "住宅の被害の拡大を防止するための緊急の修理|かほく市",
     ""
   ],
   [
@@ -5548,8 +5760,12 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|かほく市",
+    ""
+  ],
+  [
     "ポータル|白山市",
-    "https://www.city.hakusan.ishikawa.jp/"
+    "https://www.city.hakusan.lg.jp/"
   ],
   [
     "公営住宅|白山市",
@@ -5557,7 +5773,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|白山市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|白山市",
@@ -5580,7 +5796,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|白山市",
+    "住宅の被害の拡大を防止するための緊急の修理|白山市",
     ""
   ],
   [
@@ -5652,6 +5868,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|白山市",
+    ""
+  ],
+  [
     "ポータル|能美市",
     "https://www.city.nomi.ishikawa.jp/"
   ],
@@ -5661,7 +5881,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|能美市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|能美市",
@@ -5684,7 +5904,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|能美市",
+    "住宅の被害の拡大を防止するための緊急の修理|能美市",
     ""
   ],
   [
@@ -5756,6 +5976,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|能美市",
+    ""
+  ],
+  [
     "ポータル|野々市市",
     "https://www.city.nonoichi.lg.jp/"
   ],
@@ -5765,7 +5989,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|野々市市",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|野々市市",
@@ -5788,7 +6012,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|野々市市",
+    "住宅の被害の拡大を防止するための緊急の修理|野々市市",
     ""
   ],
   [
@@ -5860,6 +6084,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|野々市市",
+    ""
+  ],
+  [
     "ポータル|川北町",
     "http://www.town.kawakita.ishikawa.jp/"
   ],
@@ -5869,7 +6097,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|川北町",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|川北町",
@@ -5892,7 +6120,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|川北町",
+    "住宅の被害の拡大を防止するための緊急の修理|川北町",
     ""
   ],
   [
@@ -5964,8 +6192,12 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|川北町",
+    ""
+  ],
+  [
     "ポータル|津幡町",
-    "https://www.town.tsubata.ishikawa.jp/"
+    "https://www.town.tsubata.lg.jp/"
   ],
   [
     "公営住宅|津幡町",
@@ -5973,7 +6205,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|津幡町",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|津幡町",
@@ -5996,7 +6228,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|津幡町",
+    "住宅の被害の拡大を防止するための緊急の修理|津幡町",
     ""
   ],
   [
@@ -6068,6 +6300,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|津幡町",
+    ""
+  ],
+  [
     "ポータル|内灘町",
     "https://www.town.uchinada.lg.jp/"
   ],
@@ -6077,7 +6313,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|内灘町",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|内灘町",
@@ -6100,7 +6336,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|内灘町",
+    "住宅の被害の拡大を防止するための緊急の修理|内灘町",
     ""
   ],
   [
@@ -6172,6 +6408,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|内灘町",
+    ""
+  ],
+  [
     "ポータル|志賀町",
     "http://www.town.shika.ishikawa.jp/"
   ],
@@ -6181,7 +6421,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|志賀町",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|志賀町",
@@ -6204,7 +6444,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|志賀町",
+    "住宅の被害の拡大を防止するための緊急の修理|志賀町",
     ""
   ],
   [
@@ -6276,8 +6516,12 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|志賀町",
+    ""
+  ],
+  [
     "ポータル|宝達志水町",
-    "http://www.town.hodatsushimizu.ishikawa.jp/"
+    "https://www.hodatsushimizu.jp/index.html"
   ],
   [
     "公営住宅|宝達志水町",
@@ -6285,7 +6529,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|宝達志水町",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|宝達志水町",
@@ -6308,7 +6552,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|宝達志水町",
+    "住宅の被害の拡大を防止するための緊急の修理|宝達志水町",
     ""
   ],
   [
@@ -6380,6 +6624,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|宝達志水町",
+    ""
+  ],
+  [
     "ポータル|中能登町",
     "http://www.town.nakanoto.ishikawa.jp/"
   ],
@@ -6389,7 +6637,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|中能登町",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|中能登町",
@@ -6412,7 +6660,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|中能登町",
+    "住宅の被害の拡大を防止するための緊急の修理|中能登町",
     ""
   ],
   [
@@ -6484,6 +6732,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|中能登町",
+    ""
+  ],
+  [
     "ポータル|穴水町",
     "http://www.town.anamizu.ishikawa.jp/"
   ],
@@ -6493,7 +6745,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|穴水町",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|穴水町",
@@ -6516,7 +6768,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|穴水町",
+    "住宅の被害の拡大を防止するための緊急の修理|穴水町",
     ""
   ],
   [
@@ -6588,6 +6840,10 @@ export default new Map([
     ""
   ],
   [
+    "日常生活に必要な最小限度の部分の修理|穴水町",
+    ""
+  ],
+  [
     "ポータル|能登町",
     "http://www.town.noto.lg.jp/"
   ],
@@ -6597,7 +6853,7 @@ export default new Map([
   ],
   [
     "賃貸型応急住宅|能登町",
-    ""
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
     "災害見舞金|能登町",
@@ -6620,7 +6876,7 @@ export default new Map([
     ""
   ],
   [
-    "災害救助法による応急修理|能登町",
+    "住宅の被害の拡大を防止するための緊急の修理|能登町",
     ""
   ],
   [
@@ -6689,6 +6945,10 @@ export default new Map([
   ],
   [
     "入院時の一部負担金の免除及び徴収猶予|能登町",
+    ""
+  ],
+  [
+    "日常生活に必要な最小限度の部分の修理|能登町",
     ""
   ]
 ]);
