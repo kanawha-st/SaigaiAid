@@ -40,6 +40,22 @@ export default new Map([
     "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
   ],
   [
+    "災害弔意金",
+    "国　未定＠"
+  ],
+  [
+    "災害障害見舞金",
+    "国　未定＠"
+  ],
+  [
+    "恩給担保貸付",
+    "（国）（株）日本制作金融公庫　東京支店＠https://www.jfc.go.jp/n/finance/search/onkyuu.html"
+  ],
+  [
+    "災害臨時経費の貸付",
+    "（県）新潟市社会福祉協議会"
+  ],
+  [
     "ポータル|富山市",
     "https://www.city.toyama.toyama.jp/"
   ],
@@ -146,6 +162,14 @@ export default new Map([
   [
     "日常生活に必要な最小限度の部分の修理|富山市",
     ""
+  ],
+  [
+    "災害弔慰金|富山市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|富山市",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
   ],
   [
     "ポータル|高岡市",
@@ -256,6 +280,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|高岡市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|高岡市",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
+  ],
+  [
     "ポータル|魚津市",
     "https://www.city.uozu.toyama.jp/"
   ],
@@ -362,6 +394,14 @@ export default new Map([
   [
     "日常生活に必要な最小限度の部分の修理|魚津市",
     ""
+  ],
+  [
+    "災害弔慰金|魚津市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|魚津市",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
   ],
   [
     "ポータル|氷見市",
@@ -472,6 +512,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|氷見市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|氷見市",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
+  ],
+  [
     "ポータル|滑川市",
     "https://www.city.namerikawa.toyama.jp/"
   ],
@@ -578,6 +626,14 @@ export default new Map([
   [
     "日常生活に必要な最小限度の部分の修理|滑川市",
     ""
+  ],
+  [
+    "災害弔慰金|滑川市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|滑川市",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
   ],
   [
     "ポータル|黒部市",
@@ -688,6 +744,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|黒部市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|黒部市",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
+  ],
+  [
     "ポータル|砺波市",
     "https://www.city.tonami.toyama.jp/"
   ],
@@ -794,6 +858,14 @@ export default new Map([
   [
     "日常生活に必要な最小限度の部分の修理|砺波市",
     ""
+  ],
+  [
+    "災害弔慰金|砺波市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|砺波市",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
   ],
   [
     "ポータル|小矢部市",
@@ -904,6 +976,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|小矢部市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|小矢部市",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
+  ],
+  [
     "ポータル|南砺市",
     "https://www.city.nanto.toyama.jp/"
   ],
@@ -1010,6 +1090,14 @@ export default new Map([
   [
     "日常生活に必要な最小限度の部分の修理|南砺市",
     ""
+  ],
+  [
+    "災害弔慰金|南砺市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|南砺市",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
   ],
   [
     "ポータル|射水市",
@@ -1120,6 +1208,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|射水市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|射水市",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
+  ],
+  [
     "ポータル|舟橋村",
     "https://www.vill.funahashi.toyama.jp/"
   ],
@@ -1226,6 +1322,14 @@ export default new Map([
   [
     "日常生活に必要な最小限度の部分の修理|舟橋村",
     ""
+  ],
+  [
+    "災害弔慰金|舟橋村",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|舟橋村",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
   ],
   [
     "ポータル|上市町",
@@ -1336,6 +1440,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|上市町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|上市町",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
+  ],
+  [
     "ポータル|立山町",
     "https://www.town.tateyama.toyama.jp/"
   ],
@@ -1442,6 +1554,14 @@ export default new Map([
   [
     "日常生活に必要な最小限度の部分の修理|立山町",
     ""
+  ],
+  [
+    "災害弔慰金|立山町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|立山町",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
   ],
   [
     "ポータル|入善町",
@@ -1552,6 +1672,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|入善町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|入善町",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
+  ],
+  [
     "ポータル|朝日町",
     "https://www.town.asahi.toyama.jp/"
   ],
@@ -1660,6 +1788,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|朝日町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|朝日町",
+    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
+  ],
+  [
     "ポータル|新潟市",
     "https://www.city.niigata.lg.jp/"
   ],
@@ -1677,47 +1813,47 @@ export default new Map([
   ],
   [
     "児童扶養手当の特例|新潟市",
-    ""
+    "（市）各区健康福祉課"
   ],
   [
     "被災者生活再建支援制度|新潟市",
-    ""
+    "国　未定＠https://www.bousai.go.jp/taisaku/seikatsusaiken/shiensya.html"
   ],
   [
     "災害援護資金貸付|新潟市",
-    "https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
+    "（市）福祉総務課＠https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|新潟市",
-    "https://www.syakyo-niigatacity.or.jp/consultation/lifecapital#kinkyu"
+    "（市）社会福祉協議会＠https://www.syakyo-niigatacity.or.jp/consultation/lifecapital#kinkyu"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|新潟市",
-    "https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
+    "（市）公共建築課＠https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
   ],
   [
     "母子父子寡婦福祉資金の住宅資金貸付|新潟市",
-    "https://www.city.niigata.lg.jp/kosodate/ninshin/shien/hitorioya/seikatsushien/kashitsuke.html"
+    "（市）各区健康福祉課＠https://www.city.niigata.lg.jp/kosodate/ninshin/shien/hitorioya/seikatsushien/kashitsuke.html"
   ],
   [
     "災害障害見舞金|新潟市",
-    "https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html#:~:text=%E4%B8%BB%E3%81%9F%E3%82%8B%E7%94%9F%E8%A8%88%E7%B6%AD%E6%8C%81%E8%80%85%E3%81%8C%E9%9A%9C%E3%81%8C%E3%81%84%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E5%A0%B4%E5%90%88,%E6%94%AF%E7%B5%A6%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84%E5%A0%B4%E5%90%88%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82"
+    "（市）福祉総務課＠https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
   ],
   [
     "教科書等の無償給与|新潟市",
-    ""
+    "（市）教育委員会　学務課＠"
   ],
   [
     "特別支援学校等への就学奨励事業|新潟市",
-    ""
+    "（国）未定＠"
   ],
   [
     "特別児童扶養手当・障害児福祉手当の特例|新潟市",
-    ""
+    "（市）各区健康福祉課または障がい福祉課"
   ],
   [
     "特別障害者手当の特例|新潟市",
-    ""
+    "（市）各区健康福祉課または障がい福祉課"
   ],
   [
     "福祉用具の再貸与・再購入|新潟市",
@@ -1729,7 +1865,7 @@ export default new Map([
   ],
   [
     "小・中学生の就学援助措置|新潟市",
-    ""
+    "（国）未定＠"
   ],
   [
     "大学等授業料等減免措置|新潟市",
@@ -1745,19 +1881,19 @@ export default new Map([
   ],
   [
     "国民健康保険税の減免|新潟市",
-    "https://www.city.niigata.lg.jp/kurashi/hoken/kokuho/hokenryo/keigen_genmen/nenkingenmen.html"
+    "（市）各区区民生活課または保険年金課＠https://www.city.niigata.lg.jp/kurashi/hoken/kokuho/hokenryo/keigen_genmen/nenkingenmen.html"
   ],
   [
     "介護保険料の減免・猶予|新潟市",
-    "https://www.city.niigata.lg.jp/iryo/kaigo/kaigoindex/hokenryou.html"
+    "（市）各区区民生活課または介護保険課＠https://www.city.niigata.lg.jp/iryo/kaigo/kaigoindex/hokenryou.html"
   ],
   [
     "後期高齢者医療保険料の減免|新潟市",
-    ""
+    "（市）各区区民生活課または保険年金課＠https://www.city.niigata.lg.jp/kurashi/hoken/kokikorei/hokenryo.html"
   ],
   [
     "後期高齢者医療の一部負担金の減免・徴収猶予|新潟市",
-    ""
+    "（市）各区区民生活課または保険年金課＠https://www.city.niigata.lg.jp/kurashi/hoken/kokikorei/hokenryo.html"
   ],
   [
     "入院時の一部負担金の免除及び徴収猶予|新潟市",
@@ -1765,7 +1901,15 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|新潟市",
-    "https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
+    "（市）公共建築課＠https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
+  ],
+  [
+    "災害弔慰金|新潟市",
+    "（市）福祉総務課＠https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|新潟市",
+    ""
   ],
   [
     "ポータル|長岡市",
@@ -1873,6 +2017,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|長岡市",
+    ""
+  ],
+  [
+    "災害弔慰金|長岡市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|長岡市",
     ""
   ],
   [
@@ -1984,6 +2136,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|三条市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|三条市",
+    ""
+  ],
+  [
     "ポータル|柏崎市",
     "https://www.city.kashiwazaki.lg.jp/index.html"
   ],
@@ -2089,6 +2249,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|柏崎市",
+    ""
+  ],
+  [
+    "災害弔慰金|柏崎市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|柏崎市",
     ""
   ],
   [
@@ -2200,6 +2368,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|新発田市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|新発田市",
+    ""
+  ],
+  [
     "ポータル|小千谷市",
     "https://www.city.ojiya.niigata.jp/"
   ],
@@ -2305,6 +2481,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|小千谷市",
+    ""
+  ],
+  [
+    "災害弔慰金|小千谷市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|小千谷市",
     ""
   ],
   [
@@ -2416,6 +2600,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|加茂市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|加茂市",
+    ""
+  ],
+  [
     "ポータル|十日町市",
     "https://www.city.tokamachi.lg.jp/index.html"
   ],
@@ -2521,6 +2713,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|十日町市",
+    ""
+  ],
+  [
+    "災害弔慰金|十日町市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|十日町市",
     ""
   ],
   [
@@ -2632,6 +2832,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|見附市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|見附市",
+    ""
+  ],
+  [
     "ポータル|村上市",
     "https://www.city.murakami.lg.jp/"
   ],
@@ -2737,6 +2945,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|村上市",
+    ""
+  ],
+  [
+    "災害弔慰金|村上市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|村上市",
     ""
   ],
   [
@@ -2848,6 +3064,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|燕市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|燕市",
+    ""
+  ],
+  [
     "ポータル|糸魚川市",
     "https://www.city.itoigawa.lg.jp/"
   ],
@@ -2953,6 +3177,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|糸魚川市",
+    ""
+  ],
+  [
+    "災害弔慰金|糸魚川市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|糸魚川市",
     ""
   ],
   [
@@ -3064,6 +3296,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|妙高市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|妙高市",
+    ""
+  ],
+  [
     "ポータル|五泉市",
     "https://www.city.gosen.lg.jp/index.html"
   ],
@@ -3169,6 +3409,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|五泉市",
+    ""
+  ],
+  [
+    "災害弔慰金|五泉市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|五泉市",
     ""
   ],
   [
@@ -3280,6 +3528,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|上越市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|上越市",
+    ""
+  ],
+  [
     "ポータル|阿賀野市",
     "https://www.city.agano.niigata.jp/"
   ],
@@ -3385,6 +3641,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|阿賀野市",
+    ""
+  ],
+  [
+    "災害弔慰金|阿賀野市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|阿賀野市",
     ""
   ],
   [
@@ -3496,6 +3760,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|佐渡市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|佐渡市",
+    ""
+  ],
+  [
     "ポータル|魚沼市",
     "https://www.city.uonuma.lg.jp/"
   ],
@@ -3601,6 +3873,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|魚沼市",
+    ""
+  ],
+  [
+    "災害弔慰金|魚沼市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|魚沼市",
     ""
   ],
   [
@@ -3712,6 +3992,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|南魚沼市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|南魚沼市",
+    ""
+  ],
+  [
     "ポータル|胎内市",
     "https://www.city.tainai.niigata.jp/"
   ],
@@ -3817,6 +4105,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|胎内市",
+    ""
+  ],
+  [
+    "災害弔慰金|胎内市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|胎内市",
     ""
   ],
   [
@@ -3928,6 +4224,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|聖籠町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|聖籠町",
+    ""
+  ],
+  [
     "ポータル|弥彦村",
     "https://www.vill.yahiko.niigata.jp/"
   ],
@@ -4033,6 +4337,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|弥彦村",
+    ""
+  ],
+  [
+    "災害弔慰金|弥彦村",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|弥彦村",
     ""
   ],
   [
@@ -4144,6 +4456,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|田上町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|田上町",
+    ""
+  ],
+  [
     "ポータル|阿賀町",
     "https://www.town.aga.niigata.jp/"
   ],
@@ -4249,6 +4569,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|阿賀町",
+    ""
+  ],
+  [
+    "災害弔慰金|阿賀町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|阿賀町",
     ""
   ],
   [
@@ -4360,6 +4688,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|出雲崎町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|出雲崎町",
+    ""
+  ],
+  [
     "ポータル|湯沢町",
     "https://www.town.yuzawa.lg.jp/index.html"
   ],
@@ -4465,6 +4801,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|湯沢町",
+    ""
+  ],
+  [
+    "災害弔慰金|湯沢町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|湯沢町",
     ""
   ],
   [
@@ -4576,6 +4920,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|津南町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|津南町",
+    ""
+  ],
+  [
     "ポータル|刈羽村",
     "https://www.vill.kariwa.niigata.jp/"
   ],
@@ -4681,6 +5033,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|刈羽村",
+    ""
+  ],
+  [
+    "災害弔慰金|刈羽村",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|刈羽村",
     ""
   ],
   [
@@ -4792,6 +5152,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|関川村",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|関川村",
+    ""
+  ],
+  [
     "ポータル|粟島浦村",
     "https://www.vill.awashimaura.lg.jp/"
   ],
@@ -4897,6 +5265,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|粟島浦村",
+    ""
+  ],
+  [
+    "災害弔慰金|粟島浦村",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|粟島浦村",
     ""
   ],
   [
@@ -5008,6 +5384,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|金沢市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|金沢市",
+    ""
+  ],
+  [
     "ポータル|七尾市",
     "http://www.city.nanao.lg.jp/"
   ],
@@ -5113,6 +5497,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|七尾市",
+    ""
+  ],
+  [
+    "災害弔慰金|七尾市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|七尾市",
     ""
   ],
   [
@@ -5224,6 +5616,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|小松市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|小松市",
+    ""
+  ],
+  [
     "ポータル|輪島市",
     "https://www.city.wajima.ishikawa.jp/"
   ],
@@ -5329,6 +5729,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|輪島市",
+    ""
+  ],
+  [
+    "災害弔慰金|輪島市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|輪島市",
     ""
   ],
   [
@@ -5440,6 +5848,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|珠洲市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|珠洲市",
+    ""
+  ],
+  [
     "ポータル|加賀市",
     "https://www.city.kaga.ishikawa.jp/"
   ],
@@ -5545,6 +5961,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|加賀市",
+    ""
+  ],
+  [
+    "災害弔慰金|加賀市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|加賀市",
     ""
   ],
   [
@@ -5656,6 +6080,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|羽咋市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|羽咋市",
+    ""
+  ],
+  [
     "ポータル|かほく市",
     "https://www.city.kahoku.lg.jp/"
   ],
@@ -5761,6 +6193,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|かほく市",
+    ""
+  ],
+  [
+    "災害弔慰金|かほく市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|かほく市",
     ""
   ],
   [
@@ -5872,6 +6312,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|白山市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|白山市",
+    ""
+  ],
+  [
     "ポータル|能美市",
     "https://www.city.nomi.ishikawa.jp/"
   ],
@@ -5977,6 +6425,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|能美市",
+    ""
+  ],
+  [
+    "災害弔慰金|能美市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|能美市",
     ""
   ],
   [
@@ -6088,6 +6544,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|野々市市",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|野々市市",
+    ""
+  ],
+  [
     "ポータル|川北町",
     "http://www.town.kawakita.ishikawa.jp/"
   ],
@@ -6193,6 +6657,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|川北町",
+    ""
+  ],
+  [
+    "災害弔慰金|川北町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|川北町",
     ""
   ],
   [
@@ -6304,6 +6776,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|津幡町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|津幡町",
+    ""
+  ],
+  [
     "ポータル|内灘町",
     "https://www.town.uchinada.lg.jp/"
   ],
@@ -6409,6 +6889,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|内灘町",
+    ""
+  ],
+  [
+    "災害弔慰金|内灘町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|内灘町",
     ""
   ],
   [
@@ -6520,6 +7008,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|志賀町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|志賀町",
+    ""
+  ],
+  [
     "ポータル|宝達志水町",
     "https://www.hodatsushimizu.jp/index.html"
   ],
@@ -6625,6 +7121,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|宝達志水町",
+    ""
+  ],
+  [
+    "災害弔慰金|宝達志水町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|宝達志水町",
     ""
   ],
   [
@@ -6736,6 +7240,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|中能登町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|中能登町",
+    ""
+  ],
+  [
     "ポータル|穴水町",
     "http://www.town.anamizu.ishikawa.jp/"
   ],
@@ -6844,6 +7356,14 @@ export default new Map([
     ""
   ],
   [
+    "災害弔慰金|穴水町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|穴水町",
+    ""
+  ],
+  [
     "ポータル|能登町",
     "http://www.town.noto.lg.jp/"
   ],
@@ -6949,6 +7469,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|能登町",
+    ""
+  ],
+  [
+    "災害弔慰金|能登町",
+    ""
+  ],
+  [
+    "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|能登町",
     ""
   ]
 ]);
