@@ -57,6 +57,9 @@
           v-bind:url="service.url"
           v-bind:description="service.description"
         />
+        <v-container class="">
+        さらに支援の具体的な見積もりが必要な場合は協力プロジェクトの<a href="https://shien-yadokari.netlify.app/">支援みつもりヤドカリくん</a>(by Project Inclusive)をご覧ください。
+        </v-container>
       </transition-group>
     </v-container>
   </v-container>
