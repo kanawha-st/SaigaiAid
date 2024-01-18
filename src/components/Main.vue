@@ -1,9 +1,11 @@
 <template>
   <v-container>
     <h1>災害支援ナビゲーターQ&A</h1>
-    <div class="text-sm-right">powered by Civic Tech Sodegaura</div>
+    <div class="text-sm-right powerdby">powered by Civic Tech Sodegaura
+      <img src="/civictech_sodegaura_logo.svg" height="20" class="logo"/>
+    </div>
     本サービスで紹介している支援内容は2019年の台風15号被害に基づくものです。災害により適用される法律や制度が異なるため、他の災害では使えない制度もございます。
-    <v-container class="mt-4 float-none" wrap>
+    <v-container class="mt-4 float-none" wrap ref="qa" id="QAs">
       <transition-group
         tag="div"
         name="vue-anime-list"
@@ -35,7 +37,7 @@
       v-on:click="exportToPdf()"
       text="PDFに保存"
     />
-    <v-container wrap>
+    <v-container wrap id="Services" ref="Services">
       <div v-if="!Services.length">
         質問に答えると受けられる可能性のある支援が表示されます。
       </div>
@@ -43,7 +45,7 @@
         tag="div"
         name="vue-anime-list"
         class="d-flex flex-wrap layout row wrap"
-        else
+        v-else
       >
         <Service
           v-for="service in Services"
@@ -185,13 +187,55 @@ export default {
       this.updateServices();
     },
     exportToPdf:function(){
-      html2pdf(document.body, {
+      /*
+      create pdf page by page since iOS render blank page when data is big.
+      https://github.com/eKoopmans/html2pdf.js/issues/397
+      */
+      let divs = [];
+      let div = document.createElement('div');
+      div.innerHTML = `<h1>災害支援ナビゲーター</h1>
+      <h2>質問と回答</h2>`;
+      this.QAs.forEach(qa => {
+        let p = document.createElement('p');
+        p.innerHTML = `【質問】${qa[2]}  【答え】${qa[1]}`;
+        div.appendChild(p);
+      });
+      divs.push(div);
+      div = document.createElement('div');
+      div.innerHTML = "<h2>受けられる可能性のある支援</h2>";
+      for(let i=0; i<this.Services.length; i++){
+        let service = this.Services[i];
+        let p = document.createElement('p');
+        p.innerHTML = `【支援】: ${service.name} (${service.who})<br>${service.description}<hr>`;
+        div.appendChild(p);
+        if(i%8==7){
+          divs.push(div);
+          div = document.createElement('div');
+        }
+      }
+      if(this.Services.length%7!=0){
+        divs.push(div);
+      }
+      
+      let pdf =  html2pdf().set({
         margin:       1,
         filename:     '災害支援ナビゲーター.pdf',
         image:        { type: 'jpeg', quality: 0.98 },
-        html2canvas:  { dpi: 192, letterRendering: true },
-        jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' }
-      })
+        html2canvas:  { dpi: 170, letterRendering: true },
+        jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait', compress:true },
+        pagebreak:    { mode: 'avoid-all'}
+      }).from(
+        divs[0]
+      ).toPdf()
+
+      for (let i = 1; i < divs.length; i++) {
+        pdf = pdf.get('pdf').then((_pdf) => {
+          return _pdf.addPage()
+        })
+        .from(divs[i])
+        .toCanvas().toPdf()
+      }
+      pdf.toCanvas().toPdf().save();
     }
   },
   mounted: function() {
@@ -237,6 +281,11 @@ export default {
   animation: fadeInUp 0.7s;
   animation-delay: 0.4s;
   opacity: 0;
+}
+  
+.poweredby {
+  display: flex;
+  align-content: 
 }
 
 @keyframes fadeInUp {
