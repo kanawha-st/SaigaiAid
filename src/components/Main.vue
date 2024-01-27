@@ -58,7 +58,13 @@
           v-bind:description="service.description"
         />
         <v-container class="">
-        さらに支援の具体的な見積もりが必要な場合は協力プロジェクトの<a href="https://shien-yadokari.netlify.app/">支援みつもりヤドカリくん</a>(by Project Inclusive)をご覧ください。
+          さらに支援の具体的な見積もりが必要な場合は協力プロジェクトの<a href="https://shien-yadokari.netlify.app/">支援みつもりヤドカリくん</a>(by Project Inclusive)をご覧ください。
+          <v-container>
+            <a href="https://shien-yadokari.netlify.app/" id="yadokari">
+              <img class="pc" src="../assets/banner-yadokari-large.png" alt="支援みつもりヤドカリくん"/>
+              <img class="sp" src="../assets/banner-yadokari-small.png" alt="支援みつもりヤドカリくん"/>
+            </a>
+          </v-container>
         </v-container>
       </transition-group>
     </v-container>
@@ -293,6 +299,33 @@ export default {
   animation: fadeInUp 0.7s;
   animation-delay: 0.4s;
   opacity: 0;
+}
+  
+.poweredby {
+  display: flex;
+  align-content: right;
+}
+  
+#yadokari {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-width: 300px;
+  max-width: 100%
+}
+#yadokari img {
+  max-width: 100%;
+  height: auto;
+}
+/* パソコンで見たときは"pc"のclassがついた画像が表示される */
+.pc { display: block !important; }
+.sp { display: none !important; }
+ 
+/* スマートフォンで見たときは"sp"のclassがついた画像が表示される */
+@media only screen and (max-width: 750px) {
+    .pc { display: none !important; }
+    .sp { display: block !important; }
 }
 
 @keyframes fadeInUp {

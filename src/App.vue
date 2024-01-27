@@ -10,7 +10,7 @@
     <v-container>
       <Main/>
     </v-container>
-    注意事項：工事中です。
+    <a href="privacypolicy.html">免責事項・プライバシーポリシー</a>
   </v-app>
 </template>
 
