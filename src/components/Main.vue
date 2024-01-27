@@ -38,7 +38,12 @@
       v-on:click="exportToPdf()"
       text="PDFに保存"
     />
-    <v-container wrap>
+    <v-btn
+      v-if="Services.length"
+      v-on:click="clear()"
+      text="回答履歴の削除"
+    />
+    <v-container wrap id="Services" ref="Services">
       <div v-if="!Services.length">
         居住地を答えた後、質問に答えていくと受けられる可能性のある支援が表示されます。
       </div>
@@ -57,14 +62,14 @@
           v-bind:url="service.url"
           v-bind:description="service.description"
         />
-        <v-container class="">
-          さらに支援の具体的な見積もりが必要な場合は協力プロジェクトの<a href="https://shien-yadokari.netlify.app/">支援みつもりヤドカリくん</a>(by Project Inclusive)をご覧ください。
+        <v-container class="mt-10">
           <v-container>
             <a href="https://shien-yadokari.netlify.app/" id="yadokari">
               <img class="pc" src="../assets/banner-yadokari-large.png" alt="支援みつもりヤドカリくん"/>
               <img class="sp" src="../assets/banner-yadokari-small.png" alt="支援みつもりヤドカリくん"/>
             </a>
           </v-container>
+          さらに支援の具体的な見積もりが必要な場合は協力プロジェクトの<a href="https://shien-yadokari.netlify.app/">支援みつもりヤドカリくん</a>(by Project Inclusive)をご覧ください。
         </v-container>
       </transition-group>
     </v-container>
@@ -318,6 +323,7 @@ export default {
   max-width: 100%;
   height: auto;
 }
+
 /* パソコンで見たときは"pc"のclassがついた画像が表示される */
 .pc { display: block !important; }
 .sp { display: none !important; }
