@@ -37,6 +37,11 @@
       v-on:click="exportToPdf()"
       text="PDFに保存"
     />
+    <v-btn
+      v-if="Services.length"
+      v-on:click="clear()"
+      text="回答履歴の削除"
+    />
     <v-container wrap id="Services" ref="Services">
       <div v-if="!Services.length">
         質問に答えると受けられる可能性のある支援が表示されます。
