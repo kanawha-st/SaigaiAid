@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <h1>災害支援ナビゲーター(テスト版)</h1>
+    <h1>災害支援ナビゲーター</h1>
     <h2>令和6年能登半島地震版</h2>
     <div class="text-sm-right">powered by Civic Tech Sodegaura</div>
     <p>本サービスで紹介している支援内容はボランティアにより調査されたものです。</p>
@@ -43,7 +43,7 @@
       v-on:click="clear()"
       text="回答履歴の削除"
     />
-    <v-container wrap id="Services" ref="Services">
+    <v-container wrap id="Services" ref="Services" class="px-0">
       <div v-if="!Services.length">
         居住地を答えた後、質問に答えていくと受けられる可能性のある支援が表示されます。
       </div>
@@ -62,14 +62,13 @@
           v-bind:url="service.url"
           v-bind:description="service.description"
         />
-        <v-container class="mt-10">
-          <v-container>
-            <a href="https://shien-yadokari.netlify.app/" id="yadokari">
+        <v-container class="mt-13 px-0">
+          <v-container class="px-0">
+            <a href="https://shien-yadokari.netlify.app/" id="yadokari" class="mx-auto">
               <img class="pc" src="../assets/banner-yadokari-large.png" alt="支援みつもりヤドカリくん"/>
               <img class="sp" src="../assets/banner-yadokari-small.png" alt="支援みつもりヤドカリくん"/>
             </a>
           </v-container>
-          さらに支援の具体的な見積もりが必要な場合は協力プロジェクトの<a href="https://shien-yadokari.netlify.app/">支援みつもりヤドカリくん</a>(by Project Inclusive)をご覧ください。
         </v-container>
       </transition-group>
     </v-container>
@@ -317,7 +316,7 @@ export default {
   align-items: center;
   flex-direction: column;
   min-width: 300px;
-  max-width: 100%
+  max-width: 600px;
 }
 #yadokari img {
   max-width: 100%;
@@ -332,6 +331,10 @@ export default {
 @media only screen and (max-width: 750px) {
     .pc { display: none !important; }
     .sp { display: block !important; }
+    #yadokari {
+      min-width: 100px;
+      max-width: 100%
+    }
 }
 
 @keyframes fadeInUp {

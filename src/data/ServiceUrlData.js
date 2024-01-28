@@ -41,35 +41,63 @@ export default new Map([
   ],
   [
     "災害弔意金",
-    "国　未定@"
+    "国　未定＠"
   ],
   [
     "災害障害見舞金",
-    "国　未定@"
+    "国　未定＠"
   ],
   [
     "恩給担保貸付",
-    "（国）（株）日本制作金融公庫　東京支店@https://www.jfc.go.jp/n/finance/search/onkyuu.html"
+    "（国）（株）日本制作金融公庫　東京支店＠https://www.jfc.go.jp/n/finance/search/onkyuu.html"
   ],
   [
     "災害臨時経費の貸付",
     "（県）新潟市社会福祉協議会"
   ],
   [
+    "賃貸型応急住宅|石川県",
+    "https://www.pref.ishikawa.lg.jp/kenju/chintaigata.html"
+  ],
+  [
+    "公営住宅|石川県",
+    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+  ],
+  [
+    "公営住宅（県営住宅）|石川県",
+    "https://www.pref.ishikawa.lg.jp/kenju/r6notojishin-kenei.html"
+  ],
+  [
+    "いしかわ外国人生活相談センター|石川県",
+    "https://support.ishikawa.jp/"
+  ],
+  [
+    "雇用保険失業給付の支給|石川県",
+    "https://www.town.nakanoto.ishikawa.jp/material/files/group/2/guidebook.pdf　P13"
+  ],
+  [
+    "県税の猶予|石川県",
+    "https://www.pref.ishikawa.lg.jp/zei/oshirase/korona_entyou.html"
+  ],
+  [
     "ポータル|富山市",
     "https://www.city.toyama.toyama.jp/"
   ],
   [
-    "公営住宅|富山市",
+    "市営住宅|富山市",
+    "（市）市営住宅課@https://www.city.toyama.lg.jp/bosai/bosai/1010665/1014492.html#group9"
+  ],
+  [
+    "県営住宅|富山市",
     ""
   ],
   [
     "賃貸型応急住宅|富山市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）市営住宅課@tel:076-443-2097"
   ],
   [
     "災害見舞金|富山市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "児童扶養手当の特例|富山市",
@@ -77,31 +105,31 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|富山市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|富山市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|富山市",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|富山市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240102.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|富山市",
+    "母子父子寡婦福祉資金の住宅資金貸付|富山市",
     ""
   ],
   [
     "災害障害見舞金|富山市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "教科書等の無償給与|富山市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/3002/kurashi/kyouiku/kyouiku/kj00022300.html"
   ],
   [
     "特別支援学校等への就学奨励事業|富山市",
@@ -161,19 +189,15 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|富山市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240103.html"
   ],
   [
     "災害弔慰金|富山市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|富山市",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|富山市",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|富山市",
@@ -188,20 +212,76 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|富山市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|富山市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|富山市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|富山市",
+    ""
+  ],
+  [
+    "市税の猶予|富山市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|富山市",
+    ""
+  ],
+  [
+    "保育料の減免|富山市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|富山市",
+    ""
+  ],
+  [
+    "相談窓口|富山市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|富山市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|富山市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|富山市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|富山市",
+    ""
+  ],
+  [
     "ポータル|高岡市",
     "https://www.city.takaoka.toyama.jp/"
   ],
   [
-    "公営住宅|高岡市",
+    "市営住宅|高岡市",
+    ""
+  ],
+  [
+    "県営住宅|高岡市",
     ""
   ],
   [
     "賃貸型応急住宅|高岡市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）建築政策課@tel:0766-20-1403"
   ],
   [
     "災害見舞金|高岡市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "児童扶養手当の特例|高岡市",
@@ -209,31 +289,31 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|高岡市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|高岡市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|高岡市",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|高岡市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240102.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|高岡市",
+    "母子父子寡婦福祉資金の住宅資金貸付|高岡市",
     ""
   ],
   [
     "災害障害見舞金|高岡市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "教科書等の無償給与|高岡市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/3002/kurashi/kyouiku/kyouiku/kj00022300.html"
   ],
   [
     "特別支援学校等への就学奨励事業|高岡市",
@@ -265,7 +345,7 @@ export default new Map([
   ],
   [
     "住民税,固定資産税の減免|高岡市",
-    ""
+    "市（資産税課）@https://www.city.takaoka.toyama.jp/saigai/shien_taiou.html#kaoku"
   ],
   [
     "国税の減免・猶予|高岡市",
@@ -293,19 +373,15 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|高岡市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240103.html"
   ],
   [
     "災害弔慰金|高岡市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|高岡市",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|高岡市",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|高岡市",
@@ -320,16 +396,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|高岡市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|高岡市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|高岡市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|高岡市",
+    ""
+  ],
+  [
+    "市税の猶予|高岡市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|高岡市",
+    ""
+  ],
+  [
+    "保育料の減免|高岡市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|高岡市",
+    ""
+  ],
+  [
+    "相談窓口|高岡市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|高岡市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|高岡市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|高岡市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|高岡市",
+    ""
+  ],
+  [
     "ポータル|魚津市",
     "https://www.city.uozu.toyama.jp/"
   ],
   [
-    "公営住宅|魚津市",
+    "市営住宅|魚津市",
+    "（市）都市計画課@https://www.city.uozu.toyama.jp/guide/svGuideDtl.aspx?servno=22936"
+  ],
+  [
+    "県営住宅|魚津市",
     ""
   ],
   [
     "賃貸型応急住宅|魚津市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    ""
   ],
   [
     "災害見舞金|魚津市",
@@ -341,27 +473,27 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|魚津市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|魚津市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|魚津市",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|魚津市",
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|魚津市",
+    "母子父子寡婦福祉資金の住宅資金貸付|魚津市",
     ""
   ],
   [
     "災害障害見舞金|魚津市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "教科書等の無償給与|魚津市",
@@ -429,15 +561,11 @@ export default new Map([
   ],
   [
     "災害弔慰金|魚津市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|魚津市",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|魚津市",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|魚津市",
@@ -452,16 +580,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|魚津市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|魚津市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|魚津市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|魚津市",
+    ""
+  ],
+  [
+    "市税の猶予|魚津市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|魚津市",
+    ""
+  ],
+  [
+    "保育料の減免|魚津市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|魚津市",
+    ""
+  ],
+  [
+    "相談窓口|魚津市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|魚津市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|魚津市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|魚津市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|魚津市",
+    ""
+  ],
+  [
     "ポータル|氷見市",
     "https://www.city.himi.toyama.jp/"
   ],
   [
-    "公営住宅|氷見市",
+    "市営住宅|氷見市",
+    "（市）都市計画課@tel:0766-74-8079"
+  ],
+  [
+    "県営住宅|氷見市",
     ""
   ],
   [
     "賃貸型応急住宅|氷見市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）都市計画課@tel:0766-74-8079"
   ],
   [
     "災害見舞金|氷見市",
@@ -473,31 +657,31 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|氷見市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|氷見市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|氷見市",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|氷見市",
-    ""
+    "（市）都市計画課@https://www.city.himi.toyama.jp/emergency/1/9305.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|氷見市",
+    "母子父子寡婦福祉資金の住宅資金貸付|氷見市",
     ""
   ],
   [
     "災害障害見舞金|氷見市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "教科書等の無償給与|氷見市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/3002/kurashi/kyouiku/kyouiku/kj00022300.html"
   ],
   [
     "特別支援学校等への就学奨励事業|氷見市",
@@ -557,19 +741,15 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|氷見市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240103.html"
   ],
   [
     "災害弔慰金|氷見市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|氷見市",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|氷見市",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|氷見市",
@@ -584,16 +764,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|氷見市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|氷見市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|氷見市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|氷見市",
+    ""
+  ],
+  [
+    "市税の猶予|氷見市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|氷見市",
+    ""
+  ],
+  [
+    "保育料の減免|氷見市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|氷見市",
+    ""
+  ],
+  [
+    "相談窓口|氷見市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|氷見市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|氷見市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|氷見市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|氷見市",
+    ""
+  ],
+  [
     "ポータル|滑川市",
     "https://www.city.namerikawa.toyama.jp/"
   ],
   [
-    "公営住宅|滑川市",
+    "市営住宅|滑川市",
+    "（市）都市計画課@https://www.city.namerikawa.toyama.jp/soshiki/17/4/3/8483.html"
+  ],
+  [
+    "県営住宅|滑川市",
     ""
   ],
   [
     "賃貸型応急住宅|滑川市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）都市計画課@tel:076-475-1453"
   ],
   [
     "災害見舞金|滑川市",
@@ -605,31 +841,31 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|滑川市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|滑川市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|滑川市",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|滑川市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240102.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|滑川市",
+    "母子父子寡婦福祉資金の住宅資金貸付|滑川市",
     ""
   ],
   [
     "災害障害見舞金|滑川市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "教科書等の無償給与|滑川市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/3002/kurashi/kyouiku/kyouiku/kj00022300.html"
   ],
   [
     "特別支援学校等への就学奨励事業|滑川市",
@@ -689,19 +925,15 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|滑川市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240103.html"
   ],
   [
     "災害弔慰金|滑川市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|滑川市",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|滑川市",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|滑川市",
@@ -716,16 +948,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|滑川市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|滑川市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|滑川市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|滑川市",
+    ""
+  ],
+  [
+    "市税の猶予|滑川市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|滑川市",
+    ""
+  ],
+  [
+    "保育料の減免|滑川市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|滑川市",
+    ""
+  ],
+  [
+    "相談窓口|滑川市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|滑川市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|滑川市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|滑川市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|滑川市",
+    ""
+  ],
+  [
     "ポータル|黒部市",
     "https://www.city.kurobe.toyama.jp/"
   ],
   [
-    "公営住宅|黒部市",
+    "市営住宅|黒部市",
+    "（市）都市計画課@https://www.city.kurobe.toyama.jp/news/detail.aspx?servno=36624"
+  ],
+  [
+    "県営住宅|黒部市",
     ""
   ],
   [
     "賃貸型応急住宅|黒部市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）都市計画課@tel:0765-54-2647"
   ],
   [
     "災害見舞金|黒部市",
@@ -737,31 +1025,31 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|黒部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|黒部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|黒部市",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|黒部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240102.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|黒部市",
+    "母子父子寡婦福祉資金の住宅資金貸付|黒部市",
     ""
   ],
   [
     "災害障害見舞金|黒部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "教科書等の無償給与|黒部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/3002/kurashi/kyouiku/kyouiku/kj00022300.html"
   ],
   [
     "特別支援学校等への就学奨励事業|黒部市",
@@ -821,19 +1109,15 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|黒部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240103.html"
   ],
   [
     "災害弔慰金|黒部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|黒部市",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|黒部市",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|黒部市",
@@ -848,16 +1132,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|黒部市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|黒部市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|黒部市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|黒部市",
+    ""
+  ],
+  [
+    "市税の猶予|黒部市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|黒部市",
+    ""
+  ],
+  [
+    "保育料の減免|黒部市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|黒部市",
+    ""
+  ],
+  [
+    "相談窓口|黒部市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|黒部市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|黒部市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|黒部市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|黒部市",
+    ""
+  ],
+  [
     "ポータル|砺波市",
     "https://www.city.tonami.toyama.jp/"
   ],
   [
-    "公営住宅|砺波市",
+    "市営住宅|砺波市",
+    "（市）都市整備課@https://www.city.tonami.lg.jp/info/66602p/"
+  ],
+  [
+    "県営住宅|砺波市",
     ""
   ],
   [
     "賃貸型応急住宅|砺波市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）都市整備課@tel:0763-33-1447"
   ],
   [
     "災害見舞金|砺波市",
@@ -869,31 +1209,31 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|砺波市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|砺波市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|砺波市",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|砺波市",
-    ""
+    "（市）都市整備課@https://www.city.tonami.lg.jp/info/66671p/"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|砺波市",
+    "母子父子寡婦福祉資金の住宅資金貸付|砺波市",
     ""
   ],
   [
     "災害障害見舞金|砺波市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "教科書等の無償給与|砺波市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/3002/kurashi/kyouiku/kyouiku/kj00022300.html"
   ],
   [
     "特別支援学校等への就学奨励事業|砺波市",
@@ -933,7 +1273,7 @@ export default new Map([
   ],
   [
     "国民健康保険税の減免|砺波市",
-    ""
+    "（市）国保年金係@https://www.city.tonami.lg.jp/info/66890p/"
   ],
   [
     "介護保険料の減免・猶予|砺波市",
@@ -953,19 +1293,15 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|砺波市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240103.html"
   ],
   [
     "災害弔慰金|砺波市",
-    ""
+    "（市）社会福祉課@https://www.city.tonami.lg.jp/info/66771p/"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|砺波市",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|砺波市",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|砺波市",
@@ -980,16 +1316,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|砺波市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|砺波市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|砺波市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|砺波市",
+    ""
+  ],
+  [
+    "市税の猶予|砺波市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|砺波市",
+    ""
+  ],
+  [
+    "保育料の減免|砺波市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|砺波市",
+    ""
+  ],
+  [
+    "相談窓口|砺波市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|砺波市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|砺波市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|砺波市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|砺波市",
+    ""
+  ],
+  [
     "ポータル|小矢部市",
     "https://www.city.oyabe.toyama.jp/"
   ],
   [
-    "公営住宅|小矢部市",
+    "市営住宅|小矢部市",
+    "（市）都市建設課@tel:0766-67-1760"
+  ],
+  [
+    "県営住宅|小矢部市",
     ""
   ],
   [
     "賃貸型応急住宅|小矢部市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）都市建設課@tel:0766-53-5845"
   ],
   [
     "災害見舞金|小矢部市",
@@ -1001,31 +1393,31 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|小矢部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|小矢部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|小矢部市",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|小矢部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240102.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|小矢部市",
+    "母子父子寡婦福祉資金の住宅資金貸付|小矢部市",
     ""
   ],
   [
     "災害障害見舞金|小矢部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "教科書等の無償給与|小矢部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/3002/kurashi/kyouiku/kyouiku/kj00022300.html"
   ],
   [
     "特別支援学校等への就学奨励事業|小矢部市",
@@ -1085,19 +1477,15 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|小矢部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240103.html"
   ],
   [
     "災害弔慰金|小矢部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|小矢部市",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|小矢部市",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|小矢部市",
@@ -1112,20 +1500,76 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|小矢部市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|小矢部市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|小矢部市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|小矢部市",
+    ""
+  ],
+  [
+    "市税の猶予|小矢部市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|小矢部市",
+    ""
+  ],
+  [
+    "保育料の減免|小矢部市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|小矢部市",
+    ""
+  ],
+  [
+    "相談窓口|小矢部市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|小矢部市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|小矢部市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|小矢部市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|小矢部市",
+    ""
+  ],
+  [
     "ポータル|南砺市",
     "https://www.city.nanto.toyama.jp/"
   ],
   [
-    "公営住宅|南砺市",
+    "市営住宅|南砺市",
+    "（市）建設維持課@https://www.city.nanto.toyama.jp/cms-sypher/www/info/detail.jsp?id=24062"
+  ],
+  [
+    "県営住宅|南砺市",
     ""
   ],
   [
     "賃貸型応急住宅|南砺市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）建設維持課@tel:0763-23-2022"
   ],
   [
     "災害見舞金|南砺市",
-    ""
+    "（市）福祉課@https://www.city.nanto.toyama.jp/cms-sypher/www/info/detail.jsp?id=26984"
   ],
   [
     "児童扶養手当の特例|南砺市",
@@ -1133,31 +1577,31 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|南砺市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|南砺市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|南砺市",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|南砺市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240102.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|南砺市",
+    "母子父子寡婦福祉資金の住宅資金貸付|南砺市",
     ""
   ],
   [
     "災害障害見舞金|南砺市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "教科書等の無償給与|南砺市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/3002/kurashi/kyouiku/kyouiku/kj00022300.html"
   ],
   [
     "特別支援学校等への就学奨励事業|南砺市",
@@ -1217,19 +1661,15 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|南砺市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240103.html"
   ],
   [
     "災害弔慰金|南砺市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|南砺市",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|南砺市",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|南砺市",
@@ -1244,20 +1684,76 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|南砺市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|南砺市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|南砺市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|南砺市",
+    ""
+  ],
+  [
+    "市税の猶予|南砺市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|南砺市",
+    ""
+  ],
+  [
+    "保育料の減免|南砺市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|南砺市",
+    ""
+  ],
+  [
+    "相談窓口|南砺市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|南砺市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|南砺市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|南砺市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|南砺市",
+    ""
+  ],
+  [
     "ポータル|射水市",
     "https://www.city.imizu.toyama.jp/"
   ],
   [
-    "公営住宅|射水市",
+    "市営住宅|射水市",
+    "（市）都市整備部建築住宅課@https://www.city.imizu.toyama.jp/guide/svguidedtl.aspx?servno=48121"
+  ],
+  [
+    "県営住宅|射水市",
     ""
   ],
   [
     "賃貸型応急住宅|射水市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）建築住宅課@tel:0766-51-6683"
   ],
   [
     "災害見舞金|射水市",
-    ""
+    "（市）社会福祉課@https://www.city.imizu.toyama.jp/event-topics/svTopiDtl.aspx?servno=27942"
   ],
   [
     "児童扶養手当の特例|射水市",
@@ -1265,31 +1761,31 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|射水市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|射水市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|射水市",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|射水市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240102.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|射水市",
+    "母子父子寡婦福祉資金の住宅資金貸付|射水市",
     ""
   ],
   [
     "災害障害見舞金|射水市",
-    ""
+    "（市）社会福祉課@https://www.city.imizu.toyama.jp/event-topics/svTopiDtl.aspx?servno=27942#mimaikin"
   ],
   [
     "教科書等の無償給与|射水市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/3002/kurashi/kyouiku/kyouiku/kj00022300.html"
   ],
   [
     "特別支援学校等への就学奨励事業|射水市",
@@ -1321,7 +1817,7 @@ export default new Map([
   ],
   [
     "住民税,固定資産税の減免|射水市",
-    ""
+    "（市）課税課@https://www.city.imizu.toyama.jp/event-topics/svTopiDtl.aspx?servno=27942"
   ],
   [
     "国税の減免・猶予|射水市",
@@ -1329,15 +1825,15 @@ export default new Map([
   ],
   [
     "国民健康保険税の減免|射水市",
-    ""
+    "（市）保険年金課@https://www.city.imizu.toyama.jp/appupload/EDIT/123/123989.pdf"
   ],
   [
     "介護保険料の減免・猶予|射水市",
-    ""
+    "（市）保険年金課@https://www.city.imizu.toyama.jp/appupload/EDIT/123/123989.pdf"
   ],
   [
     "後期高齢者医療保険料の減免|射水市",
-    ""
+    "（市）保険年金課@https://www.city.imizu.toyama.jp/appupload/EDIT/123/123989.pdf"
   ],
   [
     "後期高齢者医療の一部負担金の減免・徴収猶予|射水市",
@@ -1349,19 +1845,15 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|射水市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240103.html"
   ],
   [
     "災害弔慰金|射水市",
-    ""
+    "（市）社会福祉課@https://www.city.imizu.toyama.jp/event-topics/svTopiDtl.aspx?servno=27942"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|射水市",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|射水市",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|射水市",
@@ -1376,16 +1868,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|射水市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|射水市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|射水市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|射水市",
+    ""
+  ],
+  [
+    "市税の猶予|射水市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|射水市",
+    ""
+  ],
+  [
+    "保育料の減免|射水市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|射水市",
+    ""
+  ],
+  [
+    "相談窓口|射水市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|射水市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|射水市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|射水市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|射水市",
+    ""
+  ],
+  [
     "ポータル|舟橋村",
     "https://www.vill.funahashi.toyama.jp/"
   ],
   [
-    "公営住宅|舟橋村",
+    "市営住宅|舟橋村",
+    ""
+  ],
+  [
+    "県営住宅|舟橋村",
     ""
   ],
   [
     "賃貸型応急住宅|舟橋村",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（村）総務課@tel:076-464-1121"
   ],
   [
     "災害見舞金|舟橋村",
@@ -1397,31 +1945,31 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|舟橋村",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|舟橋村",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|舟橋村",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|舟橋村",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240102.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|舟橋村",
+    "母子父子寡婦福祉資金の住宅資金貸付|舟橋村",
     ""
   ],
   [
     "災害障害見舞金|舟橋村",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "教科書等の無償給与|舟橋村",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/3002/kurashi/kyouiku/kyouiku/kj00022300.html"
   ],
   [
     "特別支援学校等への就学奨励事業|舟橋村",
@@ -1481,19 +2029,15 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|舟橋村",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240103.html"
   ],
   [
     "災害弔慰金|舟橋村",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|舟橋村",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|舟橋村",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|舟橋村",
@@ -1508,16 +2052,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|舟橋村",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|舟橋村",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|舟橋村",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|舟橋村",
+    ""
+  ],
+  [
+    "市税の猶予|舟橋村",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|舟橋村",
+    ""
+  ],
+  [
+    "保育料の減免|舟橋村",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|舟橋村",
+    ""
+  ],
+  [
+    "相談窓口|舟橋村",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|舟橋村",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|舟橋村",
+    ""
+  ],
+  [
+    "1.5次・2次避難|舟橋村",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|舟橋村",
+    ""
+  ],
+  [
     "ポータル|上市町",
     "https://www.town.kamiichi.toyama.jp/"
   ],
   [
-    "公営住宅|上市町",
+    "市営住宅|上市町",
+    "（町）建設課@tel:076-462-9975"
+  ],
+  [
+    "県営住宅|上市町",
     ""
   ],
   [
     "賃貸型応急住宅|上市町",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（町）建設課@tel:076-472-2477"
   ],
   [
     "災害見舞金|上市町",
@@ -1529,31 +2129,31 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|上市町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|上市町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|上市町",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|上市町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240102.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|上市町",
+    "母子父子寡婦福祉資金の住宅資金貸付|上市町",
     ""
   ],
   [
     "災害障害見舞金|上市町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "教科書等の無償給与|上市町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/3002/kurashi/kyouiku/kyouiku/kj00022300.html"
   ],
   [
     "特別支援学校等への就学奨励事業|上市町",
@@ -1613,19 +2213,15 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|上市町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240103.html"
   ],
   [
     "災害弔慰金|上市町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|上市町",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|上市町",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|上市町",
@@ -1640,16 +2236,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|上市町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|上市町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|上市町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|上市町",
+    ""
+  ],
+  [
+    "市税の猶予|上市町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|上市町",
+    ""
+  ],
+  [
+    "保育料の減免|上市町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|上市町",
+    ""
+  ],
+  [
+    "相談窓口|上市町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|上市町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|上市町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|上市町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|上市町",
+    ""
+  ],
+  [
     "ポータル|立山町",
     "https://www.town.tateyama.toyama.jp/"
   ],
   [
-    "公営住宅|立山町",
+    "市営住宅|立山町",
+    "（町）建設課@tel:076-462-9975"
+  ],
+  [
+    "県営住宅|立山町",
     ""
   ],
   [
     "賃貸型応急住宅|立山町",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（町）建設課@tel:076-462-9975"
   ],
   [
     "災害見舞金|立山町",
@@ -1661,31 +2313,31 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|立山町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|立山町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|立山町",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|立山町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240102.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|立山町",
+    "母子父子寡婦福祉資金の住宅資金貸付|立山町",
     ""
   ],
   [
     "災害障害見舞金|立山町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "教科書等の無償給与|立山町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/3002/kurashi/kyouiku/kyouiku/kj00022300.html"
   ],
   [
     "特別支援学校等への就学奨励事業|立山町",
@@ -1745,19 +2397,15 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|立山町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240103.html"
   ],
   [
     "災害弔慰金|立山町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|立山町",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|立山町",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|立山町",
@@ -1772,16 +2420,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|立山町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|立山町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|立山町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|立山町",
+    ""
+  ],
+  [
+    "市税の猶予|立山町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|立山町",
+    ""
+  ],
+  [
+    "保育料の減免|立山町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|立山町",
+    ""
+  ],
+  [
+    "相談窓口|立山町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|立山町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|立山町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|立山町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|立山町",
+    ""
+  ],
+  [
     "ポータル|入善町",
     "https://www.town.nyuzen.toyama.jp/"
   ],
   [
-    "公営住宅|入善町",
+    "市営住宅|入善町",
+    "（市）住まい・まちづくり課@https://www.town.nyuzen.toyama.jp/gyosei/soshiki/sumai_machidukuri/2/4/5530.html"
+  ],
+  [
+    "県営住宅|入善町",
     ""
   ],
   [
     "賃貸型応急住宅|入善町",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    ""
   ],
   [
     "災害見舞金|入善町",
@@ -1793,27 +2497,27 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|入善町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|入善町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|入善町",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|入善町",
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|入善町",
+    "母子父子寡婦福祉資金の住宅資金貸付|入善町",
     ""
   ],
   [
     "災害障害見舞金|入善町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "教科書等の無償給与|入善町",
@@ -1881,15 +2585,11 @@ export default new Map([
   ],
   [
     "災害弔慰金|入善町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|入善町",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|入善町",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|入善町",
@@ -1904,16 +2604,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|入善町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|入善町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|入善町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|入善町",
+    ""
+  ],
+  [
+    "市税の猶予|入善町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|入善町",
+    ""
+  ],
+  [
+    "保育料の減免|入善町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|入善町",
+    ""
+  ],
+  [
+    "相談窓口|入善町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|入善町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|入善町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|入善町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|入善町",
+    ""
+  ],
+  [
     "ポータル|朝日町",
     "https://www.town.asahi.toyama.jp/"
   ],
   [
-    "公営住宅|朝日町",
+    "市営住宅|朝日町",
+    "（町）建設課@tel:0765-83-1100"
+  ],
+  [
+    "県営住宅|朝日町",
     ""
   ],
   [
     "賃貸型応急住宅|朝日町",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（町）建設課@tel:0765-83-1100"
   ],
   [
     "災害見舞金|朝日町",
@@ -1925,31 +2681,31 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|朝日町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saikenseido.pdf"
   ],
   [
     "災害援護資金貸付|朝日町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/saigaiengosikin.pdf"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|朝日町",
-    ""
+    "（県）社会福祉協議会@https://www.toyama-shakyo.or.jp/shikin/education/#subtop"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|朝日町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240102.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|朝日町",
+    "母子父子寡婦福祉資金の住宅資金貸付|朝日町",
     ""
   ],
   [
     "災害障害見舞金|朝日町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "教科書等の無償給与|朝日町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/3002/kurashi/kyouiku/kyouiku/kj00022300.html"
   ],
   [
     "特別支援学校等への就学奨励事業|朝日町",
@@ -2009,19 +2765,15 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|朝日町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240103.html"
   ],
   [
     "災害弔慰金|朝日町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/documents/38088/tyouikin.pdf"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|朝日町",
-    "https://hokuriku.rokin.or.jp/tenpo/#toyama"
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|朝日町",
-    ""
+    "（県）商工労働部労働政策課@https://www.pref.toyama.jp/1303/sangyou/roudou/roudoukoyou/kj00005573/kj00005573-001-01.html"
   ],
   [
     "公費解体|朝日町",
@@ -2036,16 +2788,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|朝日町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|朝日町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|朝日町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|朝日町",
+    ""
+  ],
+  [
+    "市税の猶予|朝日町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|朝日町",
+    ""
+  ],
+  [
+    "保育料の減免|朝日町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|朝日町",
+    ""
+  ],
+  [
+    "相談窓口|朝日町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|朝日町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|朝日町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|朝日町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|朝日町",
+    ""
+  ],
+  [
     "ポータル|新潟市",
     "https://www.city.niigata.lg.jp/"
   ],
   [
-    "公営住宅|新潟市",
-    "https://www.city.niigata.lg.jp/kurashi/jyutaku/jukankyo/01sieijutaku/jukankyo20240108.html"
+    "市営住宅|新潟市",
+    ""
+  ],
+  [
+    "県営住宅|新潟市",
+    ""
   ],
   [
     "賃貸型応急住宅|新潟市",
-    ""
+    "（市）住環境政策課@https://www.city.niigata.lg.jp/kurashi/jyutaku/jukankyo/jutaku_safe/R6jishin_chintai.html"
   ],
   [
     "災害見舞金|新潟市",
@@ -2053,39 +2861,39 @@ export default new Map([
   ],
   [
     "児童扶養手当の特例|新潟市",
-    "（市）各区健康福祉課@"
+    "（市）各区健康福祉課"
   ],
   [
     "被災者生活再建支援制度|新潟市",
-    "国　未定@https://www.bousai.go.jp/taisaku/seikatsusaiken/shiensya.html"
+    ""
   ],
   [
     "災害援護資金貸付|新潟市",
-    "（市）福祉総務課@https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
+    "（市）福祉総務課＠https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|新潟市",
-    "（市）社会福祉協議会@https://www.syakyo-niigatacity.or.jp/consultation/lifecapital#kinkyu"
+    "（市）社会福祉協議会＠https://www.syakyo-niigatacity.or.jp/consultation/lifecapital#kinkyu"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|新潟市",
-    "（市）公共建築課@https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
+    "（市）公共建築課＠https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|新潟市",
-    "（市）各区健康福祉課@https://www.city.niigata.lg.jp/kosodate/ninshin/shien/hitorioya/seikatsushien/kashitsuke.html"
+    "母子父子寡婦福祉資金の住宅資金貸付|新潟市",
+    "（市）各区健康福祉課＠https://www.city.niigata.lg.jp/kosodate/ninshin/shien/hitorioya/seikatsushien/kashitsuke.html"
   ],
   [
     "災害障害見舞金|新潟市",
-    "（市）福祉総務課@https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
+    "（市）福祉総務課＠https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
   ],
   [
     "教科書等の無償給与|新潟市",
-    "（市）教育委員会　学務課　（県）新潟県大学・私学振興課※私立中高及び県立学校@"
+    "（市）教育委員会　学務課＠"
   ],
   [
     "特別支援学校等への就学奨励事業|新潟市",
-    "（国）未定@"
+    ""
   ],
   [
     "特別児童扶養手当・障害児福祉手当の特例|新潟市",
@@ -2105,35 +2913,35 @@ export default new Map([
   ],
   [
     "小・中学生の就学援助措置|新潟市",
-    "（国）未定@"
+    ""
   ],
   [
     "大学等授業料等減免措置|新潟市",
-    "各学校@"
+    ""
   ],
   [
     "住民税,固定資産税の減免|新潟市",
-    "https://www.city.niigata.lg.jp/kurashi/zei/sizei_noufu/genmen_yuuyo.html"
+    "（市）財務部納税課@https://www.city.niigata.lg.jp/kurashi/zei/sizei_noufu/genmen_yuuyo.html"
   ],
   [
     "国税の減免・猶予|新潟市",
-    "https://www.nta.go.jp/taxes/nozei/annai/index.htm#a03"
+    ""
   ],
   [
     "国民健康保険税の減免|新潟市",
-    "（市）各区区民生活課または保険年金課@https://www.city.niigata.lg.jp/kurashi/hoken/kokuho/hokenryo/keigen_genmen/nenkingenmen.html"
+    "（市）各区区民生活課または保険年金課＠https://www.city.niigata.lg.jp/kurashi/hoken/kokuho/hokenryo/keigen_genmen/nenkingenmen.html"
   ],
   [
     "介護保険料の減免・猶予|新潟市",
-    "（市）各区区民生活課または介護保険課@https://www.city.niigata.lg.jp/iryo/kaigo/kaigoindex/hokenryou.html"
+    "（市）各区区民生活課または介護保険課＠https://www.city.niigata.lg.jp/iryo/kaigo/kaigoindex/hokenryou.html"
   ],
   [
     "後期高齢者医療保険料の減免|新潟市",
-    "（市）各区区民生活課または保険年金課@https://www.city.niigata.lg.jp/kurashi/hoken/kokikorei/hokenryo.html"
+    "（市）各区区民生活課または保険年金課＠https://www.city.niigata.lg.jp/kurashi/hoken/kokikorei/hokenryo.html"
   ],
   [
     "後期高齢者医療の一部負担金の減免・徴収猶予|新潟市",
-    "（市）各区区民生活課または保険年金課@https://www.city.niigata.lg.jp/kurashi/hoken/kokikorei/hokenryo.html"
+    "（市）各区区民生活課または保険年金課＠https://www.city.niigata.lg.jp/kurashi/hoken/kokikorei/hokenryo.html"
   ],
   [
     "入院時の一部負担金の免除及び徴収猶予|新潟市",
@@ -2141,23 +2949,19 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|新潟市",
-    "（市）公共建築課@https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
+    "（市）公共建築課＠https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
   ],
   [
     "災害弔慰金|新潟市",
-    "（市）福祉総務課@https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
+    "（市）福祉総務課＠https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|新潟市",
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|新潟市",
-    ""
-  ],
-  [
     "公費解体|新潟市",
-    ""
+    "（市）循環社会推進課@tel:025-226-1391"
   ],
   [
     "公費解体（半壊対象）|新潟市",
@@ -2168,11 +2972,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|新潟市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|新潟市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|新潟市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|新潟市",
+    ""
+  ],
+  [
+    "市税の猶予|新潟市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|新潟市",
+    ""
+  ],
+  [
+    "保育料の減免|新潟市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|新潟市",
+    ""
+  ],
+  [
+    "相談窓口|新潟市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|新潟市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|新潟市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|新潟市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|新潟市",
+    ""
+  ],
+  [
     "ポータル|長岡市",
     "https://www.city.nagaoka.niigata.jp/"
   ],
   [
-    "公営住宅|長岡市",
+    "市営住宅|長岡市",
+    ""
+  ],
+  [
+    "県営住宅|長岡市",
     ""
   ],
   [
@@ -2204,7 +3064,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|長岡市",
+    "母子父子寡婦福祉資金の住宅資金貸付|長岡市",
     ""
   ],
   [
@@ -2273,7 +3133,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|長岡市",
-    ""
+    "（市）都市政策課@https://www.city.nagaoka.niigata.jp/kurashi/cate93/repair-02.html"
   ],
   [
     "災害弔慰金|長岡市",
@@ -2281,10 +3141,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|長岡市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|長岡市",
     ""
   ],
   [
@@ -2300,16 +3156,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|長岡市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|長岡市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|長岡市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|長岡市",
+    ""
+  ],
+  [
+    "市税の猶予|長岡市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|長岡市",
+    ""
+  ],
+  [
+    "保育料の減免|長岡市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|長岡市",
+    ""
+  ],
+  [
+    "相談窓口|長岡市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|長岡市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|長岡市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|長岡市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|長岡市",
+    ""
+  ],
+  [
     "ポータル|三条市",
     "https://www.city.sanjo.niigata.jp/"
   ],
   [
-    "公営住宅|三条市",
+    "市営住宅|三条市",
+    "（市）福祉課@https://www.city.sanjo.niigata.jp/kenko_fukushi/hisaishashien/17922.html"
+  ],
+  [
+    "県営住宅|三条市",
     ""
   ],
   [
     "賃貸型応急住宅|三条市",
-    ""
+    "（市）建築課@https://www.city.sanjo.niigata.jp/kenko_fukushi/hisaishashien/17922.html"
   ],
   [
     "災害見舞金|三条市",
@@ -2317,7 +3229,7 @@ export default new Map([
   ],
   [
     "児童扶養手当の特例|三条市",
-    ""
+    "（市）市民窓口課@https://www.city.sanjo.niigata.jp/kenko_fukushi/hisaishashien/17922.html"
   ],
   [
     "被災者生活再建支援制度|三条市",
@@ -2333,10 +3245,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|三条市",
-    ""
+    "建設部建築課@https://www.city.sanjo.niigata.jp/soshiki/kensetsubu/kenchikuka/joseikin/17908.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|三条市",
+    "母子父子寡婦福祉資金の住宅資金貸付|三条市",
     ""
   ],
   [
@@ -2353,11 +3265,11 @@ export default new Map([
   ],
   [
     "特別児童扶養手当・障害児福祉手当の特例|三条市",
-    ""
+    "（市）福祉課@https://www.city.sanjo.niigata.jp/kenko_fukushi/hisaishashien/17922.html"
   ],
   [
     "特別障害者手当の特例|三条市",
-    ""
+    "（市）福祉課@https://www.city.sanjo.niigata.jp/kenko_fukushi/hisaishashien/17922.html"
   ],
   [
     "福祉用具の再貸与・再購入|三条市",
@@ -2377,7 +3289,7 @@ export default new Map([
   ],
   [
     "住民税,固定資産税の減免|三条市",
-    ""
+    "（市）税務課@https://www.city.sanjo.niigata.jp/kenko_fukushi/hisaishashien/17922.html"
   ],
   [
     "国税の減免・猶予|三条市",
@@ -2385,15 +3297,15 @@ export default new Map([
   ],
   [
     "国民健康保険税の減免|三条市",
-    ""
+    "（市）健康づくり課@https://www.city.sanjo.niigata.jp/kenko_fukushi/hisaishashien/17922.html"
   ],
   [
     "介護保険料の減免・猶予|三条市",
-    ""
+    "（市）高齢介護課@https://www.city.sanjo.niigata.jp/kenko_fukushi/hisaishashien/17922.html"
   ],
   [
     "後期高齢者医療保険料の減免|三条市",
-    ""
+    "（市）健康づくり課@https://www.city.sanjo.niigata.jp/kenko_fukushi/hisaishashien/17922.html"
   ],
   [
     "後期高齢者医療の一部負担金の減免・徴収猶予|三条市",
@@ -2405,7 +3317,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|三条市",
-    ""
+    "（市）建設部建築課@https://www.city.sanjo.niigata.jp/soshiki/kensetsubu/kenchikuka/joseikin/17914.html"
   ],
   [
     "災害弔慰金|三条市",
@@ -2413,10 +3325,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|三条市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|三条市",
     ""
   ],
   [
@@ -2432,11 +3340,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|三条市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|三条市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|三条市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|三条市",
+    ""
+  ],
+  [
+    "市税の猶予|三条市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|三条市",
+    ""
+  ],
+  [
+    "保育料の減免|三条市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|三条市",
+    ""
+  ],
+  [
+    "相談窓口|三条市",
+    "支援をまとめたPDF@https://www.city.sanjo.niigata.jp/kenko_fukushi/hisaishashien/17922.html"
+  ],
+  [
+    "国民健康保険一部負担金の減免|三条市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|三条市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|三条市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|三条市",
+    ""
+  ],
+  [
     "ポータル|柏崎市",
     "https://www.city.kashiwazaki.lg.jp/index.html"
   ],
   [
-    "公営住宅|柏崎市",
+    "市営住宅|柏崎市",
+    "（市）都市整備部 建築住宅課 指導係@https://www.city.kashiwazaki.lg.jp/bosai_bohan_shobo/bosai/saigainokiroku/20240101_notohanto-earthquake/hisai/1/39228.html"
+  ],
+  [
+    "県営住宅|柏崎市",
     ""
   ],
   [
@@ -2457,7 +3421,7 @@ export default new Map([
   ],
   [
     "災害援護資金貸付|柏崎市",
-    ""
+    "（市）危機管理部 防災・原子力課 防災係@https://www.city.kashiwazaki.lg.jp/bosai_bohan_shobo/bosai/saigainokiroku/20240101_notohanto-earthquake/hisai/39339.html"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|柏崎市",
@@ -2468,12 +3432,12 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|柏崎市",
+    "母子父子寡婦福祉資金の住宅資金貸付|柏崎市",
     ""
   ],
   [
     "災害障害見舞金|柏崎市",
-    ""
+    "（市）危機管理部 防災・原子力課 防災係@https://www.city.kashiwazaki.lg.jp/bosai_bohan_shobo/bosai/saigainokiroku/20240101_notohanto-earthquake/hisai/39339.html"
   ],
   [
     "教科書等の無償給与|柏崎市",
@@ -2517,15 +3481,15 @@ export default new Map([
   ],
   [
     "国民健康保険税の減免|柏崎市",
-    ""
+    "（市）福祉保健部 国保医療課 国民健康保険係@https://www.city.kashiwazaki.lg.jp/bosai_bohan_shobo/bosai/saigainokiroku/20240101_notohanto-earthquake/hisai/2/39191.html"
   ],
   [
     "介護保険料の減免・猶予|柏崎市",
-    ""
+    "（市）福祉保健部 介護高齢課 介護保険料係@https://www.city.kashiwazaki.lg.jp/bosai_bohan_shobo/bosai/saigainokiroku/20240101_notohanto-earthquake/hisai/2/39168.html"
   ],
   [
     "後期高齢者医療保険料の減免|柏崎市",
-    ""
+    "（市）福祉保健部 国保医療課 高齢者医療係@https://www.city.kashiwazaki.lg.jp/bosai_bohan_shobo/bosai/saigainokiroku/20240101_notohanto-earthquake/hisai/2/39226.html"
   ],
   [
     "後期高齢者医療の一部負担金の減免・徴収猶予|柏崎市",
@@ -2537,7 +3501,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|柏崎市",
-    ""
+    "（市）危機管理部 防災・原子力課 防災係@https://www.city.kashiwazaki.lg.jp/bosai_bohan_shobo/bosai/saigainokiroku/20240101_notohanto-earthquake/hisai/39339.html"
   ],
   [
     "災害弔慰金|柏崎市",
@@ -2545,10 +3509,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|柏崎市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|柏崎市",
     ""
   ],
   [
@@ -2564,11 +3524,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|柏崎市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|柏崎市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|柏崎市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|柏崎市",
+    ""
+  ],
+  [
+    "市税の猶予|柏崎市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|柏崎市",
+    ""
+  ],
+  [
+    "保育料の減免|柏崎市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|柏崎市",
+    ""
+  ],
+  [
+    "相談窓口|柏崎市",
+    "支援制度一覧PDF@https://www.city.kashiwazaki.lg.jp/bosai_bohan_shobo/bosai/saigainokiroku/20240101_notohanto-earthquake/index.html"
+  ],
+  [
+    "国民健康保険一部負担金の減免|柏崎市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|柏崎市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|柏崎市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|柏崎市",
+    ""
+  ],
+  [
     "ポータル|新発田市",
     "https://www.city.shibata.lg.jp/"
   ],
   [
-    "公営住宅|新発田市",
+    "市営住宅|新発田市",
+    ""
+  ],
+  [
+    "県営住宅|新発田市",
     ""
   ],
   [
@@ -2600,7 +3616,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|新発田市",
+    "母子父子寡婦福祉資金の住宅資金貸付|新発田市",
     ""
   ],
   [
@@ -2680,10 +3696,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|新発田市",
-    ""
-  ],
-  [
     "公費解体|新発田市",
     ""
   ],
@@ -2696,11 +3708,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|新発田市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|新発田市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|新発田市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|新発田市",
+    ""
+  ],
+  [
+    "市税の猶予|新発田市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|新発田市",
+    ""
+  ],
+  [
+    "保育料の減免|新発田市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|新発田市",
+    ""
+  ],
+  [
+    "相談窓口|新発田市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|新発田市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|新発田市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|新発田市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|新発田市",
+    ""
+  ],
+  [
     "ポータル|小千谷市",
     "https://www.city.ojiya.niigata.jp/"
   ],
   [
-    "公営住宅|小千谷市",
+    "市営住宅|小千谷市",
+    "（市）防災安全課@https://www.city.ojiya.niigata.jp/soshiki/bousai/notojishin-house.html"
+  ],
+  [
+    "県営住宅|小千谷市",
     ""
   ],
   [
@@ -2732,7 +3800,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|小千谷市",
+    "母子父子寡婦福祉資金の住宅資金貸付|小千谷市",
     ""
   ],
   [
@@ -2812,10 +3880,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|小千谷市",
-    ""
-  ],
-  [
     "公費解体|小千谷市",
     ""
   ],
@@ -2828,11 +3892,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|小千谷市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|小千谷市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|小千谷市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|小千谷市",
+    ""
+  ],
+  [
+    "市税の猶予|小千谷市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|小千谷市",
+    ""
+  ],
+  [
+    "保育料の減免|小千谷市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|小千谷市",
+    ""
+  ],
+  [
+    "相談窓口|小千谷市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|小千谷市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|小千谷市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|小千谷市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|小千谷市",
+    ""
+  ],
+  [
     "ポータル|加茂市",
     "https://www.city.kamo.niigata.jp/"
   ],
   [
-    "公営住宅|加茂市",
+    "市営住宅|加茂市",
+    ""
+  ],
+  [
+    "県営住宅|加茂市",
     ""
   ],
   [
@@ -2864,7 +3984,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|加茂市",
+    "母子父子寡婦福祉資金の住宅資金貸付|加茂市",
     ""
   ],
   [
@@ -2933,7 +4053,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|加茂市",
-    ""
+    "（市）建設課@tel:0256-52-0080"
   ],
   [
     "災害弔慰金|加茂市",
@@ -2941,10 +4061,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|加茂市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|加茂市",
     ""
   ],
   [
@@ -2960,11 +4076,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|加茂市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|加茂市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|加茂市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|加茂市",
+    ""
+  ],
+  [
+    "市税の猶予|加茂市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|加茂市",
+    ""
+  ],
+  [
+    "保育料の減免|加茂市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|加茂市",
+    ""
+  ],
+  [
+    "相談窓口|加茂市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|加茂市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|加茂市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|加茂市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|加茂市",
+    ""
+  ],
+  [
     "ポータル|十日町市",
     "https://www.city.tokamachi.lg.jp/index.html"
   ],
   [
-    "公営住宅|十日町市",
+    "市営住宅|十日町市",
+    "（市）建設部 都市計画課 建築住宅係@https://www.city.tokamachi.lg.jp/kurashi_tetsuzuki/bousai_anzen/saigai_bosaijoho/9240.html"
+  ],
+  [
+    "県営住宅|十日町市",
     ""
   ],
   [
@@ -2996,7 +4168,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|十日町市",
+    "母子父子寡婦福祉資金の住宅資金貸付|十日町市",
     ""
   ],
   [
@@ -3076,10 +4248,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|十日町市",
-    ""
-  ],
-  [
     "公費解体|十日町市",
     ""
   ],
@@ -3092,11 +4260,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|十日町市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|十日町市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|十日町市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|十日町市",
+    ""
+  ],
+  [
+    "市税の猶予|十日町市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|十日町市",
+    ""
+  ],
+  [
+    "保育料の減免|十日町市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|十日町市",
+    ""
+  ],
+  [
+    "相談窓口|十日町市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|十日町市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|十日町市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|十日町市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|十日町市",
+    ""
+  ],
+  [
     "ポータル|見附市",
     "https://www.city.mitsuke.niigata.jp/"
   ],
   [
-    "公営住宅|見附市",
+    "市営住宅|見附市",
+    ""
+  ],
+  [
+    "県営住宅|見附市",
     ""
   ],
   [
@@ -3121,14 +4345,14 @@ export default new Map([
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|見附市",
-    ""
+    "（市）社会福祉協議会@http://www.m-shakyo.net/information/2024011700016/"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|見附市",
-    ""
+    "（市）都市環境課　都市政策室　都市・住宅政策係@https://www.city.mitsuke.niigata.jp/soshiki/20/20611.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|見附市",
+    "母子父子寡婦福祉資金の住宅資金貸付|見附市",
     ""
   ],
   [
@@ -3197,7 +4421,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|見附市",
-    ""
+    "（市）都市環境課　都市政策室　都市・住宅政策係@https://www.city.mitsuke.niigata.jp/soshiki/20/20654.html"
   ],
   [
     "災害弔慰金|見附市",
@@ -3205,10 +4429,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|見附市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|見附市",
     ""
   ],
   [
@@ -3224,11 +4444,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|見附市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|見附市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|見附市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|見附市",
+    ""
+  ],
+  [
+    "市税の猶予|見附市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|見附市",
+    ""
+  ],
+  [
+    "保育料の減免|見附市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|見附市",
+    ""
+  ],
+  [
+    "相談窓口|見附市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|見附市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|見附市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|見附市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|見附市",
+    ""
+  ],
+  [
     "ポータル|村上市",
     "https://www.city.murakami.lg.jp/"
   ],
   [
-    "公営住宅|村上市",
+    "市営住宅|村上市",
+    ""
+  ],
+  [
+    "県営住宅|村上市",
     ""
   ],
   [
@@ -3260,7 +4536,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|村上市",
+    "母子父子寡婦福祉資金の住宅資金貸付|村上市",
     ""
   ],
   [
@@ -3340,10 +4616,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|村上市",
-    ""
-  ],
-  [
     "公費解体|村上市",
     ""
   ],
@@ -3356,11 +4628,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|村上市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|村上市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|村上市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|村上市",
+    ""
+  ],
+  [
+    "市税の猶予|村上市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|村上市",
+    ""
+  ],
+  [
+    "保育料の減免|村上市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|村上市",
+    ""
+  ],
+  [
+    "相談窓口|村上市",
+    "（市）@https://www.city.tsubame.niigata.jp/soshiki/somu/2/14/16776.html"
+  ],
+  [
+    "国民健康保険一部負担金の減免|村上市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|村上市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|村上市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|村上市",
+    ""
+  ],
+  [
     "ポータル|燕市",
     "https://www.city.tsubame.niigata.jp/"
   ],
   [
-    "公営住宅|燕市",
+    "市営住宅|燕市",
+    ""
+  ],
+  [
+    "県営住宅|燕市",
     ""
   ],
   [
@@ -3392,7 +4720,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|燕市",
+    "母子父子寡婦福祉資金の住宅資金貸付|燕市",
     ""
   ],
   [
@@ -3461,7 +4789,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|燕市",
-    ""
+    "（市）防災課@tel:0256-77-8381"
   ],
   [
     "災害弔慰金|燕市",
@@ -3469,10 +4797,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|燕市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|燕市",
     ""
   ],
   [
@@ -3488,11 +4812,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|燕市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|燕市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|燕市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|燕市",
+    ""
+  ],
+  [
+    "市税の猶予|燕市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|燕市",
+    ""
+  ],
+  [
+    "保育料の減免|燕市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|燕市",
+    ""
+  ],
+  [
+    "相談窓口|燕市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|燕市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|燕市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|燕市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|燕市",
+    ""
+  ],
+  [
     "ポータル|糸魚川市",
     "https://www.city.itoigawa.lg.jp/"
   ],
   [
-    "公営住宅|糸魚川市",
+    "市営住宅|糸魚川市",
+    ""
+  ],
+  [
+    "県営住宅|糸魚川市",
     ""
   ],
   [
@@ -3521,10 +4901,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|糸魚川市",
-    ""
+    "（市）環境生活課環境係@https://www.city.itoigawa.lg.jp/item/34624.htm#ContentPane"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|糸魚川市",
+    "母子父子寡婦福祉資金の住宅資金貸付|糸魚川市",
     ""
   ],
   [
@@ -3593,7 +4973,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|糸魚川市",
-    ""
+    "（市）都市政策課@https://www.city.itoigawa.lg.jp/item/34708.htm#ContentPane"
   ],
   [
     "災害弔慰金|糸魚川市",
@@ -3601,10 +4981,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|糸魚川市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|糸魚川市",
     ""
   ],
   [
@@ -3620,11 +4996,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|糸魚川市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|糸魚川市",
+    "（市）建設課@https://www.city.itoigawa.lg.jp/item/34709.htm#ContentPane"
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|糸魚川市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|糸魚川市",
+    ""
+  ],
+  [
+    "市税の猶予|糸魚川市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|糸魚川市",
+    ""
+  ],
+  [
+    "保育料の減免|糸魚川市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|糸魚川市",
+    ""
+  ],
+  [
+    "相談窓口|糸魚川市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|糸魚川市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|糸魚川市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|糸魚川市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|糸魚川市",
+    ""
+  ],
+  [
     "ポータル|妙高市",
     "https://www.city.myoko.niigata.jp/"
   ],
   [
-    "公営住宅|妙高市",
+    "市営住宅|妙高市",
+    ""
+  ],
+  [
+    "県営住宅|妙高市",
     ""
   ],
   [
@@ -3656,7 +5088,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|妙高市",
+    "母子父子寡婦福祉資金の住宅資金貸付|妙高市",
     ""
   ],
   [
@@ -3725,7 +5157,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|妙高市",
-    ""
+    "（市）総務課危機管理室@tel:0255-72-5111"
   ],
   [
     "災害弔慰金|妙高市",
@@ -3733,10 +5165,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|妙高市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|妙高市",
     ""
   ],
   [
@@ -3752,11 +5180,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|妙高市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|妙高市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|妙高市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|妙高市",
+    ""
+  ],
+  [
+    "市税の猶予|妙高市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|妙高市",
+    ""
+  ],
+  [
+    "保育料の減免|妙高市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|妙高市",
+    ""
+  ],
+  [
+    "相談窓口|妙高市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|妙高市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|妙高市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|妙高市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|妙高市",
+    ""
+  ],
+  [
     "ポータル|五泉市",
     "https://www.city.gosen.lg.jp/index.html"
   ],
   [
-    "公営住宅|五泉市",
+    "市営住宅|五泉市",
+    ""
+  ],
+  [
+    "県営住宅|五泉市",
     ""
   ],
   [
@@ -3788,7 +5272,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|五泉市",
+    "母子父子寡婦福祉資金の住宅資金貸付|五泉市",
     ""
   ],
   [
@@ -3857,7 +5341,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|五泉市",
-    ""
+    "（市）都市整備課@https://www.city.gosen.lg.jp/organization/14/7/1/10414.html"
   ],
   [
     "災害弔慰金|五泉市",
@@ -3865,10 +5349,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|五泉市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|五泉市",
     ""
   ],
   [
@@ -3884,11 +5364,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|五泉市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|五泉市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|五泉市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|五泉市",
+    ""
+  ],
+  [
+    "市税の猶予|五泉市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|五泉市",
+    ""
+  ],
+  [
+    "保育料の減免|五泉市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|五泉市",
+    ""
+  ],
+  [
+    "相談窓口|五泉市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|五泉市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|五泉市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|五泉市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|五泉市",
+    ""
+  ],
+  [
     "ポータル|上越市",
     "https://www.city.joetsu.niigata.jp/"
   ],
   [
-    "公営住宅|上越市",
+    "市営住宅|上越市",
+    "（市）建築住宅課 公営住宅係@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/r6notohantojisin-sieinyukyo.html"
+  ],
+  [
+    "県営住宅|上越市",
     ""
   ],
   [
@@ -3905,11 +5441,11 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|上越市",
-    ""
+    "（市）危機管理課 危機管理係@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/hisaishaseikatsusaikenjigyou.html"
   ],
   [
     "災害援護資金貸付|上越市",
-    ""
+    "（市）福祉課 福祉総務係@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/saigaienngosikin-notohanntojisin.html"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|上越市",
@@ -3917,10 +5453,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|上越市",
-    ""
+    "（市）建築住宅課 営繕室@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/yanekinnkyuusyuuri.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|上越市",
+    "母子父子寡婦福祉資金の住宅資金貸付|上越市",
     ""
   ],
   [
@@ -3929,7 +5465,7 @@ export default new Map([
   ],
   [
     "教科書等の無償給与|上越市",
-    ""
+    "（市）学校教育課 学事・庶務係@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/saigai-gakuyouhin2024.html"
   ],
   [
     "特別支援学校等への就学奨励事業|上越市",
@@ -3969,15 +5505,15 @@ export default new Map([
   ],
   [
     "国民健康保険税の減免|上越市",
-    ""
+    "（市）国保年金課 国保管理係@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/kokuhozei-saigai.html"
   ],
   [
     "介護保険料の減免・猶予|上越市",
-    ""
+    "（市）高齢者支援課 賦課給付係@https://www.city.joetsu.niigata.jp/site/kaigo/kaigo-saigai.html"
   ],
   [
     "後期高齢者医療保険料の減免|上越市",
-    ""
+    "（市）国保年金課 後期高齢者医療係@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/kouki-genmen.html"
   ],
   [
     "後期高齢者医療の一部負担金の減免・徴収猶予|上越市",
@@ -3989,7 +5525,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|上越市",
-    ""
+    "（市）建築住宅課 住宅対策係@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/oukyuusyuuri.html"
   ],
   [
     "災害弔慰金|上越市",
@@ -3997,10 +5533,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|上越市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|上越市",
     ""
   ],
   [
@@ -4016,11 +5548,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|上越市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|上越市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|上越市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|上越市",
+    "（市）ガス水道局総務課料金出納係@https://gwhp.city.joetsu.niigata.jp/customer/20240115shienseido/"
+  ],
+  [
+    "市税の猶予|上越市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|上越市",
+    "（市）危機管理課 危機管理係@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/seikatsuhitsujuhin.html"
+  ],
+  [
+    "保育料の減免|上越市",
+    "（市）幼児保育課 保育係@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/genmen.html"
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|上越市",
+    ""
+  ],
+  [
+    "相談窓口|上越市",
+    "（市）@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/shienlist.html"
+  ],
+  [
+    "国民健康保険一部負担金の減免|上越市",
+    "（市）国保年金課 国保給付係@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/kokuho-genmen.html"
+  ],
+  [
+    "国民年金保険料の免除|上越市",
+    "（市）国保年金課 年金係@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/nenkin-saigai.html"
+  ],
+  [
+    "1.5次・2次避難|上越市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|上越市",
+    ""
+  ],
+  [
     "ポータル|阿賀野市",
     "https://www.city.agano.niigata.jp/"
   ],
   [
-    "公営住宅|阿賀野市",
+    "市営住宅|阿賀野市",
+    ""
+  ],
+  [
+    "県営住宅|阿賀野市",
     ""
   ],
   [
@@ -4052,7 +5640,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|阿賀野市",
+    "母子父子寡婦福祉資金の住宅資金貸付|阿賀野市",
     ""
   ],
   [
@@ -4132,10 +5720,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|阿賀野市",
-    ""
-  ],
-  [
     "公費解体|阿賀野市",
     ""
   ],
@@ -4148,11 +5732,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|阿賀野市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|阿賀野市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|阿賀野市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|阿賀野市",
+    ""
+  ],
+  [
+    "市税の猶予|阿賀野市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|阿賀野市",
+    ""
+  ],
+  [
+    "保育料の減免|阿賀野市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|阿賀野市",
+    ""
+  ],
+  [
+    "相談窓口|阿賀野市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|阿賀野市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|阿賀野市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|阿賀野市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|阿賀野市",
+    ""
+  ],
+  [
     "ポータル|佐渡市",
     "https://www.city.sado.niigata.jp/"
   ],
   [
-    "公営住宅|佐渡市",
+    "市営住宅|佐渡市",
+    ""
+  ],
+  [
+    "県営住宅|佐渡市",
     ""
   ],
   [
@@ -4177,14 +5817,14 @@ export default new Map([
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|佐渡市",
-    ""
+    "（市）社会福祉協議会福祉課生活支援係@https://www.city.sado.niigata.jp/site/bousai/56949.html"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|佐渡市",
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|佐渡市",
+    "母子父子寡婦福祉資金の住宅資金貸付|佐渡市",
     ""
   ],
   [
@@ -4253,7 +5893,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|佐渡市",
-    ""
+    "（市）建設部建築住宅課@https://www.city.sado.niigata.jp/site/bousai/56949.html"
   ],
   [
     "災害弔慰金|佐渡市",
@@ -4261,10 +5901,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|佐渡市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|佐渡市",
     ""
   ],
   [
@@ -4280,11 +5916,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|佐渡市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|佐渡市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|佐渡市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|佐渡市",
+    ""
+  ],
+  [
+    "市税の猶予|佐渡市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|佐渡市",
+    ""
+  ],
+  [
+    "保育料の減免|佐渡市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|佐渡市",
+    ""
+  ],
+  [
+    "相談窓口|佐渡市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|佐渡市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|佐渡市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|佐渡市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|佐渡市",
+    ""
+  ],
+  [
     "ポータル|魚沼市",
     "https://www.city.uonuma.lg.jp/"
   ],
   [
-    "公営住宅|魚沼市",
+    "市営住宅|魚沼市",
+    ""
+  ],
+  [
+    "県営住宅|魚沼市",
     ""
   ],
   [
@@ -4316,7 +6008,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|魚沼市",
+    "母子父子寡婦福祉資金の住宅資金貸付|魚沼市",
     ""
   ],
   [
@@ -4396,10 +6088,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|魚沼市",
-    ""
-  ],
-  [
     "公費解体|魚沼市",
     ""
   ],
@@ -4412,11 +6100,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|魚沼市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|魚沼市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|魚沼市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|魚沼市",
+    ""
+  ],
+  [
+    "市税の猶予|魚沼市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|魚沼市",
+    ""
+  ],
+  [
+    "保育料の減免|魚沼市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|魚沼市",
+    ""
+  ],
+  [
+    "相談窓口|魚沼市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|魚沼市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|魚沼市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|魚沼市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|魚沼市",
+    ""
+  ],
+  [
     "ポータル|南魚沼市",
     "https://www.city.minamiuonuma.niigata.jp/"
   ],
   [
-    "公営住宅|南魚沼市",
+    "市営住宅|南魚沼市",
+    ""
+  ],
+  [
+    "県営住宅|南魚沼市",
     ""
   ],
   [
@@ -4448,7 +6192,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|南魚沼市",
+    "母子父子寡婦福祉資金の住宅資金貸付|南魚沼市",
     ""
   ],
   [
@@ -4517,7 +6261,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|南魚沼市",
-    ""
+    "（市）総務課防災庶務班@https://www.city.minamiuonuma.niigata.jp/docs/53524.html"
   ],
   [
     "災害弔慰金|南魚沼市",
@@ -4525,10 +6269,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|南魚沼市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|南魚沼市",
     ""
   ],
   [
@@ -4544,11 +6284,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|南魚沼市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|南魚沼市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|南魚沼市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|南魚沼市",
+    ""
+  ],
+  [
+    "市税の猶予|南魚沼市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|南魚沼市",
+    ""
+  ],
+  [
+    "保育料の減免|南魚沼市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|南魚沼市",
+    ""
+  ],
+  [
+    "相談窓口|南魚沼市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|南魚沼市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|南魚沼市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|南魚沼市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|南魚沼市",
+    ""
+  ],
+  [
     "ポータル|胎内市",
     "https://www.city.tainai.niigata.jp/"
   ],
   [
-    "公営住宅|胎内市",
+    "市営住宅|胎内市",
+    ""
+  ],
+  [
+    "県営住宅|胎内市",
     ""
   ],
   [
@@ -4580,7 +6376,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|胎内市",
+    "母子父子寡婦福祉資金の住宅資金貸付|胎内市",
     ""
   ],
   [
@@ -4660,10 +6456,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|胎内市",
-    ""
-  ],
-  [
     "公費解体|胎内市",
     ""
   ],
@@ -4676,11 +6468,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|胎内市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|胎内市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|胎内市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|胎内市",
+    ""
+  ],
+  [
+    "市税の猶予|胎内市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|胎内市",
+    ""
+  ],
+  [
+    "保育料の減免|胎内市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|胎内市",
+    ""
+  ],
+  [
+    "相談窓口|胎内市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|胎内市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|胎内市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|胎内市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|胎内市",
+    ""
+  ],
+  [
     "ポータル|聖籠町",
     "https://www.town.seiro.niigata.jp/"
   ],
   [
-    "公営住宅|聖籠町",
+    "市営住宅|聖籠町",
+    ""
+  ],
+  [
+    "県営住宅|聖籠町",
     ""
   ],
   [
@@ -4712,7 +6560,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|聖籠町",
+    "母子父子寡婦福祉資金の住宅資金貸付|聖籠町",
     ""
   ],
   [
@@ -4792,10 +6640,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|聖籠町",
-    ""
-  ],
-  [
     "公費解体|聖籠町",
     ""
   ],
@@ -4808,11 +6652,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|聖籠町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|聖籠町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|聖籠町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|聖籠町",
+    ""
+  ],
+  [
+    "市税の猶予|聖籠町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|聖籠町",
+    ""
+  ],
+  [
+    "保育料の減免|聖籠町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|聖籠町",
+    ""
+  ],
+  [
+    "相談窓口|聖籠町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|聖籠町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|聖籠町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|聖籠町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|聖籠町",
+    ""
+  ],
+  [
     "ポータル|弥彦村",
     "https://www.vill.yahiko.niigata.jp/"
   ],
   [
-    "公営住宅|弥彦村",
+    "市営住宅|弥彦村",
+    ""
+  ],
+  [
+    "県営住宅|弥彦村",
     ""
   ],
   [
@@ -4844,7 +6744,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|弥彦村",
+    "母子父子寡婦福祉資金の住宅資金貸付|弥彦村",
     ""
   ],
   [
@@ -4924,10 +6824,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|弥彦村",
-    ""
-  ],
-  [
     "公費解体|弥彦村",
     ""
   ],
@@ -4940,11 +6836,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|弥彦村",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|弥彦村",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|弥彦村",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|弥彦村",
+    ""
+  ],
+  [
+    "市税の猶予|弥彦村",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|弥彦村",
+    ""
+  ],
+  [
+    "保育料の減免|弥彦村",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|弥彦村",
+    ""
+  ],
+  [
+    "相談窓口|弥彦村",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|弥彦村",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|弥彦村",
+    ""
+  ],
+  [
+    "1.5次・2次避難|弥彦村",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|弥彦村",
+    ""
+  ],
+  [
     "ポータル|田上町",
     "https://www.town.tagami.niigata.jp/"
   ],
   [
-    "公営住宅|田上町",
+    "市営住宅|田上町",
+    ""
+  ],
+  [
+    "県営住宅|田上町",
     ""
   ],
   [
@@ -4976,7 +6928,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|田上町",
+    "母子父子寡婦福祉資金の住宅資金貸付|田上町",
     ""
   ],
   [
@@ -5056,10 +7008,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|田上町",
-    ""
-  ],
-  [
     "公費解体|田上町",
     ""
   ],
@@ -5072,11 +7020,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|田上町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|田上町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|田上町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|田上町",
+    ""
+  ],
+  [
+    "市税の猶予|田上町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|田上町",
+    ""
+  ],
+  [
+    "保育料の減免|田上町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|田上町",
+    ""
+  ],
+  [
+    "相談窓口|田上町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|田上町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|田上町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|田上町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|田上町",
+    ""
+  ],
+  [
     "ポータル|阿賀町",
     "https://www.town.aga.niigata.jp/"
   ],
   [
-    "公営住宅|阿賀町",
+    "市営住宅|阿賀町",
+    ""
+  ],
+  [
+    "県営住宅|阿賀町",
     ""
   ],
   [
@@ -5108,7 +7112,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|阿賀町",
+    "母子父子寡婦福祉資金の住宅資金貸付|阿賀町",
     ""
   ],
   [
@@ -5188,10 +7192,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|阿賀町",
-    ""
-  ],
-  [
     "公費解体|阿賀町",
     ""
   ],
@@ -5204,11 +7204,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|阿賀町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|阿賀町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|阿賀町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|阿賀町",
+    ""
+  ],
+  [
+    "市税の猶予|阿賀町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|阿賀町",
+    ""
+  ],
+  [
+    "保育料の減免|阿賀町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|阿賀町",
+    ""
+  ],
+  [
+    "相談窓口|阿賀町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|阿賀町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|阿賀町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|阿賀町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|阿賀町",
+    ""
+  ],
+  [
     "ポータル|出雲崎町",
     "https://www.town.izumozaki.niigata.jp/"
   ],
   [
-    "公営住宅|出雲崎町",
+    "市営住宅|出雲崎町",
+    ""
+  ],
+  [
+    "県営住宅|出雲崎町",
     ""
   ],
   [
@@ -5240,7 +7296,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|出雲崎町",
+    "母子父子寡婦福祉資金の住宅資金貸付|出雲崎町",
     ""
   ],
   [
@@ -5309,7 +7365,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|出雲崎町",
-    ""
+    "（市）総務課庶務防災係@tel:0258-78-2290"
   ],
   [
     "災害弔慰金|出雲崎町",
@@ -5317,10 +7373,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|出雲崎町",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|出雲崎町",
     ""
   ],
   [
@@ -5336,11 +7388,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|出雲崎町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|出雲崎町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|出雲崎町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|出雲崎町",
+    ""
+  ],
+  [
+    "市税の猶予|出雲崎町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|出雲崎町",
+    ""
+  ],
+  [
+    "保育料の減免|出雲崎町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|出雲崎町",
+    ""
+  ],
+  [
+    "相談窓口|出雲崎町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|出雲崎町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|出雲崎町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|出雲崎町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|出雲崎町",
+    ""
+  ],
+  [
     "ポータル|湯沢町",
     "https://www.town.yuzawa.lg.jp/index.html"
   ],
   [
-    "公営住宅|湯沢町",
+    "市営住宅|湯沢町",
+    ""
+  ],
+  [
+    "県営住宅|湯沢町",
     ""
   ],
   [
@@ -5372,7 +7480,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|湯沢町",
+    "母子父子寡婦福祉資金の住宅資金貸付|湯沢町",
     ""
   ],
   [
@@ -5452,10 +7560,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|湯沢町",
-    ""
-  ],
-  [
     "公費解体|湯沢町",
     ""
   ],
@@ -5468,11 +7572,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|湯沢町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|湯沢町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|湯沢町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|湯沢町",
+    ""
+  ],
+  [
+    "市税の猶予|湯沢町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|湯沢町",
+    ""
+  ],
+  [
+    "保育料の減免|湯沢町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|湯沢町",
+    ""
+  ],
+  [
+    "相談窓口|湯沢町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|湯沢町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|湯沢町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|湯沢町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|湯沢町",
+    ""
+  ],
+  [
     "ポータル|津南町",
     "https://www.town.tsunan.niigata.jp/"
   ],
   [
-    "公営住宅|津南町",
+    "市営住宅|津南町",
+    ""
+  ],
+  [
+    "県営住宅|津南町",
     ""
   ],
   [
@@ -5504,7 +7664,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|津南町",
+    "母子父子寡婦福祉資金の住宅資金貸付|津南町",
     ""
   ],
   [
@@ -5584,10 +7744,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|津南町",
-    ""
-  ],
-  [
     "公費解体|津南町",
     ""
   ],
@@ -5600,11 +7756,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|津南町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|津南町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|津南町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|津南町",
+    ""
+  ],
+  [
+    "市税の猶予|津南町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|津南町",
+    ""
+  ],
+  [
+    "保育料の減免|津南町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|津南町",
+    ""
+  ],
+  [
+    "相談窓口|津南町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|津南町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|津南町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|津南町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|津南町",
+    ""
+  ],
+  [
     "ポータル|刈羽村",
     "https://www.vill.kariwa.niigata.jp/"
   ],
   [
-    "公営住宅|刈羽村",
+    "市営住宅|刈羽村",
+    ""
+  ],
+  [
+    "県営住宅|刈羽村",
     ""
   ],
   [
@@ -5636,7 +7848,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|刈羽村",
+    "母子父子寡婦福祉資金の住宅資金貸付|刈羽村",
     ""
   ],
   [
@@ -5716,10 +7928,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|刈羽村",
-    ""
-  ],
-  [
     "公費解体|刈羽村",
     ""
   ],
@@ -5732,11 +7940,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|刈羽村",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|刈羽村",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|刈羽村",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|刈羽村",
+    ""
+  ],
+  [
+    "市税の猶予|刈羽村",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|刈羽村",
+    ""
+  ],
+  [
+    "保育料の減免|刈羽村",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|刈羽村",
+    ""
+  ],
+  [
+    "相談窓口|刈羽村",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|刈羽村",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|刈羽村",
+    ""
+  ],
+  [
+    "1.5次・2次避難|刈羽村",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|刈羽村",
+    ""
+  ],
+  [
     "ポータル|関川村",
     "http://www.vill.sekikawa.niigata.jp/"
   ],
   [
-    "公営住宅|関川村",
+    "市営住宅|関川村",
+    ""
+  ],
+  [
+    "県営住宅|関川村",
     ""
   ],
   [
@@ -5768,7 +8032,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|関川村",
+    "母子父子寡婦福祉資金の住宅資金貸付|関川村",
     ""
   ],
   [
@@ -5848,10 +8112,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|関川村",
-    ""
-  ],
-  [
     "公費解体|関川村",
     ""
   ],
@@ -5864,11 +8124,67 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|関川村",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|関川村",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|関川村",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|関川村",
+    ""
+  ],
+  [
+    "市税の猶予|関川村",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|関川村",
+    ""
+  ],
+  [
+    "保育料の減免|関川村",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|関川村",
+    ""
+  ],
+  [
+    "相談窓口|関川村",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|関川村",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|関川村",
+    ""
+  ],
+  [
+    "1.5次・2次避難|関川村",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|関川村",
+    ""
+  ],
+  [
     "ポータル|粟島浦村",
     "https://www.vill.awashimaura.lg.jp/"
   ],
   [
-    "公営住宅|粟島浦村",
+    "市営住宅|粟島浦村",
+    ""
+  ],
+  [
+    "県営住宅|粟島浦村",
     ""
   ],
   [
@@ -5900,7 +8216,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|粟島浦村",
+    "母子父子寡婦福祉資金の住宅資金貸付|粟島浦村",
     ""
   ],
   [
@@ -5980,10 +8296,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|粟島浦村",
-    ""
-  ],
-  [
     "公費解体|粟島浦村",
     ""
   ],
@@ -5996,16 +8308,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|粟島浦村",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|粟島浦村",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|粟島浦村",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|粟島浦村",
+    ""
+  ],
+  [
+    "市税の猶予|粟島浦村",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|粟島浦村",
+    ""
+  ],
+  [
+    "保育料の減免|粟島浦村",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|粟島浦村",
+    ""
+  ],
+  [
+    "相談窓口|粟島浦村",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|粟島浦村",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|粟島浦村",
+    ""
+  ],
+  [
+    "1.5次・2次避難|粟島浦村",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|粟島浦村",
+    ""
+  ],
+  [
     "ポータル|金沢市",
     "https://www4.city.kanazawa.lg.jp/"
   ],
   [
-    "公営住宅|金沢市",
+    "市営住宅|金沢市",
+    "（市）住宅政策課@https://www4.city.kanazawa.lg.jp/soshikikarasagasu/jutakuseisakuka/gyomuannai/1/25796.html"
+  ],
+  [
+    "県営住宅|金沢市",
     ""
   ],
   [
     "賃貸型応急住宅|金沢市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）住宅政策課@https://www4.city.kanazawa.lg.jp/soshikikarasagasu/jutakuseisakuka/gyomuannai/1/25739.html"
   ],
   [
     "災害見舞金|金沢市",
@@ -6017,7 +8385,7 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|金沢市",
-    ""
+    "（市）生活支援課@https://www4.city.kanazawa.lg.jp/soshikikarasagasu/seikatsushienka/oshirase/25742.html"
   ],
   [
     "災害援護資金貸付|金沢市",
@@ -6029,10 +8397,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|金沢市",
-    ""
+    "（市）住宅政策課@https://www4.city.kanazawa.lg.jp/soshikikarasagasu/jutakuseisakuka/gyomuannai/1/25693.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|金沢市",
+    "母子父子寡婦福祉資金の住宅資金貸付|金沢市",
     ""
   ],
   [
@@ -6065,7 +8433,7 @@ export default new Map([
   ],
   [
     "小・中学生の就学援助措置|金沢市",
-    ""
+    "（市）教育総務課@https://www4.city.kanazawa.lg.jp/soshikikarasagasu/kyoikusomuka/gyomuannai/3_1/25834.html"
   ],
   [
     "大学等授業料等減免措置|金沢市",
@@ -6081,7 +8449,7 @@ export default new Map([
   ],
   [
     "国民健康保険税の減免|金沢市",
-    ""
+    "（市）医療保険課@https://www4.city.kanazawa.lg.jp/soshikikarasagasu/iryohokenka/gyomuannai/1/2/25868.html"
   ],
   [
     "介護保険料の減免・猶予|金沢市",
@@ -6101,18 +8469,14 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|金沢市",
-    ""
+    "（市）住宅政策課@https://www4.city.kanazawa.lg.jp/soshikikarasagasu/jutakuseisakuka/gyomuannai/1/25689.html"
   ],
   [
     "災害弔慰金|金沢市",
-    ""
+    "（市）生活支援課@https://www4.city.kanazawa.lg.jp/soshikikarasagasu/seikatsushienka/oshirase/25796.html"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|金沢市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|金沢市",
     ""
   ],
   [
@@ -6128,16 +8492,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|金沢市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|金沢市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|金沢市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|金沢市",
+    ""
+  ],
+  [
+    "市税の猶予|金沢市",
+    "（市）市民税課、資産税課、税務課@https://www4.city.kanazawa.lg.jp/soshikikarasagasu/zeimuka/oshirase/25836.html"
+  ],
+  [
+    "生活必需品を支給または貸与|金沢市",
+    ""
+  ],
+  [
+    "保育料の減免|金沢市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|金沢市",
+    ""
+  ],
+  [
+    "相談窓口|金沢市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|金沢市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|金沢市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|金沢市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|金沢市",
+    ""
+  ],
+  [
     "ポータル|七尾市",
     "http://www.city.nanao.lg.jp/"
   ],
   [
-    "公営住宅|七尾市",
+    "市営住宅|七尾市",
+    "（市）建設部都市建築課@https://www.city.nanao.lg.jp/toshikenchiku/kurashi/sumai/sumai/nyukyosha/shieijuutakukinnkyuunyuukyo.html"
+  ],
+  [
+    "県営住宅|七尾市",
     ""
   ],
   [
     "賃貸型応急住宅|七尾市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）建設部都市建築課@https://www.city.nanao.lg.jp/toshikenchiku/oukyuujutaku.html"
   ],
   [
     "災害見舞金|七尾市",
@@ -6161,10 +8581,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|七尾市",
-    ""
+    "（市）建設部都市建築課@https://www.city.nanao.lg.jp/toshikenchiku/kurashi/jishin.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|七尾市",
+    "母子父子寡婦福祉資金の住宅資金貸付|七尾市",
     ""
   ],
   [
@@ -6233,7 +8653,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|七尾市",
-    ""
+    "（市）建設部都市建築課@https://www.city.nanao.lg.jp/toshikenchiku/kurashi/jishin2.html"
   ],
   [
     "災害弔慰金|七尾市",
@@ -6241,10 +8661,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|七尾市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|七尾市",
     ""
   ],
   [
@@ -6260,16 +8676,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|七尾市",
+    "（市）建設部都市建築課@https://www.city.nanao.lg.jp/toshikenchiku/kurashi/sumai/sumai/nyukyosha/teijuukinnkyuunyuukyo.html"
+  ],
+  [
+    "被災住宅敷地復旧補助金|七尾市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|七尾市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|七尾市",
+    ""
+  ],
+  [
+    "市税の猶予|七尾市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|七尾市",
+    ""
+  ],
+  [
+    "保育料の減免|七尾市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|七尾市",
+    ""
+  ],
+  [
+    "相談窓口|七尾市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|七尾市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|七尾市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|七尾市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|七尾市",
+    ""
+  ],
+  [
     "ポータル|小松市",
     "https://www.city.komatsu.lg.jp/"
   ],
   [
-    "公営住宅|小松市",
+    "市営住宅|小松市",
+    ""
+  ],
+  [
+    "県営住宅|小松市",
     ""
   ],
   [
     "賃貸型応急住宅|小松市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    ""
   ],
   [
     "災害見舞金|小松市",
@@ -6293,10 +8765,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|小松市",
-    ""
+    "（市）建築住宅課@https://www.city.komatsu.lg.jp/emergency_info/16350.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|小松市",
+    "母子父子寡婦福祉資金の住宅資金貸付|小松市",
     ""
   ],
   [
@@ -6305,7 +8777,7 @@ export default new Map([
   ],
   [
     "教科書等の無償給与|小松市",
-    ""
+    "（市）学校教育課@https://www.city.komatsu.lg.jp/soshiki/1045/oshirase/16331.html"
   ],
   [
     "特別支援学校等への就学奨励事業|小松市",
@@ -6337,7 +8809,7 @@ export default new Map([
   ],
   [
     "住民税,固定資産税の減免|小松市",
-    ""
+    "（市）税務課@https://www.city.komatsu.lg.jp/emergency/16352.html"
   ],
   [
     "国税の減免・猶予|小松市",
@@ -6365,7 +8837,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|小松市",
-    ""
+    "（市）建築住宅課@https://www.city.komatsu.lg.jp/emergency_info/16349.html"
   ],
   [
     "災害弔慰金|小松市",
@@ -6373,10 +8845,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|小松市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|小松市",
     ""
   ],
   [
@@ -6392,16 +8860,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|小松市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|小松市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|小松市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|小松市",
+    ""
+  ],
+  [
+    "市税の猶予|小松市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|小松市",
+    ""
+  ],
+  [
+    "保育料の減免|小松市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|小松市",
+    ""
+  ],
+  [
+    "相談窓口|小松市",
+    "応急修理相談窓口@https://www.city.komatsu.lg.jp/emergency/16266.html"
+  ],
+  [
+    "国民健康保険一部負担金の減免|小松市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|小松市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|小松市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|小松市",
+    ""
+  ],
+  [
     "ポータル|輪島市",
     "https://www.city.wajima.ishikawa.jp/"
   ],
   [
-    "公営住宅|輪島市",
+    "市営住宅|輪島市",
+    ""
+  ],
+  [
+    "県営住宅|輪島市",
     ""
   ],
   [
     "賃貸型応急住宅|輪島市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）建設部まちづくり推進課@https://www.city.wajima.ishikawa.jp/article/2024012400038/"
   ],
   [
     "災害見舞金|輪島市",
@@ -6425,10 +8949,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|輪島市",
-    ""
+    "（市）建設部まちづくり推進課@https://www.city.wajima.ishikawa.jp/article/2024011500029/"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|輪島市",
+    "母子父子寡婦福祉資金の住宅資金貸付|輪島市",
     ""
   ],
   [
@@ -6461,7 +8985,7 @@ export default new Map([
   ],
   [
     "小・中学生の就学援助措置|輪島市",
-    ""
+    "（市）教育委員会教育総務課@https://www.city.wajima.ishikawa.jp/article/2024011400022/"
   ],
   [
     "大学等授業料等減免措置|輪島市",
@@ -6469,7 +8993,7 @@ export default new Map([
   ],
   [
     "住民税,固定資産税の減免|輪島市",
-    ""
+    "（市）市民生活部税務課)@https://www.city.wajima.ishikawa.jp/article/2024011800044/"
   ],
   [
     "国税の減免・猶予|輪島市",
@@ -6508,10 +9032,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|輪島市",
-    ""
-  ],
-  [
     "公費解体|輪島市",
     ""
   ],
@@ -6521,6 +9041,58 @@ export default new Map([
   ],
   [
     "応急仮設住宅（建設型）|輪島市",
+    "（市）建設部まちづくり推進課@https://www.city.wajima.ishikawa.jp/article/2024011000031/"
+  ],
+  [
+    "定住促進住宅の緊急入居について|輪島市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|輪島市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|輪島市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|輪島市",
+    ""
+  ],
+  [
+    "市税の猶予|輪島市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|輪島市",
+    ""
+  ],
+  [
+    "保育料の減免|輪島市",
+    "市(健康福祉部子育て健康課)@https://www.city.wajima.ishikawa.jp/article/2024011800020/"
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|輪島市",
+    ""
+  ],
+  [
+    "相談窓口|輪島市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|輪島市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|輪島市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|輪島市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|輪島市",
     ""
   ],
   [
@@ -6528,12 +9100,16 @@ export default new Map([
     "https://www.city.suzu.lg.jp/"
   ],
   [
-    "公営住宅|珠洲市",
+    "市営住宅|珠洲市",
+    ""
+  ],
+  [
+    "県営住宅|珠洲市",
     ""
   ],
   [
     "賃貸型応急住宅|珠洲市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）環境建設課建築住宅係@https://www.city.suzu.lg.jp/soshiki/5/11659.html"
   ],
   [
     "災害見舞金|珠洲市",
@@ -6560,7 +9136,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|珠洲市",
+    "母子父子寡婦福祉資金の住宅資金貸付|珠洲市",
     ""
   ],
   [
@@ -6629,7 +9205,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|珠洲市",
-    ""
+    "（市）環境建設課建築住宅係@https://www.city.suzu.lg.jp/soshiki/5/11537.html"
   ],
   [
     "災害弔慰金|珠洲市",
@@ -6637,10 +9213,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|珠洲市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|珠洲市",
     ""
   ],
   [
@@ -6653,27 +9225,83 @@ export default new Map([
   ],
   [
     "応急仮設住宅（建設型）|珠洲市",
+    "（市）環境建設課建築住宅係@https://www.city.suzu.lg.jp/soshiki/5/11680.html"
+  ],
+  [
+    "定住促進住宅の緊急入居について|珠洲市",
     ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|珠洲市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|珠洲市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|珠洲市",
+    ""
+  ],
+  [
+    "市税の猶予|珠洲市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|珠洲市",
+    ""
+  ],
+  [
+    "保育料の減免|珠洲市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|珠洲市",
+    ""
+  ],
+  [
+    "相談窓口|珠洲市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|珠洲市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|珠洲市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|珠洲市",
+    "1.5次・2次避難@https://www.city.suzu.lg.jp/soshiki/2/11752.html"
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|珠洲市",
+    "地震で亡くなられた方の搬送や火葬@https://www.city.suzu.lg.jp/soshiki/3/11644.html"
   ],
   [
     "ポータル|加賀市",
     "https://www.city.kaga.ishikawa.jp/"
   ],
   [
-    "公営住宅|加賀市",
+    "市営住宅|加賀市",
+    ""
+  ],
+  [
+    "県営住宅|加賀市",
     ""
   ],
   [
     "賃貸型応急住宅|加賀市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）建築課@tel:0761-72-7936"
   ],
   [
     "災害見舞金|加賀市",
-    ""
+    "（市）窓口課@https://www.city.kaga.ishikawa.jp/soshiki/shiminkenko/madoguchi/7/505.html"
   ],
   [
     "児童扶養手当の特例|加賀市",
-    ""
+    "（市）子育て支援課@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/29?page_no=11778"
   ],
   [
     "被災者生活再建支援制度|加賀市",
@@ -6689,10 +9317,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|加賀市",
-    ""
+    "（市）建築課建築グループ@https://www.city.kaga.ishikawa.jp/kinkyu/11792.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|加賀市",
+    "母子父子寡婦福祉資金の住宅資金貸付|加賀市",
     ""
   ],
   [
@@ -6733,7 +9361,7 @@ export default new Map([
   ],
   [
     "住民税,固定資産税の減免|加賀市",
-    ""
+    "（市）税料金課@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/36?page_no=11778"
   ],
   [
     "国税の減免・猶予|加賀市",
@@ -6745,7 +9373,7 @@ export default new Map([
   ],
   [
     "介護保険料の減免・猶予|加賀市",
-    ""
+    "（市）介護福祉課@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/113?page_no=11778"
   ],
   [
     "後期高齢者医療保険料の減免|加賀市",
@@ -6753,7 +9381,7 @@ export default new Map([
   ],
   [
     "後期高齢者医療の一部負担金の減免・徴収猶予|加賀市",
-    ""
+    "（市）保険年金課@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/33?page_no=11778"
   ],
   [
     "入院時の一部負担金の免除及び徴収猶予|加賀市",
@@ -6761,7 +9389,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|加賀市",
-    ""
+    "（市）建築課建築グループ@https://www.city.kaga.ishikawa.jp/kinkyu/11794.html"
   ],
   [
     "災害弔慰金|加賀市",
@@ -6769,10 +9397,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|加賀市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|加賀市",
     ""
   ],
   [
@@ -6788,16 +9412,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|加賀市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|加賀市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|加賀市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|加賀市",
+    "（市）水道料金お客さまセンター@https://www.city.kaga.ishikawa.jp/kinkyu/11775.html"
+  ],
+  [
+    "市税の猶予|加賀市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|加賀市",
+    ""
+  ],
+  [
+    "保育料の減免|加賀市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|加賀市",
+    ""
+  ],
+  [
+    "相談窓口|加賀市",
+    "応急修理相談窓口@https://www.city.kaga.ishikawa.jp/kinkyu/11767.html"
+  ],
+  [
+    "国民健康保険一部負担金の減免|加賀市",
+    "市（保険年金課）@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/33?page_no=11778"
+  ],
+  [
+    "国民年金保険料の免除|加賀市",
+    "市（保険年金課）@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/33?page_no=11778"
+  ],
+  [
+    "1.5次・2次避難|加賀市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|加賀市",
+    ""
+  ],
+  [
     "ポータル|羽咋市",
     "http://www.city.hakui.ishikawa.jp/"
   ],
   [
-    "公営住宅|羽咋市",
+    "市営住宅|羽咋市",
+    ""
+  ],
+  [
+    "県営住宅|羽咋市",
     ""
   ],
   [
     "賃貸型応急住宅|羽咋市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）地域整備課都市計画係@https://www.city.hakui.lg.jp/kinkyu/14675.html"
   ],
   [
     "災害見舞金|羽咋市",
@@ -6805,7 +9485,7 @@ export default new Map([
   ],
   [
     "児童扶養手当の特例|羽咋市",
-    ""
+    "（市）こども課@https://www.city.hakui.lg.jp/kinkyu/14712.html"
   ],
   [
     "被災者生活再建支援制度|羽咋市",
@@ -6821,10 +9501,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|羽咋市",
-    ""
+    "（市）地域整備課都市計画係@https://www.city.hakui.lg.jp/soshiki/sangyoukensetsubu/chiikiseibika/9/9/2/14580.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|羽咋市",
+    "母子父子寡婦福祉資金の住宅資金貸付|羽咋市",
     ""
   ],
   [
@@ -6893,7 +9573,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|羽咋市",
-    ""
+    "（市）地域整備課都市計画係@https://www.city.hakui.lg.jp/kinkyu/14619.html"
   ],
   [
     "災害弔慰金|羽咋市",
@@ -6901,10 +9581,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|羽咋市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|羽咋市",
     ""
   ],
   [
@@ -6920,16 +9596,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|羽咋市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|羽咋市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|羽咋市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|羽咋市",
+    ""
+  ],
+  [
+    "市税の猶予|羽咋市",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|羽咋市",
+    ""
+  ],
+  [
+    "保育料の減免|羽咋市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|羽咋市",
+    ""
+  ],
+  [
+    "相談窓口|羽咋市",
+    "市(地域整備課都市計画係)@https://www.city.hakui.lg.jp/kinkyu/14736.html"
+  ],
+  [
+    "国民健康保険一部負担金の減免|羽咋市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|羽咋市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|羽咋市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|羽咋市",
+    ""
+  ],
+  [
     "ポータル|かほく市",
     "https://www.city.kahoku.lg.jp/"
   ],
   [
-    "公営住宅|かほく市",
+    "市営住宅|かほく市",
+    "（市）産業建設部 都市建設課@https://www.city.kahoku.lg.jp/001/156/158/d010999.html"
+  ],
+  [
+    "県営住宅|かほく市",
     ""
   ],
   [
     "賃貸型応急住宅|かほく市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）産業建設部 都市建設課@https://www.city.kahoku.lg.jp/001/156/d010960.html"
   ],
   [
     "災害見舞金|かほく市",
@@ -6937,15 +9669,15 @@ export default new Map([
   ],
   [
     "児童扶養手当の特例|かほく市",
-    ""
+    "（市）こども家庭課@076-283-7155"
   ],
   [
     "被災者生活再建支援制度|かほく市",
-    ""
+    "（市）防災環境対策課@076-283-7124"
   ],
   [
     "災害援護資金貸付|かほく市",
-    ""
+    "（市）健康福祉課@076-283-7121"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|かほく市",
@@ -6953,19 +9685,19 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|かほく市",
-    ""
+    "（市）産業建設部 都市建設課@https://www.city.kahoku.lg.jp/001/156/d010954.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|かほく市",
-    ""
+    "母子父子寡婦福祉資金の住宅資金貸付|かほく市",
+    "（市）子ども総合センター@076-283-4320"
   ],
   [
     "災害障害見舞金|かほく市",
-    ""
+    "（市）健康福祉課@076-283-7121"
   ],
   [
     "教科書等の無償給与|かほく市",
-    ""
+    "（市）学校教育課）@076-283-7136"
   ],
   [
     "特別支援学校等への就学奨励事業|かほく市",
@@ -6973,11 +9705,11 @@ export default new Map([
   ],
   [
     "特別児童扶養手当・障害児福祉手当の特例|かほく市",
-    ""
+    "（市）健康福祉課@076-283-7120"
   ],
   [
     "特別障害者手当の特例|かほく市",
-    ""
+    "市（健康福祉課）@076-283-7120"
   ],
   [
     "福祉用具の再貸与・再購入|かほく市",
@@ -7009,15 +9741,15 @@ export default new Map([
   ],
   [
     "介護保険料の減免・猶予|かほく市",
-    ""
+    "（市）長寿介護課@076-283-7122"
   ],
   [
     "後期高齢者医療保険料の減免|かほく市",
-    ""
+    "（市）保険医療課@076-283-7123"
   ],
   [
     "後期高齢者医療の一部負担金の減免・徴収猶予|かほく市",
-    ""
+    "（市）保険医療課@076-283-7123"
   ],
   [
     "入院時の一部負担金の免除及び徴収猶予|かほく市",
@@ -7025,30 +9757,78 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|かほく市",
-    ""
+    "（市）産業建設部 都市建設課@https://www.city.kahoku.lg.jp/001/156/d010955.html"
   ],
   [
     "災害弔慰金|かほく市",
-    ""
+    "（市）健康福祉課@076-283-7121"
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|かほく市",
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|かほく市",
-    ""
-  ],
-  [
     "公費解体|かほく市",
-    ""
+    "（市）地域政策部 防災環境対策課@https://www.city.kahoku.lg.jp/001/102/103/d010994.html"
   ],
   [
     "公費解体（半壊対象）|かほく市",
-    ""
+    "市（地域政策部 防災環境対策課）@https://www.city.kahoku.lg.jp/001/102/103/d010994.html"
   ],
   [
     "応急仮設住宅（建設型）|かほく市",
+    ""
+  ],
+  [
+    "定住促進住宅の緊急入居について|かほく市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|かほく市",
+    "（市）地域政策部防災環境対策課@https://www.city.kahoku.lg.jp/010/018/d011005.html"
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|かほく市",
+    "（市）産業建設部 都市建設課@https://www.city.kahoku.lg.jp/001/156/159/d000716.html"
+  ],
+  [
+    "上下水道料金特別減免|かほく市",
+    "（市）水道料金お客さまセンター@https://www.city.kahoku.lg.jp/001/162/d010968.html"
+  ],
+  [
+    "市税の猶予|かほく市",
+    "（市）税務課@076-283-1114"
+  ],
+  [
+    "生活必需品を支給または貸与|かほく市",
+    ""
+  ],
+  [
+    "保育料の減免|かほく市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|かほく市",
+    ""
+  ],
+  [
+    "相談窓口|かほく市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|かほく市",
+    "市（保険医療課）@076-283-7123"
+  ],
+  [
+    "国民年金保険料の免除|かほく市",
+    "市（保険医療課）@076-283-7123"
+  ],
+  [
+    "1.5次・2次避難|かほく市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|かほく市",
     ""
   ],
   [
@@ -7056,12 +9836,16 @@ export default new Map([
     "https://www.city.hakusan.lg.jp/"
   ],
   [
-    "公営住宅|白山市",
+    "市営住宅|白山市",
+    ""
+  ],
+  [
+    "県営住宅|白山市",
     ""
   ],
   [
     "賃貸型応急住宅|白山市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）建築住宅課@tel:076-274-9567"
   ],
   [
     "災害見舞金|白山市",
@@ -7085,10 +9869,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|白山市",
-    ""
+    "（市）建築住宅課@https://www.pref.ishikawa.lg.jp/kenju/saigai/r6kinkyuusyuuri.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|白山市",
+    "母子父子寡婦福祉資金の住宅資金貸付|白山市",
     ""
   ],
   [
@@ -7129,7 +9913,7 @@ export default new Map([
   ],
   [
     "住民税,固定資産税の減免|白山市",
-    ""
+    "（市）総務部資産税課@https://www.city.hakusan.lg.jp/emergency/1000063/1011792/1011793.html"
   ],
   [
     "国税の減免・猶予|白山市",
@@ -7141,7 +9925,7 @@ export default new Map([
   ],
   [
     "介護保険料の減免・猶予|白山市",
-    ""
+    "（市）長寿介護課@076-274-9529"
   ],
   [
     "後期高齢者医療保険料の減免|白山市",
@@ -7149,7 +9933,7 @@ export default new Map([
   ],
   [
     "後期高齢者医療の一部負担金の減免・徴収猶予|白山市",
-    ""
+    "（市）保険年金課@076-274-9521"
   ],
   [
     "入院時の一部負担金の免除及び徴収猶予|白山市",
@@ -7168,10 +9952,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|白山市",
-    ""
-  ],
-  [
     "公費解体|白山市",
     ""
   ],
@@ -7184,16 +9964,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|白山市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|白山市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|白山市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|白山市",
+    ""
+  ],
+  [
+    "市税の猶予|白山市",
+    "（市）納税課@https://www.city.hakusan.lg.jp/kurashi/zei/1004648/1001574.html"
+  ],
+  [
+    "生活必需品を支給または貸与|白山市",
+    ""
+  ],
+  [
+    "保育料の減免|白山市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|白山市",
+    ""
+  ],
+  [
+    "相談窓口|白山市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|白山市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|白山市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|白山市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|白山市",
+    ""
+  ],
+  [
     "ポータル|能美市",
     "https://www.city.nomi.ishikawa.jp/"
   ],
   [
-    "公営住宅|能美市",
+    "市営住宅|能美市",
+    "（市）まち整備課@https://www.city.nomi.ishikawa.jp/www/contents/1704878831320/index.html"
+  ],
+  [
+    "県営住宅|能美市",
     ""
   ],
   [
     "賃貸型応急住宅|能美市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（市）まち整備課@https://www.city.nomi.ishikawa.jp/www/contents/1704880651820/index.html"
   ],
   [
     "災害見舞金|能美市",
@@ -7217,10 +10053,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|能美市",
-    ""
+    "（市）まち整備課@https://www.city.nomi.ishikawa.jp/www/contents/1704258556519/index.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|能美市",
+    "母子父子寡婦福祉資金の住宅資金貸付|能美市",
     ""
   ],
   [
@@ -7253,7 +10089,7 @@ export default new Map([
   ],
   [
     "小・中学生の就学援助措置|能美市",
-    ""
+    "（市）教育総務課@tel:0761-58-2270"
   ],
   [
     "大学等授業料等減免措置|能美市",
@@ -7269,11 +10105,11 @@ export default new Map([
   ],
   [
     "国民健康保険税の減免|能美市",
-    ""
+    "（市）保険年金課@tel:0761-58-2236"
   ],
   [
     "介護保険料の減免・猶予|能美市",
-    ""
+    "（市）保険年金課@tel:0761-58-2236"
   ],
   [
     "後期高齢者医療保険料の減免|能美市",
@@ -7281,7 +10117,7 @@ export default new Map([
   ],
   [
     "後期高齢者医療の一部負担金の減免・徴収猶予|能美市",
-    ""
+    "（市）保険年金課@tel:0761-58-2236"
   ],
   [
     "入院時の一部負担金の免除及び徴収猶予|能美市",
@@ -7289,7 +10125,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|能美市",
-    ""
+    "（市）まち整備課@https://www.city.nomi.ishikawa.jp/www/contents/1704253985523/index.html"
   ],
   [
     "災害弔慰金|能美市",
@@ -7297,10 +10133,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|能美市",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|能美市",
     ""
   ],
   [
@@ -7316,16 +10148,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|能美市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|能美市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|能美市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|能美市",
+    "（市）上下水道課@tel:0761-58-2260"
+  ],
+  [
+    "市税の猶予|能美市",
+    "（市）税務債権課@tel:0761-58-2206"
+  ],
+  [
+    "生活必需品を支給または貸与|能美市",
+    ""
+  ],
+  [
+    "保育料の減免|能美市",
+    "市（子育て支援課）@tel:0761-58-2232"
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|能美市",
+    ""
+  ],
+  [
+    "相談窓口|能美市",
+    "市@https://www.city.nomi.ishikawa.jp/www/contents/1705627130881/index.html"
+  ],
+  [
+    "国民健康保険一部負担金の減免|能美市",
+    "市（保険年金課）@tel:0761-58-2236"
+  ],
+  [
+    "国民年金保険料の免除|能美市",
+    "市（保険年金課）@tel:0761-58-2236"
+  ],
+  [
+    "1.5次・2次避難|能美市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|能美市",
+    ""
+  ],
+  [
     "ポータル|野々市市",
     "https://www.city.nonoichi.lg.jp/"
   ],
   [
-    "公営住宅|野々市市",
+    "市営住宅|野々市市",
+    "（市）建築住宅課@https://www.city.nonoichi.lg.jp/site/earthquake/50545.html"
+  ],
+  [
+    "県営住宅|野々市市",
     ""
   ],
   [
     "賃貸型応急住宅|野々市市",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    ""
   ],
   [
     "災害見舞金|野々市市",
@@ -7352,7 +10240,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|野々市市",
+    "母子父子寡婦福祉資金の住宅資金貸付|野々市市",
     ""
   ],
   [
@@ -7432,10 +10320,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|野々市市",
-    ""
-  ],
-  [
     "公費解体|野々市市",
     ""
   ],
@@ -7448,16 +10332,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|野々市市",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|野々市市",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|野々市市",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|野々市市",
+    ""
+  ],
+  [
+    "市税の猶予|野々市市",
+    "（市）税務課@https://www.city.nonoichi.lg.jp/site/earthquake/50730.html"
+  ],
+  [
+    "生活必需品を支給または貸与|野々市市",
+    ""
+  ],
+  [
+    "保育料の減免|野々市市",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|野々市市",
+    ""
+  ],
+  [
+    "相談窓口|野々市市",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|野々市市",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|野々市市",
+    ""
+  ],
+  [
+    "1.5次・2次避難|野々市市",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|野々市市",
+    ""
+  ],
+  [
     "ポータル|川北町",
     "http://www.town.kawakita.ishikawa.jp/"
   ],
   [
-    "公営住宅|川北町",
+    "市営住宅|川北町",
+    ""
+  ],
+  [
+    "県営住宅|川北町",
     ""
   ],
   [
     "賃貸型応急住宅|川北町",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    ""
   ],
   [
     "災害見舞金|川北町",
@@ -7484,7 +10424,7 @@ export default new Map([
     ""
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|川北町",
+    "母子父子寡婦福祉資金の住宅資金貸付|川北町",
     ""
   ],
   [
@@ -7564,10 +10504,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|川北町",
-    ""
-  ],
-  [
     "公費解体|川北町",
     ""
   ],
@@ -7580,16 +10516,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|川北町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|川北町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|川北町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|川北町",
+    ""
+  ],
+  [
+    "市税の猶予|川北町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|川北町",
+    ""
+  ],
+  [
+    "保育料の減免|川北町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|川北町",
+    ""
+  ],
+  [
+    "相談窓口|川北町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|川北町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|川北町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|川北町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|川北町",
+    ""
+  ],
+  [
     "ポータル|津幡町",
     "https://www.town.tsubata.lg.jp/"
   ],
   [
-    "公営住宅|津幡町",
+    "市営住宅|津幡町",
+    ""
+  ],
+  [
+    "県営住宅|津幡町",
     ""
   ],
   [
     "賃貸型応急住宅|津幡町",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（町）町民課@https://www.town.tsubata.lg.jp/division/choumin/W019H0000434.html"
   ],
   [
     "災害見舞金|津幡町",
@@ -7613,10 +10605,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|津幡町",
-    ""
+    "（町）都市建設課@https://www.town.tsubata.lg.jp/division/toshikensetsu/W023H0000091.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|津幡町",
+    "母子父子寡婦福祉資金の住宅資金貸付|津幡町",
     ""
   ],
   [
@@ -7685,7 +10677,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|津幡町",
-    ""
+    "（町）都市建設課@https://www.town.tsubata.lg.jp/division/toshikensetsu/zisinoukyuu.html"
   ],
   [
     "災害弔慰金|津幡町",
@@ -7696,19 +10688,67 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|津幡町",
-    ""
-  ],
-  [
     "公費解体|津幡町",
     ""
   ],
   [
     "公費解体（半壊対象）|津幡町",
-    ""
+    "（町）生活環境課@https://www.town.tsubata.lg.jp/division/seikatsukankyou/kouhikaitai.html"
   ],
   [
     "応急仮設住宅（建設型）|津幡町",
+    ""
+  ],
+  [
+    "定住促進住宅の緊急入居について|津幡町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|津幡町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|津幡町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|津幡町",
+    ""
+  ],
+  [
+    "市税の猶予|津幡町",
+    "（町）税務課@https://www.town.tsubata.lg.jp/emergency_information/W012H0000222.html"
+  ],
+  [
+    "生活必需品を支給または貸与|津幡町",
+    ""
+  ],
+  [
+    "保育料の減免|津幡町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|津幡町",
+    ""
+  ],
+  [
+    "相談窓口|津幡町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|津幡町",
+    "町（税務課）@https://www.town.tsubata.lg.jp/emergency_information/W012H0000223.html"
+  ],
+  [
+    "国民年金保険料の免除|津幡町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|津幡町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|津幡町",
     ""
   ],
   [
@@ -7716,12 +10756,16 @@ export default new Map([
     "https://www.town.uchinada.lg.jp/"
   ],
   [
-    "公営住宅|内灘町",
+    "市営住宅|内灘町",
+    ""
+  ],
+  [
+    "県営住宅|内灘町",
     ""
   ],
   [
     "賃貸型応急住宅|内灘町",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（町）企画課@https://www.town.uchinada.lg.jp/site/earthquake/15431.html"
   ],
   [
     "災害見舞金|内灘町",
@@ -7745,10 +10789,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|内灘町",
-    ""
+    "（町）地域産業振興課@https://www.town.uchinada.lg.jp/site/earthquake/15387.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|内灘町",
+    "母子父子寡婦福祉資金の住宅資金貸付|内灘町",
     ""
   ],
   [
@@ -7757,7 +10801,7 @@ export default new Map([
   ],
   [
     "教科書等の無償給与|内灘町",
-    ""
+    "（町）学校教育課@https://www.town.uchinada.lg.jp/site/earthquake/15699.html"
   ],
   [
     "特別支援学校等への就学奨励事業|内灘町",
@@ -7817,7 +10861,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|内灘町",
-    ""
+    "（町）地域産業振興課@https://www.town.uchinada.lg.jp/site/earthquake/15392.html"
   ],
   [
     "災害弔慰金|内灘町",
@@ -7828,19 +10872,67 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|内灘町",
-    ""
-  ],
-  [
     "公費解体|内灘町",
     ""
   ],
   [
     "公費解体（半壊対象）|内灘町",
-    ""
+    "（町）住民課@https://www.town.uchinada.lg.jp/site/earthquake/15712.html"
   ],
   [
     "応急仮設住宅（建設型）|内灘町",
+    ""
+  ],
+  [
+    "定住促進住宅の緊急入居について|内灘町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|内灘町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|内灘町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|内灘町",
+    "（町）上下水道課@https://www.town.uchinada.lg.jp/site/earthquake/15399.html"
+  ],
+  [
+    "市税の猶予|内灘町",
+    "（町）税務課@https://www.town.uchinada.lg.jp/site/earthquake/15608.html"
+  ],
+  [
+    "生活必需品を支給または貸与|内灘町",
+    ""
+  ],
+  [
+    "保育料の減免|内灘町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|内灘町",
+    ""
+  ],
+  [
+    "相談窓口|内灘町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|内灘町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|内灘町",
+    "町（保険年金課）@https://www.town.uchinada.lg.jp/site/earthquake/15635.html"
+  ],
+  [
+    "1.5次・2次避難|内灘町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|内灘町",
     ""
   ],
   [
@@ -7848,12 +10940,16 @@ export default new Map([
     "https://www.town.shika.lg.jp/index.html"
   ],
   [
-    "公営住宅|志賀町",
+    "市営住宅|志賀町",
+    ""
+  ],
+  [
+    "県営住宅|志賀町",
     ""
   ],
   [
     "賃貸型応急住宅|志賀町",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    ""
   ],
   [
     "災害見舞金|志賀町",
@@ -7877,10 +10973,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|志賀町",
-    ""
+    "（町）まち整備課@https://www.town.shika.lg.jp/machiseibi/kenchiku/zyutaku_kinkyusyuzen.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|志賀町",
+    "母子父子寡婦福祉資金の住宅資金貸付|志賀町",
     ""
   ],
   [
@@ -7960,10 +11056,6 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|志賀町",
-    ""
-  ],
-  [
     "公費解体|志賀町",
     ""
   ],
@@ -7976,16 +11068,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|志賀町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|志賀町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|志賀町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|志賀町",
+    ""
+  ],
+  [
+    "市税の猶予|志賀町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|志賀町",
+    ""
+  ],
+  [
+    "保育料の減免|志賀町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|志賀町",
+    ""
+  ],
+  [
+    "相談窓口|志賀町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|志賀町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|志賀町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|志賀町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|志賀町",
+    ""
+  ],
+  [
     "ポータル|宝達志水町",
     "https://www.hodatsushimizu.jp/index.html"
   ],
   [
-    "公営住宅|宝達志水町",
+    "市営住宅|宝達志水町",
+    ""
+  ],
+  [
+    "県営住宅|宝達志水町",
     ""
   ],
   [
     "賃貸型応急住宅|宝達志水町",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    ""
   ],
   [
     "災害見舞金|宝達志水町",
@@ -8005,14 +11153,14 @@ export default new Map([
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|宝達志水町",
-    ""
+    "（町）社会福祉協議会@https://www.hodatsushimizu.jp/kinkyu/6263.html"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|宝達志水町",
-    ""
+    "（町）地域整備課@https://www.hodatsushimizu.jp/kinkyu/6209.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|宝達志水町",
+    "母子父子寡婦福祉資金の住宅資金貸付|宝達志水町",
     ""
   ],
   [
@@ -8081,7 +11229,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|宝達志水町",
-    ""
+    "（町）地域整備課@https://www.hodatsushimizu.jp/kinkyu/6219.html"
   ],
   [
     "災害弔慰金|宝達志水町",
@@ -8092,12 +11240,8 @@ export default new Map([
     ""
   ],
   [
-    "入院時の一部負担金の免除及び徴収猶予|宝達志水町",
-    ""
-  ],
-  [
     "公費解体|宝達志水町",
-    ""
+    "（町）環境安全課@https://www.hodatsushimizu.jp/kinkyu/6264.html"
   ],
   [
     "公費解体（半壊対象）|宝達志水町",
@@ -8108,16 +11252,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|宝達志水町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|宝達志水町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|宝達志水町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|宝達志水町",
+    ""
+  ],
+  [
+    "市税の猶予|宝達志水町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|宝達志水町",
+    ""
+  ],
+  [
+    "保育料の減免|宝達志水町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|宝達志水町",
+    ""
+  ],
+  [
+    "相談窓口|宝達志水町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|宝達志水町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|宝達志水町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|宝達志水町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|宝達志水町",
+    ""
+  ],
+  [
     "ポータル|中能登町",
     "http://www.town.nakanoto.ishikawa.jp/"
   ],
   [
-    "公営住宅|中能登町",
+    "市営住宅|中能登町",
+    ""
+  ],
+  [
+    "県営住宅|中能登町",
     ""
   ],
   [
     "賃貸型応急住宅|中能登町",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（町）土木建設課@tel:0767-72-3921"
   ],
   [
     "災害見舞金|中能登町",
@@ -8141,10 +11341,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|中能登町",
-    ""
+    "（町）土木建設課@tel:0767-72-3921"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|中能登町",
+    "母子父子寡婦福祉資金の住宅資金貸付|中能登町",
     ""
   ],
   [
@@ -8213,7 +11413,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|中能登町",
-    ""
+    "（町）土木建設課@tel:0767-72-3921"
   ],
   [
     "災害弔慰金|中能登町",
@@ -8221,10 +11421,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|中能登町",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|中能登町",
     ""
   ],
   [
@@ -8240,16 +11436,72 @@ export default new Map([
     ""
   ],
   [
+    "定住促進住宅の緊急入居について|中能登町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|中能登町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|中能登町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|中能登町",
+    ""
+  ],
+  [
+    "市税の猶予|中能登町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|中能登町",
+    ""
+  ],
+  [
+    "保育料の減免|中能登町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|中能登町",
+    ""
+  ],
+  [
+    "相談窓口|中能登町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|中能登町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|中能登町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|中能登町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|中能登町",
+    ""
+  ],
+  [
     "ポータル|穴水町",
     "http://www.town.anamizu.ishikawa.jp/"
   ],
   [
-    "公営住宅|穴水町",
-    ""
+    "市営住宅|穴水町",
+    "（県）土木部建築住宅課@https://www.pref.ishikawa.lg.jp/kenju/r6notojishin-kengaikouei.html"
+  ],
+  [
+    "県営住宅|穴水町",
+    "（町）地域整備課@tel:0768-52-3680"
   ],
   [
     "賃貸型応急住宅|穴水町",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（町）地域整備課@https://www.town.anamizu.lg.jp/seibi/jisjin_jyutaku_oukyuujutaku.html"
   ],
   [
     "災害見舞金|穴水町",
@@ -8261,7 +11513,7 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|穴水町",
-    ""
+    "（町）住民福祉課@https://www.town.anamizu.lg.jp/juuminfukushi/hisaisyasaiken.html"
   ],
   [
     "災害援護資金貸付|穴水町",
@@ -8273,10 +11525,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|穴水町",
-    ""
+    "（町）地域整備課@https://www.town.anamizu.lg.jp/seibi/jisjin_jyutaku_kinkyusyuri.html"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|穴水町",
+    "母子父子寡婦福祉資金の住宅資金貸付|穴水町",
     ""
   ],
   [
@@ -8345,7 +11597,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|穴水町",
-    ""
+    "（町）地域整備課@https://www.town.anamizu.lg.jp/seibi/jisjin_jyutaku_oukyusyuri.html"
   ],
   [
     "災害弔慰金|穴水町",
@@ -8353,10 +11605,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|穴水町",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|穴水町",
     ""
   ],
   [
@@ -8369,6 +11617,58 @@ export default new Map([
   ],
   [
     "応急仮設住宅（建設型）|穴水町",
+    "（町）地域整備課@https://www.town.anamizu.lg.jp/seibi/jisjin_jyutaku_oukyuujutaku_2.html"
+  ],
+  [
+    "定住促進住宅の緊急入居について|穴水町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|穴水町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|穴水町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|穴水町",
+    ""
+  ],
+  [
+    "市税の猶予|穴水町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|穴水町",
+    ""
+  ],
+  [
+    "保育料の減免|穴水町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|穴水町",
+    ""
+  ],
+  [
+    "相談窓口|穴水町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|穴水町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|穴水町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|穴水町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|穴水町",
     ""
   ],
   [
@@ -8376,12 +11676,16 @@ export default new Map([
     "http://www.town.noto.lg.jp/"
   ],
   [
-    "公営住宅|能登町",
-    ""
+    "市営住宅|能登町",
+    "（町）総務課危機管理室@https://www.town.noto.lg.jp/www/bosai/detail.jsp?content_id=4&id=20912"
+  ],
+  [
+    "県営住宅|能登町",
+    "（町）建設水道課@tel:0768-62-8523"
   ],
   [
     "賃貸型応急住宅|能登町",
-    "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000149.html"
+    "（町）総務課危機管理室@https://www.town.noto.lg.jp/www/bosai/detail.jsp?content_id=4&id=20976"
   ],
   [
     "災害見舞金|能登町",
@@ -8405,10 +11709,10 @@ export default new Map([
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|能登町",
-    ""
+    "（町）建設水道課@http://www.town.noto.lg.jp/www/bosai/detail.jsp?content_id=4&id=20805"
   ],
   [
-    "母子父子寡婦福祉資金（各種貸付）|能登町",
+    "母子父子寡婦福祉資金の住宅資金貸付|能登町",
     ""
   ],
   [
@@ -8477,7 +11781,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理|能登町",
-    ""
+    "（町）建設水道課@https://www.town.noto.lg.jp/www/info/detail.jsp?common_id=20940"
   ],
   [
     "災害弔慰金|能登町",
@@ -8485,10 +11789,6 @@ export default new Map([
   ],
   [
     "災害復旧資金の貸し付け（富山県勤労者生活資金融資制度）|能登町",
-    ""
-  ],
-  [
-    "入院時の一部負担金の免除及び徴収猶予|能登町",
     ""
   ],
   [
@@ -8501,6 +11801,58 @@ export default new Map([
   ],
   [
     "応急仮設住宅（建設型）|能登町",
+    ""
+  ],
+  [
+    "定住促進住宅の緊急入居について|能登町",
+    ""
+  ],
+  [
+    "被災住宅敷地復旧補助金|能登町",
+    ""
+  ],
+  [
+    "危険ブロック塀の除去に関する補助制度|能登町",
+    ""
+  ],
+  [
+    "上下水道料金特別減免|能登町",
+    ""
+  ],
+  [
+    "市税の猶予|能登町",
+    ""
+  ],
+  [
+    "生活必需品を支給または貸与|能登町",
+    ""
+  ],
+  [
+    "保育料の減免|能登町",
+    ""
+  ],
+  [
+    "→災害支援ナビゲータに存在しない項目|能登町",
+    ""
+  ],
+  [
+    "相談窓口|能登町",
+    ""
+  ],
+  [
+    "国民健康保険一部負担金の減免|能登町",
+    ""
+  ],
+  [
+    "国民年金保険料の免除|能登町",
+    ""
+  ],
+  [
+    "1.5次・2次避難|能登町",
+    ""
+  ],
+  [
+    "地震で亡くなられた方の搬送や火葬|能登町",
     ""
   ]
 ]);
