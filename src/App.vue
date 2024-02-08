@@ -2,7 +2,7 @@
   <v-app>
     <v-app-bar app>
       <v-toolbar-title class="headline text-uppercase">
-        <span class="me-1">Code For能登半島地震</span>
+        <span class="me-1 text-subtitle-1">Code For能登半島地震</span>
         <span class="font-weight-light">災害支援ナビゲーター</span>
       </v-toolbar-title>
     </v-app-bar>
