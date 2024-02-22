@@ -45,7 +45,7 @@ export default new Map([
   ],
   [
     "恩給担保貸付",
-    "（国）（株）日本制作金融公庫　東京支店＠https://www.jfc.go.jp/n/finance/search/onkyuu.html"
+    "（国）（株）日本制作金融公庫　東京支店@https://www.jfc.go.jp/n/finance/search/onkyuu.html"
   ],
   [
     "災害臨時経費の貸付",
@@ -80,6 +80,10 @@ export default new Map([
     "https://hokuriku.rokin.or.jp/tenpo/#toyama"
   ],
   [
+    "知事見舞金",
+    "https://www.pref.toyama.jp/1900/bousaianzen/noto_jishin_shien.html#seikatu-sien"
+  ],
+  [
     "ポータル|富山市",
     "https://www.city.toyama.toyama.jp/"
   ],
@@ -105,15 +109,15 @@ export default new Map([
   ],
   [
     "住民税,固定資産税の減免|富山市",
-    ""
+    "（市）資産税課@https://www.city.toyama.lg.jp/faq/1008447/1009955/1009468.html"
   ],
   [
     "国民健康保険税の減免等|富山市",
-    ""
+    "（市）保険年金課賦課係@https://www.city.toyama.lg.jp/bosai/bosai/1010665/1014492.html#group26"
   ],
   [
     "国民健康保険の一部負担金（窓口負担）の減免・猶予|富山市",
-    ""
+    "（市）保険年金課賦課係@https://www.city.toyama.lg.jp/bosai/bosai/1010665/1014492.html#group26"
   ],
   [
     "医療機関等の受診費用免除など【石川県】|富山市",
@@ -121,15 +125,15 @@ export default new Map([
   ],
   [
     "介護保険の保険料、利用者負担額の減免等|富山市",
-    ""
+    "（市）介護保険課賦課収納係@https://www.city.toyama.lg.jp/bosai/bosai/1010665/1014492.html#group26"
   ],
   [
     "後期高齢者医療の保険料の減免|富山市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%e4%bb%a4%e5%92%8c%ef%bc%96%e5%b9%b4%e8%83%bd%e7%99%bb%e5%8d%8a%e5%b3%b6%e5%9c%b0%e9%9c%87%e3%81%ab%e4%bc%b4%e3%81%86%e7%81%bd%e5%ae%b3%e3%81%ab%e3%82%88%e3%82%8a%e8%a2%ab%e7%81%bd%e3%81%95%e3%82%8c-2/"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|富山市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87%E3%81%A7%E8%A2%AB%E7%81%BD%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%AE%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2/"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|富山市",
@@ -141,11 +145,11 @@ export default new Map([
   ],
   [
     "国民年金保険料の免除等|富山市",
-    ""
+    "（市）保険年金課国民年金係@https://www.city.toyama.lg.jp/bosai/bosai/1010665/1014492.html#group26"
   ],
   [
     "障害福祉サービス等の利用者負担金の減免|富山市",
-    ""
+    "（市）障害福祉課@https://www.city.toyama.lg.jp/bosai/bosai/1010665/1014492.html#group26"
   ],
   [
     "療養介護医療に係る利用者負担額の減免|富山市",
@@ -189,7 +193,7 @@ export default new Map([
   ],
   [
     "保育料の減免|富山市",
-    ""
+    "（市）こども保育課@https://www.city.toyama.lg.jp/bosai/bosai/1010665/1014492.html#group26"
   ],
   [
     "災害弔慰金|富山市",
@@ -197,7 +201,7 @@ export default new Map([
   ],
   [
     "市立高等学校授業料の免除|富山市",
-    ""
+    "（県）県立学校課@tel:076-444-3448"
   ],
   [
     "共同管工事助成|富山市",
@@ -233,7 +237,7 @@ export default new Map([
   ],
   [
     "公費解体|富山市",
-    ""
+    "（市）環境部環境政策課廃棄物対策係@https://www.city.toyama.lg.jp/business/shokogyo/1010605/1010606/1014643.html"
   ],
   [
     "応急仮設住宅（建設型）|富山市",
@@ -249,11 +253,11 @@ export default new Map([
   ],
   [
     "上下水道料金特別減免|富山市",
-    ""
+    "（市）上下水道局料金課@https://www.city.toyama.lg.jp/bosai/bosai/1010665/1014492.html#group25"
   ],
   [
     "生活必需品を支給または貸与|富山市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240105.html"
   ],
   [
     "軽自動車の課税保留|富山市",
@@ -261,7 +265,7 @@ export default new Map([
   ],
   [
     "給食費の減免|富山市",
-    ""
+    "（市）学校教育課@https://www.city.toyama.lg.jp/bosai/bosai/1010665/1014492.html#group14"
   ],
   [
     "義援金|富山市",
@@ -277,7 +281,7 @@ export default new Map([
   ],
   [
     "危険ブロック塀の除去に関する補助制度|富山市",
-    ""
+    "（市）環境センター管理課@https://www.city.toyama.lg.jp/bosai/bosai/1010665/1014492.html#group9"
   ],
   [
     "被災者住宅修理支援 事業|富山市",
@@ -292,7 +296,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|富山市",
+    "1.5次・2次避難（対象外）|富山市",
     ""
   ],
   [
@@ -345,11 +349,11 @@ export default new Map([
   ],
   [
     "後期高齢者医療の保険料の減免|高岡市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%e4%bb%a4%e5%92%8c%ef%bc%96%e5%b9%b4%e8%83%bd%e7%99%bb%e5%8d%8a%e5%b3%b6%e5%9c%b0%e9%9c%87%e3%81%ab%e4%bc%b4%e3%81%86%e7%81%bd%e5%ae%b3%e3%81%ab%e3%82%88%e3%82%8a%e8%a2%ab%e7%81%bd%e3%81%95%e3%82%8c-2/"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|高岡市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87%E3%81%A7%E8%A2%AB%E7%81%BD%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%AE%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2/"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|高岡市",
@@ -417,7 +421,7 @@ export default new Map([
   ],
   [
     "市立高等学校授業料の免除|高岡市",
-    ""
+    "（県）県立学校課@tel:076-444-3448"
   ],
   [
     "共同管工事助成|高岡市",
@@ -473,7 +477,7 @@ export default new Map([
   ],
   [
     "生活必需品を支給または貸与|高岡市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240105.html"
   ],
   [
     "軽自動車の課税保留|高岡市",
@@ -497,7 +501,7 @@ export default new Map([
   ],
   [
     "危険ブロック塀の除去に関する補助制度|高岡市",
-    ""
+    "（市）生活環境文化部環境政策課@https://www.city.takaoka.toyama.jp/kankyo/kurashi/gomi/notozishinhojo06.html"
   ],
   [
     "被災者住宅修理支援 事業|高岡市",
@@ -512,7 +516,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|高岡市",
+    "1.5次・2次避難（対象外）|高岡市",
     ""
   ],
   [
@@ -732,7 +736,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|魚津市",
+    "1.5次・2次避難（対象外）|魚津市",
     ""
   ],
   [
@@ -785,11 +789,11 @@ export default new Map([
   ],
   [
     "後期高齢者医療の保険料の減免|氷見市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%e4%bb%a4%e5%92%8c%ef%bc%96%e5%b9%b4%e8%83%bd%e7%99%bb%e5%8d%8a%e5%b3%b6%e5%9c%b0%e9%9c%87%e3%81%ab%e4%bc%b4%e3%81%86%e7%81%bd%e5%ae%b3%e3%81%ab%e3%82%88%e3%82%8a%e8%a2%ab%e7%81%bd%e3%81%95%e3%82%8c-2/"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|氷見市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87%E3%81%A7%E8%A2%AB%E7%81%BD%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%AE%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2/"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|氷見市",
@@ -857,7 +861,7 @@ export default new Map([
   ],
   [
     "市立高等学校授業料の免除|氷見市",
-    ""
+    "（県）県立学校課@tel:076-444-3448"
   ],
   [
     "共同管工事助成|氷見市",
@@ -893,7 +897,7 @@ export default new Map([
   ],
   [
     "公費解体|氷見市",
-    ""
+    "（市）環境防犯課@https://www.city.himi.toyama.jp/gyosei/soshiki/kankyo/1/5/9330.html"
   ],
   [
     "応急仮設住宅（建設型）|氷見市",
@@ -913,7 +917,7 @@ export default new Map([
   ],
   [
     "生活必需品を支給または貸与|氷見市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240105.html"
   ],
   [
     "軽自動車の課税保留|氷見市",
@@ -929,7 +933,7 @@ export default new Map([
   ],
   [
     "災害見舞金|氷見市",
-    ""
+    "（市）福祉介護課@https://www.city.himi.toyama.jp/gyosei/soshiki/fukushikaigoka/7/9403.html"
   ],
   [
     "被災住宅敷地復旧補助金|氷見市",
@@ -952,7 +956,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|氷見市",
+    "1.5次・2次避難（対象外）|氷見市",
     ""
   ],
   [
@@ -1005,11 +1009,11 @@ export default new Map([
   ],
   [
     "後期高齢者医療の保険料の減免|滑川市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%e4%bb%a4%e5%92%8c%ef%bc%96%e5%b9%b4%e8%83%bd%e7%99%bb%e5%8d%8a%e5%b3%b6%e5%9c%b0%e9%9c%87%e3%81%ab%e4%bc%b4%e3%81%86%e7%81%bd%e5%ae%b3%e3%81%ab%e3%82%88%e3%82%8a%e8%a2%ab%e7%81%bd%e3%81%95%e3%82%8c-2/"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|滑川市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87%E3%81%A7%E8%A2%AB%E7%81%BD%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%AE%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2/"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|滑川市",
@@ -1077,7 +1081,7 @@ export default new Map([
   ],
   [
     "市立高等学校授業料の免除|滑川市",
-    ""
+    "（県）県立学校課@tel:076-444-3448"
   ],
   [
     "共同管工事助成|滑川市",
@@ -1133,7 +1137,7 @@ export default new Map([
   ],
   [
     "生活必需品を支給または貸与|滑川市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240105.html"
   ],
   [
     "軽自動車の課税保留|滑川市",
@@ -1172,7 +1176,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|滑川市",
+    "1.5次・2次避難（対象外）|滑川市",
     ""
   ],
   [
@@ -1225,11 +1229,11 @@ export default new Map([
   ],
   [
     "後期高齢者医療の保険料の減免|黒部市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%e4%bb%a4%e5%92%8c%ef%bc%96%e5%b9%b4%e8%83%bd%e7%99%bb%e5%8d%8a%e5%b3%b6%e5%9c%b0%e9%9c%87%e3%81%ab%e4%bc%b4%e3%81%86%e7%81%bd%e5%ae%b3%e3%81%ab%e3%82%88%e3%82%8a%e8%a2%ab%e7%81%bd%e3%81%95%e3%82%8c-2/"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|黒部市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87%E3%81%A7%E8%A2%AB%E7%81%BD%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%AE%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2/"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|黒部市",
@@ -1297,7 +1301,7 @@ export default new Map([
   ],
   [
     "市立高等学校授業料の免除|黒部市",
-    ""
+    "（県）県立学校課@tel:076-444-3448"
   ],
   [
     "共同管工事助成|黒部市",
@@ -1353,7 +1357,7 @@ export default new Map([
   ],
   [
     "生活必需品を支給または貸与|黒部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240105.html"
   ],
   [
     "軽自動車の課税保留|黒部市",
@@ -1369,7 +1373,7 @@ export default new Map([
   ],
   [
     "災害見舞金|黒部市",
-    ""
+    "（市）市民福祉部 福祉課@https://www.city.kurobe.toyama.jp/news/detail.aspx?servno=36889"
   ],
   [
     "被災住宅敷地復旧補助金|黒部市",
@@ -1392,7 +1396,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|黒部市",
+    "1.5次・2次避難（対象外）|黒部市",
     ""
   ],
   [
@@ -1425,15 +1429,15 @@ export default new Map([
   ],
   [
     "住民税,固定資産税の減免|砺波市",
-    ""
+    "（市）税務課@https://www.city.tonami.lg.jp/service/66754p/"
   ],
   [
     "国民健康保険税の減免等|砺波市",
-    "（市）国保年金係@https://www.city.tonami.lg.jp/info/66890p/"
+    "（市）税務課@https://www.city.tonami.lg.jp/service/2239p/"
   ],
   [
     "国民健康保険の一部負担金（窓口負担）の減免・猶予|砺波市",
-    ""
+    "（市）国保年金係@https://www.city.tonami.lg.jp/info/66890p/"
   ],
   [
     "医療機関等の受診費用免除など【石川県】|砺波市",
@@ -1441,15 +1445,15 @@ export default new Map([
   ],
   [
     "介護保険の保険料、利用者負担額の減免等|砺波市",
-    ""
+    "（市）高齢介護課@https://www.city.tonami.lg.jp/service/67168p/"
   ],
   [
     "後期高齢者医療の保険料の減免|砺波市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%e4%bb%a4%e5%92%8c%ef%bc%96%e5%b9%b4%e8%83%bd%e7%99%bb%e5%8d%8a%e5%b3%b6%e5%9c%b0%e9%9c%87%e3%81%ab%e4%bc%b4%e3%81%86%e7%81%bd%e5%ae%b3%e3%81%ab%e3%82%88%e3%82%8a%e8%a2%ab%e7%81%bd%e3%81%95%e3%82%8c-2/"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|砺波市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87%E3%81%A7%E8%A2%AB%E7%81%BD%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%AE%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2/"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|砺波市",
@@ -1461,7 +1465,7 @@ export default new Map([
   ],
   [
     "国民年金保険料の免除等|砺波市",
-    ""
+    "（市）市民課@https://www.city.tonami.lg.jp/info/66887p/"
   ],
   [
     "障害福祉サービス等の利用者負担金の減免|砺波市",
@@ -1517,7 +1521,7 @@ export default new Map([
   ],
   [
     "市立高等学校授業料の免除|砺波市",
-    ""
+    "（県）県立学校課@tel:076-444-3448"
   ],
   [
     "共同管工事助成|砺波市",
@@ -1573,7 +1577,7 @@ export default new Map([
   ],
   [
     "生活必需品を支給または貸与|砺波市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240105.html"
   ],
   [
     "軽自動車の課税保留|砺波市",
@@ -1612,7 +1616,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|砺波市",
+    "1.5次・2次避難（対象外）|砺波市",
     ""
   ],
   [
@@ -1665,11 +1669,11 @@ export default new Map([
   ],
   [
     "後期高齢者医療の保険料の減免|小矢部市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%e4%bb%a4%e5%92%8c%ef%bc%96%e5%b9%b4%e8%83%bd%e7%99%bb%e5%8d%8a%e5%b3%b6%e5%9c%b0%e9%9c%87%e3%81%ab%e4%bc%b4%e3%81%86%e7%81%bd%e5%ae%b3%e3%81%ab%e3%82%88%e3%82%8a%e8%a2%ab%e7%81%bd%e3%81%95%e3%82%8c-2/"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|小矢部市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87%E3%81%A7%E8%A2%AB%E7%81%BD%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%AE%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2/"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|小矢部市",
@@ -1737,7 +1741,7 @@ export default new Map([
   ],
   [
     "市立高等学校授業料の免除|小矢部市",
-    ""
+    "（県）県立学校課@tel:076-444-3448"
   ],
   [
     "共同管工事助成|小矢部市",
@@ -1773,7 +1777,7 @@ export default new Map([
   ],
   [
     "公費解体|小矢部市",
-    ""
+    "生活環境課@https://www.city.oyabe.toyama.jp/kurashi/1002236/1002243/1005440/1005446.html"
   ],
   [
     "応急仮設住宅（建設型）|小矢部市",
@@ -1793,7 +1797,7 @@ export default new Map([
   ],
   [
     "生活必需品を支給または貸与|小矢部市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240105.html"
   ],
   [
     "軽自動車の課税保留|小矢部市",
@@ -1817,7 +1821,7 @@ export default new Map([
   ],
   [
     "危険ブロック塀の除去に関する補助制度|小矢部市",
-    ""
+    "（市）生活環境課@https://www.city.oyabe.toyama.jp/kurashi/1002145/1002146/1005521.html"
   ],
   [
     "被災者住宅修理支援 事業|小矢部市",
@@ -1832,7 +1836,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|小矢部市",
+    "1.5次・2次避難（対象外）|小矢部市",
     ""
   ],
   [
@@ -1885,11 +1889,11 @@ export default new Map([
   ],
   [
     "後期高齢者医療の保険料の減免|南砺市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%e4%bb%a4%e5%92%8c%ef%bc%96%e5%b9%b4%e8%83%bd%e7%99%bb%e5%8d%8a%e5%b3%b6%e5%9c%b0%e9%9c%87%e3%81%ab%e4%bc%b4%e3%81%86%e7%81%bd%e5%ae%b3%e3%81%ab%e3%82%88%e3%82%8a%e8%a2%ab%e7%81%bd%e3%81%95%e3%82%8c-2/"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|南砺市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87%E3%81%A7%E8%A2%AB%E7%81%BD%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%AE%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2/"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|南砺市",
@@ -1957,7 +1961,7 @@ export default new Map([
   ],
   [
     "市立高等学校授業料の免除|南砺市",
-    ""
+    "（県）県立学校課@tel:076-444-3448"
   ],
   [
     "共同管工事助成|南砺市",
@@ -2013,7 +2017,7 @@ export default new Map([
   ],
   [
     "生活必需品を支給または貸与|南砺市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240105.html"
   ],
   [
     "軽自動車の課税保留|南砺市",
@@ -2052,7 +2056,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|南砺市",
+    "1.5次・2次避難（対象外）|南砺市",
     ""
   ],
   [
@@ -2109,7 +2113,7 @@ export default new Map([
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|射水市",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87%E3%81%A7%E8%A2%AB%E7%81%BD%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%AE%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2/"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|射水市",
@@ -2177,7 +2181,7 @@ export default new Map([
   ],
   [
     "市立高等学校授業料の免除|射水市",
-    ""
+    "（県）県立学校課@tel:076-444-3448"
   ],
   [
     "共同管工事助成|射水市",
@@ -2233,7 +2237,7 @@ export default new Map([
   ],
   [
     "生活必需品を支給または貸与|射水市",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240105.html"
   ],
   [
     "軽自動車の課税保留|射水市",
@@ -2257,7 +2261,7 @@ export default new Map([
   ],
   [
     "危険ブロック塀の除去に関する補助制度|射水市",
-    ""
+    "（市）建築住宅課@https://www.city.imizu.toyama.jp/guide/svguidedtl.aspx?servno=48143"
   ],
   [
     "被災者住宅修理支援 事業|射水市",
@@ -2272,7 +2276,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|射水市",
+    "1.5次・2次避難（対象外）|射水市",
     ""
   ],
   [
@@ -2325,11 +2329,11 @@ export default new Map([
   ],
   [
     "後期高齢者医療の保険料の減免|舟橋村",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%e4%bb%a4%e5%92%8c%ef%bc%96%e5%b9%b4%e8%83%bd%e7%99%bb%e5%8d%8a%e5%b3%b6%e5%9c%b0%e9%9c%87%e3%81%ab%e4%bc%b4%e3%81%86%e7%81%bd%e5%ae%b3%e3%81%ab%e3%82%88%e3%82%8a%e8%a2%ab%e7%81%bd%e3%81%95%e3%82%8c-2/"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|舟橋村",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87%E3%81%A7%E8%A2%AB%E7%81%BD%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%AE%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2/"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|舟橋村",
@@ -2397,7 +2401,7 @@ export default new Map([
   ],
   [
     "市立高等学校授業料の免除|舟橋村",
-    ""
+    "（県）県立学校課@tel:076-444-3448"
   ],
   [
     "共同管工事助成|舟橋村",
@@ -2453,7 +2457,7 @@ export default new Map([
   ],
   [
     "生活必需品を支給または貸与|舟橋村",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240105.html"
   ],
   [
     "軽自動車の課税保留|舟橋村",
@@ -2492,7 +2496,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|舟橋村",
+    "1.5次・2次避難（対象外）|舟橋村",
     ""
   ],
   [
@@ -2545,11 +2549,11 @@ export default new Map([
   ],
   [
     "後期高齢者医療の保険料の減免|上市町",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%e4%bb%a4%e5%92%8c%ef%bc%96%e5%b9%b4%e8%83%bd%e7%99%bb%e5%8d%8a%e5%b3%b6%e5%9c%b0%e9%9c%87%e3%81%ab%e4%bc%b4%e3%81%86%e7%81%bd%e5%ae%b3%e3%81%ab%e3%82%88%e3%82%8a%e8%a2%ab%e7%81%bd%e3%81%95%e3%82%8c-2/"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|上市町",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87%E3%81%A7%E8%A2%AB%E7%81%BD%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%AE%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2/"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|上市町",
@@ -2617,7 +2621,7 @@ export default new Map([
   ],
   [
     "市立高等学校授業料の免除|上市町",
-    ""
+    "（県）県立学校課@tel:076-444-3448"
   ],
   [
     "共同管工事助成|上市町",
@@ -2673,7 +2677,7 @@ export default new Map([
   ],
   [
     "生活必需品を支給または貸与|上市町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240105.html"
   ],
   [
     "軽自動車の課税保留|上市町",
@@ -2712,7 +2716,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|上市町",
+    "1.5次・2次避難（対象外）|上市町",
     ""
   ],
   [
@@ -2765,11 +2769,11 @@ export default new Map([
   ],
   [
     "後期高齢者医療の保険料の減免|立山町",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%e4%bb%a4%e5%92%8c%ef%bc%96%e5%b9%b4%e8%83%bd%e7%99%bb%e5%8d%8a%e5%b3%b6%e5%9c%b0%e9%9c%87%e3%81%ab%e4%bc%b4%e3%81%86%e7%81%bd%e5%ae%b3%e3%81%ab%e3%82%88%e3%82%8a%e8%a2%ab%e7%81%bd%e3%81%95%e3%82%8c-2/"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|立山町",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87%E3%81%A7%E8%A2%AB%E7%81%BD%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%AE%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2/"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|立山町",
@@ -2837,7 +2841,7 @@ export default new Map([
   ],
   [
     "市立高等学校授業料の免除|立山町",
-    ""
+    "（県）県立学校課@tel:076-444-3448"
   ],
   [
     "共同管工事助成|立山町",
@@ -2893,7 +2897,7 @@ export default new Map([
   ],
   [
     "生活必需品を支給または貸与|立山町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240105.html"
   ],
   [
     "軽自動車の課税保留|立山町",
@@ -2932,7 +2936,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|立山町",
+    "1.5次・2次避難（対象外）|立山町",
     ""
   ],
   [
@@ -3152,7 +3156,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|入善町",
+    "1.5次・2次避難（対象外）|入善町",
     ""
   ],
   [
@@ -3205,11 +3209,11 @@ export default new Map([
   ],
   [
     "後期高齢者医療の保険料の減免|朝日町",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%e4%bb%a4%e5%92%8c%ef%bc%96%e5%b9%b4%e8%83%bd%e7%99%bb%e5%8d%8a%e5%b3%b6%e5%9c%b0%e9%9c%87%e3%81%ab%e4%bc%b4%e3%81%86%e7%81%bd%e5%ae%b3%e3%81%ab%e3%82%88%e3%82%8a%e8%a2%ab%e7%81%bd%e3%81%95%e3%82%8c-2/"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|朝日町",
-    ""
+    "（県）各市町村担当課@https://www.toyama-iryou.jp/news/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87%E3%81%A7%E8%A2%AB%E7%81%BD%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%AE%E5%8C%BB%E7%99%82%E6%A9%9F%E9%96%A2/"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|朝日町",
@@ -3277,7 +3281,7 @@ export default new Map([
   ],
   [
     "市立高等学校授業料の免除|朝日町",
-    ""
+    "（県）県立学校課@tel:076-444-3448"
   ],
   [
     "共同管工事助成|朝日町",
@@ -3333,7 +3337,7 @@ export default new Map([
   ],
   [
     "生活必需品を支給または貸与|朝日町",
-    ""
+    "（県）各市町村担当課@https://www.pref.toyama.jp/1200/bousaianzen/saigai/20240105.html"
   ],
   [
     "軽自動車の課税保留|朝日町",
@@ -3372,7 +3376,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|朝日町",
+    "1.5次・2次避難（対象外）|朝日町",
     ""
   ],
   [
@@ -3389,15 +3393,15 @@ export default new Map([
   ],
   [
     "災害援護資金貸付|新潟市",
-    "（市）福祉総務課＠https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
+    "（市）福祉総務課@https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|新潟市",
-    "（市）社会福祉協議会＠https://www.syakyo-niigatacity.or.jp/consultation/lifecapital#kinkyu"
+    "（市）社会福祉協議会@https://www.syakyo-niigatacity.or.jp/consultation/lifecapital#kinkyu"
   ],
   [
     "母子父子寡婦福祉資金の住宅資金貸付|新潟市",
-    "（市）各区健康福祉課＠https://www.city.niigata.lg.jp/kosodate/ninshin/shien/hitorioya/seikatsushien/kashitsuke.html"
+    "（市）各区健康福祉課@https://www.city.niigata.lg.jp/kosodate/ninshin/shien/hitorioya/seikatsushien/kashitsuke.html"
   ],
   [
     "教科書等の無償給与|新潟市",
@@ -3409,7 +3413,7 @@ export default new Map([
   ],
   [
     "国民健康保険税の減免等|新潟市",
-    "（市）各区区民生活課または保険年金課＠https://www.city.niigata.lg.jp/kurashi/hoken/kokuho/hokenryo/keigen_genmen/nenkingenmen.html"
+    "（市）各区区民生活課または保険年金課@https://www.city.niigata.lg.jp/kurashi/hoken/kokuho/hokenryo/keigen_genmen/nenkingenmen.html"
   ],
   [
     "国民健康保険の一部負担金（窓口負担）の減免・猶予|新潟市",
@@ -3421,19 +3425,19 @@ export default new Map([
   ],
   [
     "介護保険の保険料、利用者負担額の減免等|新潟市",
-    "（市）各区区民生活課または介護保険課＠https://www.city.niigata.lg.jp/iryo/kaigo/kaigoindex/hokenryou.html"
+    "（市）各区区民生活課または介護保険課@https://www.city.niigata.lg.jp/iryo/kaigo/kaigoindex/hokenryou.html"
   ],
   [
     "後期高齢者医療の保険料の減免|新潟市",
-    "（市）各区区民生活課または保険年金課＠https://www.city.niigata.lg.jp/kurashi/hoken/kokikorei/hokenryo.html"
+    "（市）各区区民生活課または保険年金課@https://www.city.niigata.lg.jp/kurashi/hoken/kokikorei/hokenryo.html"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|新潟市",
-    "（市）各区区民生活課または保険年金課＠https://www.city.niigata.lg.jp/kurashi/hoken/kokikorei/hokenryo.html"
+    "（市）各区区民生活課または保険年金課@https://www.city.niigata.lg.jp/kurashi/hoken/kokikorei/hokenryo.html"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|新潟市",
-    "（市）公共建築課＠https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
+    "（市）公共建築課@https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
   ],
   [
     "市税の猶予（期限延長）|新潟市",
@@ -3493,7 +3497,7 @@ export default new Map([
   ],
   [
     "災害弔慰金|新潟市",
-    "（市）福祉総務課＠https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
+    "（市）福祉総務課@https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
   ],
   [
     "市立高等学校授業料の免除|新潟市",
@@ -3505,7 +3509,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理（応急修理）|新潟市",
-    "（市）公共建築課＠https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
+    "（市）公共建築課@https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
   ],
   [
     "市営住宅|新潟市",
@@ -3517,7 +3521,7 @@ export default new Map([
   ],
   [
     "災害障害見舞金|新潟市",
-    "（市）福祉総務課＠https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
+    "（市）福祉総務課@https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
   ],
   [
     "被災者生活再建支援制度|新潟市",
@@ -3592,7 +3596,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|新潟市",
+    "1.5次・2次避難（対象外）|新潟市",
     ""
   ],
   [
@@ -3812,7 +3816,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|長岡市",
+    "1.5次・2次避難（対象外）|長岡市",
     ""
   ],
   [
@@ -4032,7 +4036,7 @@ export default new Map([
     "支援をまとめたPDF@https://www.city.sanjo.niigata.jp/kenko_fukushi/hisaishashien/17922.html"
   ],
   [
-    "1.5次・2次避難|三条市",
+    "1.5次・2次避難（対象外）|三条市",
     ""
   ],
   [
@@ -4252,7 +4256,7 @@ export default new Map([
     "支援制度一覧PDF@https://www.city.kashiwazaki.lg.jp/bosai_bohan_shobo/bosai/saigainokiroku/20240101_notohanto-earthquake/index.html"
   ],
   [
-    "1.5次・2次避難|柏崎市",
+    "1.5次・2次避難（対象外）|柏崎市",
     ""
   ],
   [
@@ -4472,7 +4476,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|新発田市",
+    "1.5次・2次避難（対象外）|新発田市",
     ""
   ],
   [
@@ -4692,7 +4696,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|小千谷市",
+    "1.5次・2次避難（対象外）|小千谷市",
     ""
   ],
   [
@@ -4912,7 +4916,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|加茂市",
+    "1.5次・2次避難（対象外）|加茂市",
     ""
   ],
   [
@@ -5132,7 +5136,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|十日町市",
+    "1.5次・2次避難（対象外）|十日町市",
     ""
   ],
   [
@@ -5352,7 +5356,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|見附市",
+    "1.5次・2次避難（対象外）|見附市",
     ""
   ],
   [
@@ -5572,7 +5576,7 @@ export default new Map([
     "（市）@https://www.city.tsubame.niigata.jp/soshiki/somu/2/14/16776.html"
   ],
   [
-    "1.5次・2次避難|村上市",
+    "1.5次・2次避難（対象外）|村上市",
     ""
   ],
   [
@@ -5792,7 +5796,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|燕市",
+    "1.5次・2次避難（対象外）|燕市",
     ""
   ],
   [
@@ -6012,7 +6016,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|糸魚川市",
+    "1.5次・2次避難（対象外）|糸魚川市",
     ""
   ],
   [
@@ -6232,7 +6236,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|妙高市",
+    "1.5次・2次避難（対象外）|妙高市",
     ""
   ],
   [
@@ -6452,7 +6456,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|五泉市",
+    "1.5次・2次避難（対象外）|五泉市",
     ""
   ],
   [
@@ -6493,7 +6497,7 @@ export default new Map([
   ],
   [
     "国民健康保険の一部負担金（窓口負担）の減免・猶予|上越市",
-    "（市）国保年金課 国保給付係@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/kokuho-genmen.html"
+    "（市）国保年金課 国保給付係@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/nenkin-saigai.html"
   ],
   [
     "医療機関等の受診費用免除など【石川県】|上越市",
@@ -6672,7 +6676,7 @@ export default new Map([
     "（市）@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/shienlist.html"
   ],
   [
-    "1.5次・2次避難|上越市",
+    "1.5次・2次避難（対象外）|上越市",
     ""
   ],
   [
@@ -6892,7 +6896,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|阿賀野市",
+    "1.5次・2次避難（対象外）|阿賀野市",
     ""
   ],
   [
@@ -7112,7 +7116,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|佐渡市",
+    "1.5次・2次避難（対象外）|佐渡市",
     ""
   ],
   [
@@ -7332,7 +7336,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|魚沼市",
+    "1.5次・2次避難（対象外）|魚沼市",
     ""
   ],
   [
@@ -7552,7 +7556,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|南魚沼市",
+    "1.5次・2次避難（対象外）|南魚沼市",
     ""
   ],
   [
@@ -7772,7 +7776,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|胎内市",
+    "1.5次・2次避難（対象外）|胎内市",
     ""
   ],
   [
@@ -7992,7 +7996,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|聖籠町",
+    "1.5次・2次避難（対象外）|聖籠町",
     ""
   ],
   [
@@ -8212,7 +8216,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|弥彦村",
+    "1.5次・2次避難（対象外）|弥彦村",
     ""
   ],
   [
@@ -8432,7 +8436,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|田上町",
+    "1.5次・2次避難（対象外）|田上町",
     ""
   ],
   [
@@ -8652,7 +8656,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|阿賀町",
+    "1.5次・2次避難（対象外）|阿賀町",
     ""
   ],
   [
@@ -8872,7 +8876,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|出雲崎町",
+    "1.5次・2次避難（対象外）|出雲崎町",
     ""
   ],
   [
@@ -9092,7 +9096,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|湯沢町",
+    "1.5次・2次避難（対象外）|湯沢町",
     ""
   ],
   [
@@ -9312,7 +9316,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|津南町",
+    "1.5次・2次避難（対象外）|津南町",
     ""
   ],
   [
@@ -9532,7 +9536,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|刈羽村",
+    "1.5次・2次避難（対象外）|刈羽村",
     ""
   ],
   [
@@ -9752,7 +9756,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|関川村",
+    "1.5次・2次避難（対象外）|関川村",
     ""
   ],
   [
@@ -9972,7 +9976,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|粟島浦村",
+    "1.5次・2次避難（対象外）|粟島浦村",
     ""
   ],
   [
@@ -10192,7 +10196,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|金沢市",
+    "1.5次・2次避難（対象外）|金沢市",
     ""
   ],
   [
@@ -10329,7 +10333,7 @@ export default new Map([
   ],
   [
     "市営住宅|七尾市",
-    "（市）建設部都市建築課@https://www.city.nanao.lg.jp/toshikenchiku/kurashi/sumai/sumai/nyukyosha/shieijuutakukinnkyuunyuukyo.html"
+    "N/A"
   ],
   [
     "賃貸型応急住宅|七尾市",
@@ -10357,11 +10361,11 @@ export default new Map([
   ],
   [
     "応急仮設住宅（建設型）|七尾市",
-    ""
+    "建設部都市建築課@https://www.city.nanao.lg.jp/toshikenchiku/oukyuukasetujuutaku.html"
   ],
   [
     "定住促進住宅の緊急入居|七尾市",
-    "（市）建設部都市建築課@https://www.city.nanao.lg.jp/toshikenchiku/kurashi/sumai/sumai/nyukyosha/teijuukinnkyuunyuukyo.html"
+    "N/A"
   ],
   [
     "県営住宅|七尾市",
@@ -10412,7 +10416,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|七尾市",
+    "1.5次・2次避難（対象外）|七尾市",
     ""
   ],
   [
@@ -10632,7 +10636,7 @@ export default new Map([
     "応急修理相談窓口@https://www.city.komatsu.lg.jp/emergency/16266.html"
   ],
   [
-    "1.5次・2次避難|小松市",
+    "1.5次・2次避難（対象外）|小松市",
     ""
   ],
   [
@@ -10852,7 +10856,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|輪島市",
+    "1.5次・2次避難（対象外）|輪島市",
     ""
   ],
   [
@@ -10889,7 +10893,7 @@ export default new Map([
   ],
   [
     "国民健康保険税の減免等|珠洲市",
-    "（市）市民課/市民相談室@https://www.city.suzu.lg.jp/soshiki/3/12076.html"
+    "（市）市民課 市民相談室@https://www.city.suzu.lg.jp/soshiki/3/12076.html"
   ],
   [
     "国民健康保険の一部負担金（窓口負担）の減免・猶予|珠洲市",
@@ -10905,7 +10909,7 @@ export default new Map([
   ],
   [
     "後期高齢者医療の保険料の減免|珠洲市",
-    "（市）市民課/市民相談室@https://www.city.suzu.lg.jp/soshiki/3/12076.html"
+    "（市）市民課 市民相談室@https://www.city.suzu.lg.jp/soshiki/3/12076.html"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|珠洲市",
@@ -11072,7 +11076,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|珠洲市",
+    "1.5次・2次避難（対象外）|珠洲市",
     "1.5次・2次避難@https://www.city.suzu.lg.jp/site/bousaisuzu/11752.html"
   ],
   [
@@ -11109,7 +11113,7 @@ export default new Map([
   ],
   [
     "国民健康保険税の減免等|加賀市",
-    ""
+    "（市）保険年金課@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/33?page_no=11778"
   ],
   [
     "国民健康保険の一部負担金（窓口負担）の減免・猶予|加賀市",
@@ -11117,7 +11121,7 @@ export default new Map([
   ],
   [
     "医療機関等の受診費用免除など【石川県】|加賀市",
-    "市（保険年金課）@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/33?page_no=11778"
+    "（市）保険年金課@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/33?page_no=11778"
   ],
   [
     "介護保険の保険料、利用者負担額の減免等|加賀市",
@@ -11141,11 +11145,11 @@ export default new Map([
   ],
   [
     "国民年金保険料の免除等|加賀市",
-    "市（保険年金課）@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/33?page_no=11778"
+    "（市）保険年金課@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/33?page_no=11778"
   ],
   [
     "障害福祉サービス等の利用者負担金の減免|加賀市",
-    ""
+    "（市）介護福祉課@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/113?page_no=11778"
   ],
   [
     "療養介護医療に係る利用者負担額の減免|加賀市",
@@ -11193,7 +11197,7 @@ export default new Map([
   ],
   [
     "災害弔慰金|加賀市",
-    ""
+    "（市）福祉政策課@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/111?page_no=11778"
   ],
   [
     "市立高等学校授業料の免除|加賀市",
@@ -11221,7 +11225,7 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|加賀市",
-    ""
+    "（市）福祉政策課@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/111?page_no=11778"
   ],
   [
     "小・中学生の就学援助措置|加賀市",
@@ -11233,7 +11237,7 @@ export default new Map([
   ],
   [
     "公費解体|加賀市",
-    ""
+    "（市）環境課生活環境グループ@https://www.city.kaga.ishikawa.jp/soshiki/sangyoshinkou/kankyo/osirase_information/11862.html"
   ],
   [
     "応急仮設住宅（建設型）|加賀市",
@@ -11292,7 +11296,7 @@ export default new Map([
     "応急修理相談窓口@https://www.city.kaga.ishikawa.jp/kinkyu/11767.html"
   ],
   [
-    "1.5次・2次避難|加賀市",
+    "1.5次・2次避難（対象外）|加賀市",
     ""
   ],
   [
@@ -11325,7 +11329,7 @@ export default new Map([
   ],
   [
     "住民税,固定資産税の減免|羽咋市",
-    ""
+    "（市）税務課@https://www.city.hakui.lg.jp/kinkyu/15108.html"
   ],
   [
     "国民健康保険税の減免等|羽咋市",
@@ -11337,7 +11341,7 @@ export default new Map([
   ],
   [
     "医療機関等の受診費用免除など【石川県】|羽咋市",
-    ""
+    "（市）市民窓口課国保年金医療係@https://www.city.hakui.lg.jp/kinkyu/14791.html"
   ],
   [
     "介護保険の保険料、利用者負担額の減免等|羽咋市",
@@ -11357,7 +11361,7 @@ export default new Map([
   ],
   [
     "市税の猶予（期限延長）|羽咋市",
-    ""
+    "（市）税務課@https://www.city.hakui.lg.jp/kinkyu/14966.html"
   ],
   [
     "国民年金保険料の免除等|羽咋市",
@@ -11441,7 +11445,7 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|羽咋市",
-    ""
+    "（市）健康福祉課援護係@https://www.city.hakui.lg.jp/kinkyu/15083.html"
   ],
   [
     "小・中学生の就学援助措置|羽咋市",
@@ -11453,7 +11457,7 @@ export default new Map([
   ],
   [
     "公費解体|羽咋市",
-    ""
+    "（市）環境安全課環境資源係@https://www.city.hakui.lg.jp/kinkyu/15133.html"
   ],
   [
     "応急仮設住宅（建設型）|羽咋市",
@@ -11469,7 +11473,7 @@ export default new Map([
   ],
   [
     "上下水道料金特別減免|羽咋市",
-    ""
+    "（市）地域整備課企業経理係@https://www.city.hakui.lg.jp/kinkyu/14859.html"
   ],
   [
     "生活必需品を支給または貸与|羽咋市",
@@ -11509,10 +11513,10 @@ export default new Map([
   ],
   [
     "相談窓口|羽咋市",
-    "市(地域整備課都市計画係)@https://www.city.hakui.lg.jp/kinkyu/14736.html"
+    "（市）地域整備課都市計画係@https://www.city.hakui.lg.jp/kinkyu/14736.html"
   ],
   [
-    "1.5次・2次避難|羽咋市",
+    "1.5次・2次避難（対象外）|羽咋市",
     ""
   ],
   [
@@ -11525,11 +11529,11 @@ export default new Map([
   ],
   [
     "児童扶養手当の支給制限解除等|かほく市",
-    "（市）こども家庭課@076-283-7155"
+    "（市）こども家庭課@tel:076-283-7155"
   ],
   [
     "災害援護資金貸付|かほく市",
-    "（市）健康福祉課@076-283-7121"
+    "（市）健康福祉課@tel:076-283-7121"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|かほく市",
@@ -11537,11 +11541,11 @@ export default new Map([
   ],
   [
     "母子父子寡婦福祉資金の住宅資金貸付|かほく市",
-    "（市）子ども総合センター@076-283-4320"
+    "（市）子ども総合センター@tel:076-283-4320"
   ],
   [
     "教科書等の無償給与|かほく市",
-    "（市）学校教育課@076-283-7136"
+    "（市）学校教育課@tel:076-283-7136"
   ],
   [
     "住民税,固定資産税の減免|かほく市",
@@ -11557,19 +11561,19 @@ export default new Map([
   ],
   [
     "医療機関等の受診費用免除など【石川県】|かほく市",
-    "市（保険医療課）@076-283-7123"
+    "（市）保険医療課@tel:076-283-7123"
   ],
   [
     "介護保険の保険料、利用者負担額の減免等|かほく市",
-    "（市）長寿介護課@076-283-7122"
+    "（市）長寿介護課@tel:076-283-7122"
   ],
   [
     "後期高齢者医療の保険料の減免|かほく市",
-    "（市）保険医療課@076-283-7123"
+    "（市）保険医療課@tel:076-283-7123"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|かほく市",
-    "（市）保険医療課@076-283-7123"
+    "（市）保険医療課@tel:076-283-7123"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|かほく市",
@@ -11577,11 +11581,11 @@ export default new Map([
   ],
   [
     "市税の猶予（期限延長）|かほく市",
-    "（市）税務課@076-283-1114"
+    "（市）税務課@tel:076-283-1114"
   ],
   [
     "国民年金保険料の免除等|かほく市",
-    "市（保険医療課）@076-283-7123"
+    "（市）保険医療課@tel:076-283-7123"
   ],
   [
     "障害福祉サービス等の利用者負担金の減免|かほく市",
@@ -11593,7 +11597,7 @@ export default new Map([
   ],
   [
     "特別児童扶養手当、特別障がい者手当、障がい児福祉手当の支給制限解除等|かほく市",
-    "（市）健康福祉課@076-283-7120"
+    "（市）健康福祉課@tel:076-283-7120"
   ],
   [
     "在宅重度重複障がい者介護見舞金支給事業の支給制限解除|かほく市",
@@ -11633,7 +11637,7 @@ export default new Map([
   ],
   [
     "災害弔慰金|かほく市",
-    "（市）健康福祉課@076-283-7121"
+    "（市）健康福祉課@tel:076-283-7121"
   ],
   [
     "市立高等学校授業料の免除|かほく市",
@@ -11657,11 +11661,11 @@ export default new Map([
   ],
   [
     "災害障害見舞金|かほく市",
-    "（市）健康福祉課@076-283-7121"
+    "（市）健康福祉課@tel:076-283-7121"
   ],
   [
     "被災者生活再建支援制度|かほく市",
-    "（市）防災環境対策課@076-283-7124"
+    "（市）防災環境対策課@tel:076-283-7124"
   ],
   [
     "小・中学生の就学援助措置|かほく市",
@@ -11732,7 +11736,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|かほく市",
+    "1.5次・2次避難（対象外）|かほく市",
     ""
   ],
   [
@@ -11765,11 +11769,11 @@ export default new Map([
   ],
   [
     "住民税,固定資産税の減免|白山市",
-    "（市）総務部資産税課@https://www.city.hakusan.lg.jp/emergency/1000063/1011792/1011793.html"
+    "（市）総務部資産税課@https://www.city.hakusan.lg.jp/emergency1/1000063/1011792/1011793.html"
   ],
   [
     "国民健康保険税の減免等|白山市",
-    ""
+    "（市）健康福祉部保険年金課@https://www.city.hakusan.lg.jp/emergency1/1000063/1011792/1011797.html"
   ],
   [
     "国民健康保険の一部負担金（窓口負担）の減免・猶予|白山市",
@@ -11781,7 +11785,7 @@ export default new Map([
   ],
   [
     "介護保険の保険料、利用者負担額の減免等|白山市",
-    "（市）長寿介護課@076-274-9529"
+    "（市）長寿介護課@https://www.city.hakusan.lg.jp/emergency1/1000063/1011792/1011800.html"
   ],
   [
     "後期高齢者医療の保険料の減免|白山市",
@@ -11789,7 +11793,7 @@ export default new Map([
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|白山市",
-    "（市）保険年金課@076-274-9521"
+    "（市）保険年金課@tel:076-274-9521"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|白山市",
@@ -11952,7 +11956,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|白山市",
+    "1.5次・2次避難（対象外）|白山市",
     ""
   ],
   [
@@ -11985,7 +11989,7 @@ export default new Map([
   ],
   [
     "住民税,固定資産税の減免|能美市",
-    ""
+    "（市）税務債権課@tel:0761-58-2206"
   ],
   [
     "国民健康保険税の減免等|能美市",
@@ -11993,11 +11997,11 @@ export default new Map([
   ],
   [
     "国民健康保険の一部負担金（窓口負担）の減免・猶予|能美市",
-    ""
+    "（市）保険年金課@tel:0761-58-2236"
   ],
   [
     "医療機関等の受診費用免除など【石川県】|能美市",
-    "市（保険年金課）@tel:0761-58-2236"
+    "（市）保険年金課@tel:0761-58-2236"
   ],
   [
     "介護保険の保険料、利用者負担額の減免等|能美市",
@@ -12021,15 +12025,15 @@ export default new Map([
   ],
   [
     "国民年金保険料の免除等|能美市",
-    "市（保険年金課）@tel:0761-58-2236"
+    "（市）保険年金課@tel:0761-58-2236"
   ],
   [
     "障害福祉サービス等の利用者負担金の減免|能美市",
-    ""
+    "（市）いきいき共生課@tel:0761-58-2233"
   ],
   [
     "療養介護医療に係る利用者負担額の減免|能美市",
-    ""
+    "（市）保険年金課@tel:0761-58-2236"
   ],
   [
     "特別児童扶養手当、特別障がい者手当、障がい児福祉手当の支給制限解除等|能美市",
@@ -12101,7 +12105,7 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|能美市",
-    ""
+    "（市）福祉課@tel:0761-58-2230"
   ],
   [
     "小・中学生の就学援助措置|能美市",
@@ -12113,7 +12117,7 @@ export default new Map([
   ],
   [
     "公費解体|能美市",
-    ""
+    "（市）生活環境課@tel:0761-58-2217"
   ],
   [
     "応急仮設住宅（建設型）|能美市",
@@ -12172,7 +12176,7 @@ export default new Map([
     "市@https://www.city.nomi.ishikawa.jp/www/contents/1705627130881/index.html"
   ],
   [
-    "1.5次・2次避難|能美市",
+    "1.5次・2次避難（対象外）|能美市",
     ""
   ],
   [
@@ -12392,7 +12396,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|野々市市",
+    "1.5次・2次避難（対象外）|野々市市",
     ""
   ],
   [
@@ -12612,7 +12616,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|川北町",
+    "1.5次・2次避難（対象外）|川北町",
     ""
   ],
   [
@@ -12657,7 +12661,7 @@ export default new Map([
   ],
   [
     "医療機関等の受診費用免除など【石川県】|津幡町",
-    "町（税務課）@https://www.town.tsubata.lg.jp/emergency_information/W012H0000223.html"
+    "（町）税務課@https://www.town.tsubata.lg.jp/emergency_information/W012H0000223.html"
   ],
   [
     "介護保険の保険料、利用者負担額の減免等|津幡町",
@@ -12832,7 +12836,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|津幡町",
+    "1.5次・2次避難（対象外）|津幡町",
     ""
   ],
   [
@@ -12981,7 +12985,7 @@ export default new Map([
   ],
   [
     "被災者生活再建支援制度|内灘町",
-    ""
+    "（市）総務課@https://www.town.uchinada.lg.jp/site/earthquake/15460.html"
   ],
   [
     "小・中学生の就学援助措置|内灘町",
@@ -13052,7 +13056,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|内灘町",
+    "1.5次・2次避難（対象外）|内灘町",
     ""
   ],
   [
@@ -13272,7 +13276,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|志賀町",
+    "1.5次・2次避難（対象外）|志賀町",
     ""
   ],
   [
@@ -13492,7 +13496,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|宝達志水町",
+    "1.5次・2次避難（対象外）|宝達志水町",
     ""
   ],
   [
@@ -13712,7 +13716,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|中能登町",
+    "1.5次・2次避難（対象外）|中能登町",
     ""
   ],
   [
@@ -13932,7 +13936,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|穴水町",
+    "1.5次・2次避難（対象外）|穴水町",
     ""
   ],
   [
@@ -14152,7 +14156,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|能登町",
+    "1.5次・2次避難（対象外）|能登町",
     ""
   ],
   [
@@ -14372,7 +14376,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|福井市",
+    "1.5次・2次避難（対象外）|福井市",
     ""
   ],
   [
@@ -14425,7 +14429,7 @@ export default new Map([
   ],
   [
     "後期高齢者医療の保険料の減免|あわら市",
-    ""
+    "（市）市民課 保険年金グループ@https://www.city.awara.lg.jp/mokuteki/health/kenkouiryou/kokikoreishairyo/p012798.html"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|あわら市",
@@ -14509,7 +14513,7 @@ export default new Map([
   ],
   [
     "市営住宅|あわら市",
-    ""
+    "（市）土木部建設課@https://www.city.awara.lg.jp/mokuteki/life/jyutaku1/p013880.html"
   ],
   [
     "賃貸型応急住宅|あわら市",
@@ -14592,7 +14596,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|あわら市",
+    "1.5次・2次避難（対象外）|あわら市",
     ""
   ],
   [
@@ -14729,7 +14733,7 @@ export default new Map([
   ],
   [
     "市営住宅|坂井市",
-    ""
+    "（市）都市計画課@https://www.city.fukui-sakai.lg.jp/toshi-keikaku/kurashi/sumai/sumai/shiei/notohanntoujisin.html"
   ],
   [
     "賃貸型応急住宅|坂井市",
@@ -14789,7 +14793,7 @@ export default new Map([
   ],
   [
     "災害見舞金|坂井市",
-    ""
+    "（市）社会福祉課@https://www.city.fukui-sakai.lg.jp/shakai-fukushi/kenko/fukushi/tiiki/saigaimimaikin.html"
   ],
   [
     "被災住宅敷地復旧補助金|坂井市",
@@ -14812,7 +14816,7 @@ export default new Map([
     ""
   ],
   [
-    "1.5次・2次避難|坂井市",
+    "1.5次・2次避難（対象外）|坂井市",
     ""
   ],
   [
