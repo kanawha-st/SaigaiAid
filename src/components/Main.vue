@@ -24,7 +24,8 @@
         />
       </transition-group>
     </v-container>
-    <h2 class="mt-4" ref="qtitle">質問</h2>
+    <hr ref="separator">
+    <h2 class="mt-14">質問</h2>
     <Q
       v-if="Question"
       @answered="onAnswered"
@@ -32,6 +33,12 @@
       v-bind:options="Question[2]"
       v-bind:option="selection"
     />
+    <div class="mt-10 mb-10" v-else>
+      <p>質問は以上です</p>
+      <p class="mt-4">少しでも前へ進む希望になればという思いをこのアプリに込めました</p>
+      <p class="mt-4">シビックテック袖ケ浦有志</p>
+      <p>令和元年房総半島台風に際し</p>
+    </div>
     <h2 class="mt-4">受けられる可能性のある支援 {{ Services.length }}</h2>
     <v-btn
       v-if="Services.length"
@@ -126,11 +133,13 @@ export default {
     },
 
     updateServices: function() {
-      this.Services = [];
+      let existing = new Set(this.Services.map((service) => service.name));
       let self = this;
       this.allServices.forEach(function(service) {
         if (self.matchCondition(service.conditions)) {
-          self.Services.unshift(Object.assign({}, service));
+          if (!existing.has(service.name)) {
+            self.Services.unshift(service);
+          }
         }
       });
 
@@ -184,7 +193,11 @@ export default {
       this.Question = this.nextQ();
       this.selection = null;
       this.updateServices();
-      this.$refs.qtitle.scrollIntoView({behavior: 'smooth'}); 
+      setTimeout(this.scroll, 100);
+    },
+    
+    scroll: function() {
+      this.$refs.separator.scrollIntoView({behavior: 'smooth'}); 
     },
 
     onRewind: function(index, scan) {
@@ -198,6 +211,7 @@ export default {
       this.answers = new Set(ans);
       this.current = scan;
       this.Question = this.allQuestions[this.current];
+      this.Services = [];
       this.updateServices();
     },
     exportToPdf:function(){
@@ -255,6 +269,7 @@ export default {
       localStorage.removeItem('QAs');
       this.QAs = [];
       this.answers = new Set();
+      this.Services = [];
       this.current = 0;
       this.Question = this.allQuestions[this.current];
       this.updateServices();
