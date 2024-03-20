@@ -197,7 +197,7 @@ export default {
     },
     
     scroll: function() {
-      this.$refs.separator.scrollIntoView({behavior: 'smooth'}); 
+      this.$refs.separator.scrollIntoView({behavior: 'smooth', block:'center'}); 
     },
 
     onRewind: function(index, scan) {
