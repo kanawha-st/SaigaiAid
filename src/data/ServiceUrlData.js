@@ -329,7 +329,7 @@ export default new Map([
   ],
   [
     "住民税,固定資産税の減免|高岡市",
-    "市（資産税課）@https://www.city.takaoka.toyama.jp/saigai/shien_taiou.html#kaoku"
+    "市（資産税課）@https://www.city.takaoka.toyama.jp/soshiki/kohohasshinka/2/3/2/1/5494.html#sizeigenmen"
   ],
   [
     "国民健康保険税の減免等|高岡市",
@@ -501,7 +501,7 @@ export default new Map([
   ],
   [
     "危険ブロック塀の除去に関する補助制度|高岡市",
-    "（市）生活環境文化部環境政策課@https://www.city.takaoka.toyama.jp/kankyo/kurashi/gomi/notozishinhojo06.html"
+    "（市）生活環境文化部環境政策課@https://www.city.takaoka.toyama.jp/soshiki/kohohasshinka/2/3/2/1/5494.html#tatemono"
   ],
   [
     "被災者住宅修理支援 事業|高岡市",
@@ -1093,7 +1093,7 @@ export default new Map([
   ],
   [
     "市営住宅|滑川市",
-    "（市）都市計画課@https://www.city.namerikawa.toyama.jp/soshiki/17/4/3/8483.html"
+    "（市）都市計画課@https://www.city.namerikawa.toyama.jp/soshiki/17/4/3/8587.html"
   ],
   [
     "賃貸型応急住宅|滑川市",
@@ -2193,7 +2193,7 @@ export default new Map([
   ],
   [
     "市営住宅|射水市",
-    "（市）都市整備部建築住宅課@https://www.city.imizu.toyama.jp/guide/svguidedtl.aspx?servno=48121"
+    "N/A"
   ],
   [
     "賃貸型応急住宅|射水市",
@@ -3393,15 +3393,15 @@ export default new Map([
   ],
   [
     "災害援護資金貸付|新潟市",
-    "（市）福祉総務課@https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
+    "（市）福祉総務課＠https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
   ],
   [
     "生活福祉資金（緊急小口資金・災害援護資金）の貸付|新潟市",
-    "（市）社会福祉協議会@https://www.syakyo-niigatacity.or.jp/consultation/lifecapital#kinkyu"
+    "（市）社会福祉協議会＠https://www.syakyo-niigatacity.or.jp/consultation/lifecapital#kinkyu"
   ],
   [
     "母子父子寡婦福祉資金の住宅資金貸付|新潟市",
-    "（市）各区健康福祉課@https://www.city.niigata.lg.jp/kosodate/ninshin/shien/hitorioya/seikatsushien/kashitsuke.html"
+    "（市）各区健康福祉課＠https://www.city.niigata.lg.jp/kosodate/ninshin/shien/hitorioya/seikatsushien/kashitsuke.html"
   ],
   [
     "教科書等の無償給与|新潟市",
@@ -3413,7 +3413,7 @@ export default new Map([
   ],
   [
     "国民健康保険税の減免等|新潟市",
-    "（市）各区区民生活課または保険年金課@https://www.city.niigata.lg.jp/kurashi/hoken/kokuho/hokenryo/keigen_genmen/nenkingenmen.html"
+    "（市）各区区民生活課または保険年金課＠https://www.city.niigata.lg.jp/kurashi/hoken/kokuho/hokenryo/keigen_genmen/nenkingenmen.html"
   ],
   [
     "国民健康保険の一部負担金（窓口負担）の減免・猶予|新潟市",
@@ -3425,19 +3425,19 @@ export default new Map([
   ],
   [
     "介護保険の保険料、利用者負担額の減免等|新潟市",
-    "（市）各区区民生活課または介護保険課@https://www.city.niigata.lg.jp/iryo/kaigo/kaigoindex/hokenryou.html"
+    "（市）各区区民生活課または介護保険課＠https://www.city.niigata.lg.jp/iryo/kaigo/kaigoindex/hokenryou.html"
   ],
   [
     "後期高齢者医療の保険料の減免|新潟市",
-    "（市）各区区民生活課または保険年金課@https://www.city.niigata.lg.jp/kurashi/hoken/kokikorei/hokenryo.html"
+    "（市）各区区民生活課または保険年金課＠https://www.city.niigata.lg.jp/kurashi/hoken/kokikorei/hokenryo.html"
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|新潟市",
-    "（市）各区区民生活課または保険年金課@https://www.city.niigata.lg.jp/kurashi/hoken/kokikorei/hokenryo.html"
+    "（市）各区区民生活課または保険年金課＠https://www.city.niigata.lg.jp/kurashi/hoken/kokikorei/hokenryo.html"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|新潟市",
-    "（市）公共建築課@https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
+    "（市）公共建築課＠https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
   ],
   [
     "市税の猶予（期限延長）|新潟市",
@@ -3497,7 +3497,7 @@ export default new Map([
   ],
   [
     "災害弔慰金|新潟市",
-    "（市）福祉総務課@https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
+    "（市）福祉総務課＠https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
   ],
   [
     "市立高等学校授業料の免除|新潟市",
@@ -3509,7 +3509,7 @@ export default new Map([
   ],
   [
     "日常生活に必要な最小限度の部分の修理（応急修理）|新潟市",
-    "（市）公共建築課@https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
+    "（市）公共建築課＠https://www.city.niigata.lg.jp/kurashi/jyutaku/kenchiku/kanri/r6notookyusyuri.html"
   ],
   [
     "市営住宅|新潟市",
@@ -3521,7 +3521,7 @@ export default new Map([
   ],
   [
     "災害障害見舞金|新潟市",
-    "（市）福祉総務課@https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
+    "（市）福祉総務課＠https://www.city.niigata.lg.jp/iryo/kenfuku/news/saigaityouikin.html"
   ],
   [
     "被災者生活再建支援制度|新潟市",
@@ -6637,7 +6637,7 @@ export default new Map([
   ],
   [
     "生活必需品を支給または貸与|上越市",
-    "（市）危機管理課 危機管理係@https://www.city.joetsu.niigata.jp/site/r6-01-01-earthquake/seikatsuhitsujuhin.html"
+    "（市）危機管理課 危機管理係@https://www.city.joetsu.niigata.jp/uploaded/attachment/246715.pdf"
   ],
   [
     "軽自動車の課税保留|上越市",
@@ -11133,7 +11133,7 @@ export default new Map([
   ],
   [
     "後期高齢者医療の一部負担金（窓口負担）の減免・徴収猶予|加賀市",
-    "（市）保険年金課@https://www.city.kaga.ishikawa.jp/cgi-bin/inquiry.php/33?page_no=11778"
+    "（市）保険年金課@https://www.city.kaga.ishikawa.jp/kinkyu/11778.html"
   ],
   [
     "住宅の被害の拡大を防止するための緊急の修理|加賀市",
@@ -11237,7 +11237,7 @@ export default new Map([
   ],
   [
     "公費解体|加賀市",
-    "（市）環境課生活環境グループ@https://www.city.kaga.ishikawa.jp/soshiki/sangyoshinkou/kankyo/osirase_information/11862.html"
+    "（市）環境課生活環境グループ@https://www.city.kaga.ishikawa.jp/soshiki/sangyoshinkou/kankyo/osirase_information/11975.html"
   ],
   [
     "応急仮設住宅（建設型）|加賀市",
@@ -11253,7 +11253,7 @@ export default new Map([
   ],
   [
     "上下水道料金特別減免|加賀市",
-    "（市）水道料金お客さまセンター@https://www.city.kaga.ishikawa.jp/kinkyu/11775.html"
+    ""
   ],
   [
     "生活必需品を支給または貸与|加賀市",
@@ -11473,7 +11473,7 @@ export default new Map([
   ],
   [
     "上下水道料金特別減免|羽咋市",
-    "（市）地域整備課企業経理係@https://www.city.hakui.lg.jp/kinkyu/14859.html"
+    "N/A"
   ],
   [
     "生活必需品を支給または貸与|羽咋市",
@@ -12241,7 +12241,7 @@ export default new Map([
   ],
   [
     "市税の猶予（期限延長）|野々市市",
-    "（市）税務課@https://www.city.nonoichi.lg.jp/site/earthquake/50730.html"
+    "（市）税務課@https://www.city.nonoichi.lg.jp/soshiki/5/22873.html"
   ],
   [
     "国民年金保険料の免除等|野々市市",
@@ -12777,7 +12777,7 @@ export default new Map([
   ],
   [
     "公費解体|津幡町",
-    "（町）生活環境課@https://www.town.tsubata.lg.jp/division/seikatsukankyou/kouhikaitai.html"
+    "（町）生活環境課@https://www.town.tsubata.lg.jp/division/seikatsukankyou/kouhi_kaitai.html"
   ],
   [
     "応急仮設住宅（建設型）|津幡町",
@@ -13881,7 +13881,7 @@ export default new Map([
   ],
   [
     "応急仮設住宅（建設型）|穴水町",
-    "（町）地域整備課@https://www.town.anamizu.lg.jp/seibi/jisjin_jyutaku_oukyuujutaku_2.html"
+    "N/A"
   ],
   [
     "定住促進住宅の緊急入居|穴水町",
